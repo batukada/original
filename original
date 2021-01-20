@@ -1,679 +1,407 @@
 #EXTM3U
-#EXTINF:0,RTS 1 FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4979
-#EXTINF:0,RTS 1 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/670712
-#EXTINF:0,RTS 2 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4978
-#EXTINF:0,RTS 2 [B] RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/10408
-#EXTINF:0,RTS 3 FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4977
-#EXTINF:0,RTS 3 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/10407
-#EXTINF:0,RTS Svet RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11046
-#EXTINF:0,N1 TV HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9392
-#EXTINF:0,N1 TV [B] RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9393
-#EXTINF:0,Nova S FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5026
-#EXTINF:0,Prva HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4991
-#EXTINF:0,Happy TV RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5044
-#EXTINF:0,Happy TV [B] RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11041
-#EXTINF:0, B92 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5072
-#EXTINF:0,B92 HD [B] RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9389
-#EXTINF:0,Studio B FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4973
-#EXTINF:0,KCN 1 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9365
-#EXTINF:0,RTV Vojvodina 1 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4976
-#EXTINF:0,RTV Vojvodina 2 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4975
-#EXTINF:0,RTV Novi Pazar RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9385
-#EXTINF:0,Belle Amie RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/629074
-#EXTINF:0,Sandzak TV RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9386
-#EXTINF:0,Jefimija TV RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/18919
-#EXTINF:0,Mlava TV RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/7888
-#EXTINF:0,RTK 2 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/680235
-#EXTINF:0,BK TV HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/674091
-#EXTINF:0,RTV Bor RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/674050
-#EXTINF:0,Palma Plus HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5022
-#EXTINF:0,Leskovac TV RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/7889
-#EXTINF:0,TV Istok RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/12386
-#EXTINF:0,------- Sportski -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683198
-#EXTINF:0,Arena Sport 1 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5465
-#EXTINF:0,Arena Sport 2 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5463
-#EXTINF:0,Arena Sport 3 FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5461
-#EXTINF:0,Arena Sport 4 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5459
-#EXTINF:0,Arena Sport 5 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5456
-#EXTINF:0,Sport Klub 1 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/625234
-#EXTINF:0,Sport Klub 2 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9407
-#EXTINF:0,Sport Klub 3 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9406
-#EXTINF:0,Sport Klub 4 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9405
-#EXTINF:0,Sport Klub 5 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9404
-#EXTINF:0,Sport Klub 6 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9403
-#EXTINF:0,Sport Klub Golf FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/685941
-#EXTINF:0,Nova Sport HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/674094
-#EXTINF:0,Eurosport 1 HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5056
-#EXTINF:0,Eurosport 2 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5055
-#EXTINF:0,Crvena Zvezda TV RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/674090
-#EXTINF:0,Partizan TV HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13221
-#EXTINF:0,SOS RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13222
-#EXTINF:0,------- Pink kanali -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683199
-#EXTINF:0,Pink HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5021
-#EXTINF:0,Pink 2 [Red TV] HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5020
-#EXTINF:0,Pink 3 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5019
-#EXTINF:0,Pink Action RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5018
-#EXTINF:0,Pink Bravo RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13348
-#EXTINF:0,Pink Classic RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9357
-#EXTINF:0,Pink Comedy RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5016
-#EXTINF:0,Pink Crime & Mystery RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5015
-#EXTINF:0,Pink Extra RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5014
-#EXTINF:0,Pink Family RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13351
-#EXTINF:0,Pink Fashion RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13350
-#EXTINF:0,Pink Film RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5011
-#EXTINF:0,Pink Folk 1 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5013
-#EXTINF:0,Pink Folk 2 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5012
-#EXTINF:0,Pink HaHa RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5010
-#EXTINF:0,Pink Hits RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5009
-#EXTINF:0,Pink Hits 2 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11027
-#EXTINF:0,Pink Horror RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5008
-#EXTINF:0,Pink Kids RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9353
-#EXTINF:0,Pink Koncert RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9350
-#EXTINF:0,Pink Kuvar RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5007
-#EXTINF:0,Pink LOL RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5006
-#EXTINF:0,Pink Movies RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9356
-#EXTINF:0,Pink Music RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9351
-#EXTINF:0,Pink Music 2 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13349
-#EXTINF:0,Pink & Roll RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9349
-#EXTINF:0,Pink Pedia RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5004
-#EXTINF:0,Pink Plus RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5003
-#EXTINF:0,Pink Premium RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5002
-#EXTINF:0,Pink Reality RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5001
-#EXTINF:0,Pink Romance RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5000
-#EXTINF:0,Pink SciFi Fantasy RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4997
-#EXTINF:0,Pink Serije RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4999
-#EXTINF:0,Pink Show RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4998
-#EXTINF:0,Pink Soap RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4996
-#EXTINF:0,Pink Style RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/16427
-#EXTINF:0,Pink Super Kids RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9352
-#EXTINF:0,Pink Thriller RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4995
-#EXTINF:0,Pink Western RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4994
-#EXTINF:0,Pink World Cinema RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9355
-#EXTINF:0,Pink World RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9354
-#EXTINF:0,Pink Zabava RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4993
-#EXTINF:0,------- Filmovi & Serije -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683200
-#EXTINF:0,RTS Drama RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/627838
-#EXTINF:0,Prva Max RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4989
-#EXTINF:0,Prva Plus RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4990
-#EXTINF:0,Prva Kick RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/23187
-#EXTINF:0,Prva World HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4988
-#EXTINF:0,Filmbox Extra FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5052
-#EXTINF:0,Film Klub RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/12395
-#EXTINF:0,Epic Drama HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13321
-#EXTINF:0,Kino TV HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/12396
-#EXTINF:0,Cinemania FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13354
-#EXTINF:0,Star TV FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683216
-#EXTINF:0,Superstar TV RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/657463
-#EXTINF:0,------- Obrazovni/Dokumentarni -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683202
-#EXTINF:0,RTS Trezor RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/627836
-#EXTINF:0,RTS Zivot RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/627835
-#EXTINF:0,Lov i Ribolov RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/686002
-#EXTINF:0,Da Vinci Learning RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/657456
-#EXTINF:0,Discovery Channel RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/657455
-#EXTINF:0,Discovery ID RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/686000
-#EXTINF:0,Discovery Science HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/686001
-#EXTINF:0,E! FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/686003
-#EXTINF:0,TV Hram RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11029
-#EXTINF:0,------- Rijaliti -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683203
-#EXTINF:0,Zadruga 1 Live RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/23183
-#EXTINF:0,Zadruga 2 Live RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/663534
-#EXTINF:0,Zadruga 3 Live RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/663535
-#EXTINF:0,Zadruga 4 Live RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/663536
-#EXTINF:0,Parovi Live 24/7 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/685975
-#EXTINF:0,------- Decji -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683204
-#EXTINF:0,Pikaboo RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/23180
-#EXTINF:0,RTS Poletarac RS 
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13328
-#EXTINF:0,Minimax RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9370
-#EXTINF:0,------- Muzicki -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683205
-#EXTINF:0,RTS Muzika RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/627837
-#EXTINF:0,RTS Kolo RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/657464
-#EXTINF:0,IDJ TV FHD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11035
-#EXTINF:0,KCN 3 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9363
-#EXTINF:0,KCN 2 RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9364
-#EXTINF:0,DM Sat RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9367
-#EXTINF:0,Grand TV RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5045
-#EXTINF:0,Grand 2 TV HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9390
-#EXTINF:0,TOP TV HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11028
-#EXTINF:0,Yu Planet TV RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/639818
-#EXTINF:0,Duga + RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/657460
-#EXTINF:0,Kafanska TV HD RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/674093
-#EXTINF:0,CityPLAY RS
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/674095
-#EXTINF:0,------- Nacionalni & lokalni -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683509
-#EXTINF:0,BHT 1 HD BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9360
-#EXTINF:0,BHT 1 BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5071
-#EXTINF:0,N1 Bosna BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/10410
-#EXTINF:0,Nova BH BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/625455
-#EXTINF:0,Pink Media BH BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683439
-#EXTINF:0,Al Jazeera Balkan BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5076
-#EXTINF:0,OBN BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5025
-#EXTINF:0,RTV Zenica BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11032
-#EXTINF:0,RTRS BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4987
-#EXTINF:0,RTRS Plus BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4986
-#EXTINF:0,Hayat HD BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5043
-#EXTINF:0,Hayat BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11050
-#EXTINF:0,Hayat Plus BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9402
-#EXTINF:0,TV USK HD BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4967
-#EXTINF:0,ATV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5075
-#EXTINF:0,BN Sat BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5069
-#EXTINF:0,BN TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5070
-#EXTINF:0,K3 Prnjavor BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/23181
-#EXTINF:0,Federalna TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5053
-#EXTINF:0,TV Sarajevo BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4966
-#EXTINF:0,Face TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5054
-#EXTINF:0,HIT Televizija BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13352
-#EXTINF:0,Super TV HD BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/12391
-#EXTINF:0,ALFA TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11449
-#EXTINF:0,TV Slon Extra BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/12393
-#EXTINF:0,TV TK Tuzla BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/12398
-#EXTINF:0,TV TK Tuzla [B] BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/23779
-#EXTINF:0,O Kanal BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5068
-#EXTINF:0,Rtv Herceg Bosne BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/684734
-#EXTINF:0,Podrinje HD BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/684733
-#EXTINF:0,B1 Gradacac FHD BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/684735
-#EXTINF:0,NTV IC Kakanj BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/685962
-#EXTINF:0,------- Sportski -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683510
-#EXTINF:0,Arena Sport HD BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/675211
-#EXTINF:0,City TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13317
-#EXTINF:0,------- Filmovi & Serije -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683511
-#EXTINF:0,Kanal 6 HD BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/12537
-#EXTINF:0,------- Dobra TV mreža -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683512
-#EXTINF:0,Dobra Balkanska HD BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/654827
-#EXTINF:0,Dobra Islamska BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/682876
-#EXTINF:0,Dobra Bosnjacka BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/654826
-#EXTINF:0,Dobra Cinema HD BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/654825
-#EXTINF:0,Dobra Exclusive HD BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/654821
-#EXTINF:0,Dobra Muzicka BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/654819
-#EXTINF:0,Dobra Nasheed HD BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/654817
-#EXTINF:0,Dobra S-Makedonija HD BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/654815
-#EXTINF:0,Dobra Sportska HD BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/654814
-#EXTINF:0,Dobra Srpska HD BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/654813
-#EXTINF:0,Dobra World Music HD BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/654812
-#EXTINF:0,Dobra Sevdah BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/663521
-#EXTINF:0,Dobra Svadba BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/663522
-#EXTINF:0,Dobra Travel BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/663523
-#EXTINF:0,------- Religiozni -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683513
-#EXTINF:0,BIR TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/638022
-#EXTINF:0,MTV Igman HD BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5038
-#EXTINF:0,Televizija 5 BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9395
-#EXTINF:0,Mekka TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9361
-#EXTINF:0,------- Decji -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683515
-#EXTINF:0,Hayatovci BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9400
-#EXTINF:0,------- Muzicki -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683516
-#EXTINF:0,BP TV HD BiH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/657469
-#EXTINF:0,BN Music BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9394
-#EXTINF:0,Hayat Folk BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5042
-#EXTINF:0,Hayat Music BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9401
-#EXTINF:0,Posavina TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4992
-#EXTINF:0,Sevdah TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9399
-#EXTINF:0,TV Sehara HD BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9398
-#EXTINF:0,Glas Drine TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/12394
-#EXTINF:0,OTV Valentino BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5023
-#EXTINF:0,Izvorna TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9376
-#EXTINF:0,Planeta TV BIH
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/635094
-#EXTINF:0,########## Hrvatska ##########
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683299
-#EXTINF:0,------- Nacionalni & lokalni -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683298
-#EXTINF:0,HRT 1 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5037
-#EXTINF:0,HRT 1 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/10416
-#EXTINF:0,HRT 2 HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5036
-#EXTINF:0,HRT 2 [B] HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/10415
-#EXTINF:0,HRT 3 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5035
-#EXTINF:0,HRT3 [B] HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/10414
-#EXTINF:0,HRT 4 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5033
-#EXTINF:0,HRT 4 HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/10413
-#EXTINF:0,HRT Int. HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/23780
-#EXTINF:0,Nova TV HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5027
-#EXTINF:0,Nova TV SD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/10411
-#EXTINF:0,N1 TV HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9391
-#EXTINF:0,RTL HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4985
-#EXTINF:0,RTL [B] HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/10412
-#EXTINF:0,RTL 2 HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4984
-#EXTINF:0,N1 Hrvatska HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5029
-#EXTINF:0,Z1 HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4964
-#EXTINF:0,TV Banovina HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9377
-#EXTINF:0,Slavonska TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11036
-#EXTINF:0,Osjecka HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5024
-#EXTINF:0,Trend TV Karlovac HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13449
-#EXTINF:0,VTV Varazdin HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13443
-#EXTINF:0,Laudato TV FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13333
-#EXTINF:0,KanalR Rijeka HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13338
-#EXTINF:0,Vinkovacka TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4965
-#EXTINF:0,Zdrava TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13334
-#EXTINF:0,Jadran TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/16425
-#EXTINF:0,Jabuka TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/16426
-#EXTINF:0,------- Sportski -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683294
-#EXTINF:0,Arena Sport 1 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5464
-#EXTINF:0,Arena Sport 2 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5462
-#EXTINF:0,Arena Sport 3 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5460
-#EXTINF:0,Arena Sport 4 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5458
-#EXTINF:0,Arena Sport 5 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/545734
-#EXTINF:0,Arena Sport 6 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9415
-#EXTINF:0,Sport Klub Start HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/635089
-#EXTINF:0,Sport Klub 1 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/53605
-#EXTINF:0,Sport Klub 2 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9413
-#EXTINF:0,Sport Klub 3 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/53166
-#EXTINF:0,Sport Klub 4 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9411
-#EXTINF:0,Sport Klub 5 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9410
-#EXTINF:0,Sport Klub 6 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9409
-#EXTINF:0,Sport Klub Golf HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/657465
-#EXTINF:0,SK eSports HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/680236
-#EXTINF:0,Planet Sport 1 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/685989
-#EXTINF:0,Planet Sport 2 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/685990
-#EXTINF:0,Planet Sport 3 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/685991
-#EXTINF:0,Planet Sport 4 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/685992
-#EXTINF:0,Planet Sport 5 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/685993
-#EXTINF:0,Fight Channel HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/25974
-#EXTINF:0,Sportska TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9416
-#EXTINF:0,Kreator TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13224
-#EXTINF:0,HNTV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11045
-#EXTINF:0,------- Filmovi & Serije -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683293
-#EXTINF:0,HBO HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5041
-#EXTINF:0,HBO 2 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5040
-#EXTINF:0,HBO 3 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5039
-#EXTINF:0,CineStar Premiere 1 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5065
-#EXTINF:0,CineStar Premiere 1 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11490
-#EXTINF:0,CineStar Premiere 2 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5064
-#EXTINF:0,CineStar Premiere 2 [B] HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11489
-#EXTINF:0,Cinestar TV 1 HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5063
-#EXTINF:0,Cinestar TV 2 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13391
-#EXTINF:0,CineStar TV Action HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5062
-#EXTINF:0,CineStar TV Fantasy HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11053
-#EXTINF:0,CineMax 1 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5067
-#EXTINF:0,Cinemax 2 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9375
-#EXTINF:0,Max Select 1 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/20035
-#EXTINF:0,Max Select 2 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/20034
-#EXTINF:0,Max Select 3 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/20033
-#EXTINF:0,Max Select 4 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/20032
-#EXTINF:0,Max Select 5 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/20031
-#EXTINF:0,Max Select 6 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/20030
-#EXTINF:0,Max Select 7 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/20029
-#EXTINF:0,Max Select 8 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/20028
-#EXTINF:0,Max Select 9 FHD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/20027
-#EXTINF:0,RTL Crime HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4983
-#EXTINF:0,RTL Passion HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4981
-#EXTINF:0,Doma TV HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/23193
-#EXTINF:0,Doma TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5057
-#EXTINF:0,AXN Adria HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5074
-#EXTINF:0,AXN Spin HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/23186
-#EXTINF:0,SciFi HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11033
-#EXTINF:0,AMC HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13226
-#EXTINF:0,TV 1000 HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9372
-#EXTINF:0,Fox HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5050
-#EXTINF:0,Fox Crime HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5049
-#EXTINF:0,Fox Life HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5048
-#EXTINF:0,Fox Movies HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5047
-#EXTINF:0,Klasik TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5032
-#EXTINF:0,Diva HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5058
-#EXTINF:0,M1 Film HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5031
-#EXTINF:0,------- Obrazovni/Dokumentarni -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683295
-#EXTINF:0,BBC Earth HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/674012
-#EXTINF:0,Doku TV HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/15448
-#EXTINF:0,DocuBox HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/23184
-#EXTINF:0,24 Kitchen HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9378
-#EXTINF:0,Animal Planet HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5077
-#EXTINF:0,Discovery Channel HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5059
-#EXTINF:0,Discovery ID HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11052
-#EXTINF:0,Crime & Investigation HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5061
-#EXTINF:0,Lov I Ribolov HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9368
-#EXTINF:0,History Channel HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9384
-#EXTINF:0,History 2 HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11044
-#EXTINF:0,National Geographic HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/5028
-#EXTINF:0,Nat Geo Wild HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11049
-#EXTINF:0,RTL Living HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4982
-#EXTINF:0,Travel Channel HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9382
-#EXTINF:0,Viasat Explorer HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9381
-#EXTINF:0,Viasat History HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9383
-#EXTINF:0,Viasat Nature HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/16421
-#EXTINF:0,E! HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9379
-#EXTINF:0,TLC HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9373
-#EXTINF:0,------- Decji -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683296
-#EXTINF:0,Nick Jr HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/8973
-#EXTINF:0,Nickelodeon HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9380
-#EXTINF:0,Baby TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11054
-#EXTINF:0,Mini TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9371
-#EXTINF:0,RTL Kockica HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/4980
-#EXTINF:0,PickBox TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/685978
-#EXTINF:0,Classic Tom And Jerry HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/657466
-#EXTINF:0,------- Muzicki -------
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/683297
-#EXTINF:0,MTV Adria HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11037
-#EXTINF:0,CMC Music HD HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/9366
-#EXTINF:0,Jugoton TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/11042
-#EXTINF:0,Narodni TV HR
-http://mytv.fun:8080/SmajlClub/smajl1smajl2/13223
+#EXTINF:-1,##### |HR| CROATIA #####
+http://rv.therevenge.co:80/9372941246/5108585674/158571
+#EXTINF:-1,|HR| HRT 1
+http://rv.therevenge.co:80/9372941246/5108585674/158570
+#EXTINF:-1,|HR| HRT 1 HD
+http://rv.therevenge.co:80/9372941246/5108585674/158569
+#EXTINF:-1,|HR| HRT 2
+http://rv.therevenge.co:80/9372941246/5108585674/158568
+#EXTINF:-1,|HR| HRT 2 HD
+http://rv.therevenge.co:80/9372941246/5108585674/158567
+#EXTINF:-1,|HR| HRT 3
+http://rv.therevenge.co:80/9372941246/5108585674/158566
+#EXTINF:-1,|HR| HRT 3 HD
+http://rv.therevenge.co:80/9372941246/5108585674/158565
+#EXTINF:-1,|HR| HRT 4
+http://rv.therevenge.co:80/9372941246/5108585674/158564
+#EXTINF:-1,|HR| HRT 4 HD
+http://rv.therevenge.co:80/9372941246/5108585674/158563
+#EXTINF:-1,|HR| HRT 5
+http://rv.therevenge.co:80/9372941246/5108585674/158562
+#EXTINF:-1,|HR| NOVA TV HD
+http://rv.therevenge.co:80/9372941246/5108585674/158561
+#EXTINF:-1,|HR| NOVA TV
+http://rv.therevenge.co:80/9372941246/5108585674/158560
+#EXTINF:-1,|HR| DOMA TV HD
+http://rv.therevenge.co:80/9372941246/5108585674/158559
+#EXTINF:-1,|HR| DOMA TV
+http://rv.therevenge.co:80/9372941246/5108585674/158558
+#EXTINF:-1,|HR| RTL HR
+http://rv.therevenge.co:80/9372941246/5108585674/158557
+#EXTINF:-1,|HR| RTL 2
+http://rv.therevenge.co:80/9372941246/5108585674/158556
+#EXTINF:-1,|HR| RTL CRIME
+http://rv.therevenge.co:80/9372941246/5108585674/158555
+#EXTINF:-1,|HR| RTL LIVING
+http://rv.therevenge.co:80/9372941246/5108585674/158554
+#EXTINF:-1,|HR| RTL PASSION
+http://rv.therevenge.co:80/9372941246/5108585674/158553
+#EXTINF:-1,|HR| N1 HR
+http://rv.therevenge.co:80/9372941246/5108585674/158552
+#EXTINF:-1,|HR| OSJECKA TV
+http://rv.therevenge.co:80/9372941246/5108585674/158551
+#EXTINF:-1,|HR| VINKOVACKA TV
+http://rv.therevenge.co:80/9372941246/5108585674/158550
+#EXTINF:-1,|HR| TV BANOVINA
+http://rv.therevenge.co:80/9372941246/5108585674/158549
+#EXTINF:-1,|HR| Z 1
+http://rv.therevenge.co:80/9372941246/5108585674/158548
+#EXTINF:-1,|HR| LAUDATO TV
+http://rv.therevenge.co:80/9372941246/5108585674/158547
+#EXTINF:-1,##### |EXYU| PINK MEDIA #####
+http://rv.therevenge.co:80/9372941246/5108585674/85347
+#EXTINF:-1,|EXYU| PINK HD
+http://rv.therevenge.co:80/9372941246/5108585674/85346
+#EXTINF:-1,|EXYU| PINK
+http://rv.therevenge.co:80/9372941246/5108585674/85345
+#EXTINF:-1,|EXYU| PINK 2
+http://rv.therevenge.co:80/9372941246/5108585674/85344
+#EXTINF:-1,|EXYU| PINK 3 INFO
+http://rv.therevenge.co:80/9372941246/5108585674/85343
+#EXTINF:-1,|EXYU| PINK ACTION
+http://rv.therevenge.co:80/9372941246/5108585674/85342
+#EXTINF:-1,|EXYU| PINK BIH
+http://rv.therevenge.co:80/9372941246/5108585674/85341
+#EXTINF:-1,|EXYU| PINK MEDIA M
+http://rv.therevenge.co:80/9372941246/5108585674/85340
+#EXTINF:-1,|EXYU| PINK CLASSIC
+http://rv.therevenge.co:80/9372941246/5108585674/85339
+#EXTINF:-1,|EXYU| PINK HAHA
+http://rv.therevenge.co:80/9372941246/5108585674/85338
+#EXTINF:-1,|EXYU| PINK LOL
+http://rv.therevenge.co:80/9372941246/5108585674/85337
+#EXTINF:-1,|EXYU| PINK COMEDY
+http://rv.therevenge.co:80/9372941246/5108585674/85336
+#EXTINF:-1,|EXYU| PINK PREMIUM
+http://rv.therevenge.co:80/9372941246/5108585674/85335
+#EXTINF:-1,|EXYU| PINK CRIME & MYSTERY
+http://rv.therevenge.co:80/9372941246/5108585674/85334
+#EXTINF:-1,|EXYU| PINK EXTRA
+http://rv.therevenge.co:80/9372941246/5108585674/85333
+#EXTINF:-1,|EXYU| PINK KUVAR
+http://rv.therevenge.co:80/9372941246/5108585674/85332
+#EXTINF:-1,|EXYU| PINK FILM
+http://rv.therevenge.co:80/9372941246/5108585674/85331
+#EXTINF:-1,|EXYU| PINK SOAP
+http://rv.therevenge.co:80/9372941246/5108585674/85330
+#EXTINF:-1,|EXYU| PINK PEDIA
+http://rv.therevenge.co:80/9372941246/5108585674/85329
+#EXTINF:-1,|EXYU| PINK SCI-FI-FANTASY
+http://rv.therevenge.co:80/9372941246/5108585674/85328
+#EXTINF:-1,|EXYU| PINK HORROR
+http://rv.therevenge.co:80/9372941246/5108585674/85327
+#EXTINF:-1,|EXYU| PINK STYLE
+http://rv.therevenge.co:80/9372941246/5108585674/85326
+#EXTINF:-1,|EXYU| PINK SHOW
+http://rv.therevenge.co:80/9372941246/5108585674/85325
+#EXTINF:-1,|EXYU| PINK THRILLER
+http://rv.therevenge.co:80/9372941246/5108585674/85324
+#EXTINF:-1,|EXYU| PINK WORLD
+http://rv.therevenge.co:80/9372941246/5108585674/85323
+#EXTINF:-1,|EXYU| PINK ZABAVA
+http://rv.therevenge.co:80/9372941246/5108585674/85322
+#EXTINF:-1,|EXYU| PINK WORLD CINEMA
+http://rv.therevenge.co:80/9372941246/5108585674/85321
+#EXTINF:-1,|EXYU| PINK WESTERN
+http://rv.therevenge.co:80/9372941246/5108585674/85320
+#EXTINF:-1,|EXYU| PINK SUPER KIDS
+http://rv.therevenge.co:80/9372941246/5108585674/85319
+#EXTINF:-1,|EXYU| PINK SERIJE
+http://rv.therevenge.co:80/9372941246/5108585674/85318
+#EXTINF:-1,|EXYU| PINK ROMANCE
+http://rv.therevenge.co:80/9372941246/5108585674/85317
+#EXTINF:-1,|EXYU| PINK REALITY
+http://rv.therevenge.co:80/9372941246/5108585674/85316
+#EXTINF:-1,|EXYU| PINK PLUS
+http://rv.therevenge.co:80/9372941246/5108585674/85315
+#EXTINF:-1,|EXYU| PINK N ROLL
+http://rv.therevenge.co:80/9372941246/5108585674/85314
+#EXTINF:-1,|EXYU| PINK MUSIC 2
+http://rv.therevenge.co:80/9372941246/5108585674/85313
+#EXTINF:-1,|EXYU| PINK MUSIC
+http://rv.therevenge.co:80/9372941246/5108585674/85312
+#EXTINF:-1,|EXYU| PINK KONCERT
+http://rv.therevenge.co:80/9372941246/5108585674/85311
+#EXTINF:-1,|EXYU| PINK KIDS
+http://rv.therevenge.co:80/9372941246/5108585674/85310
+#EXTINF:-1,|EXYU| PINK HITS 2
+http://rv.therevenge.co:80/9372941246/5108585674/85309
+#EXTINF:-1,|EXYU| PINK HITS
+http://rv.therevenge.co:80/9372941246/5108585674/85308
+#EXTINF:-1,|EXYU| PINK FOLK 2
+http://rv.therevenge.co:80/9372941246/5108585674/85307
+#EXTINF:-1,|EXYU| PINK FOLK
+http://rv.therevenge.co:80/9372941246/5108585674/85306
+#EXTINF:-1,##### |EXYU| FILMSKI KANALI #####
+http://rv.therevenge.co:80/9372941246/5108585674/85305
+#EXTINF:-1,|EXYU| HBO HD
+http://rv.therevenge.co:80/9372941246/5108585674/85304
+#EXTINF:-1,|EXYU| HBO 2 HD
+http://rv.therevenge.co:80/9372941246/5108585674/85303
+#EXTINF:-1,|EXYU| HBO 3
+http://rv.therevenge.co:80/9372941246/5108585674/85302
+#EXTINF:-1,|EXYU| EPIC DRAMA HD
+http://rv.therevenge.co:80/9372941246/5108585674/85301
+#EXTINF:-1,|EXYU| STAR TV
+http://rv.therevenge.co:80/9372941246/5108585674/85300
+#EXTINF:-1,|EXYU| TV 1000
+http://rv.therevenge.co:80/9372941246/5108585674/85299
+#EXTINF:-1,|EXYU| SUPER STAR TV TEST
+http://rv.therevenge.co:80/9372941246/5108585674/85298
+#EXTINF:-1,|EXYU| CINESTAR TV1
+http://rv.therevenge.co:80/9372941246/5108585674/85297
+#EXTINF:-1,|EXYU| CINESTAR ACTION TV
+http://rv.therevenge.co:80/9372941246/5108585674/85296
+#EXTINF:-1,|EXYU| CINESTAR FANTASY
+http://rv.therevenge.co:80/9372941246/5108585674/85295
+#EXTINF:-1,|EXYU| CINESTAR PREMIERE 1
+http://rv.therevenge.co:80/9372941246/5108585674/85294
+#EXTINF:-1,|EXYU| CINESTAR PREMIERE 2
+http://rv.therevenge.co:80/9372941246/5108585674/85293
+#EXTINF:-1,|EXYU| CINEMAX 1
+http://rv.therevenge.co:80/9372941246/5108585674/85292
+#EXTINF:-1,|EXYU| CINEMAX 2
+http://rv.therevenge.co:80/9372941246/5108585674/85291
+#EXTINF:-1,|EXYU| KLASIK TV
+http://rv.therevenge.co:80/9372941246/5108585674/85290
+#EXTINF:-1,|EXYU| M1 FILM
+http://rv.therevenge.co:80/9372941246/5108585674/85289
+#EXTINF:-1,|EXYU| M1 GOLD
+http://rv.therevenge.co:80/9372941246/5108585674/85288
+#EXTINF:-1,|EXYU| AXN ADRIA
+http://rv.therevenge.co:80/9372941246/5108585674/85287
+#EXTINF:-1,|EXYU| KINO TV
+http://rv.therevenge.co:80/9372941246/5108585674/85286
+#EXTINF:-1,|EXYU| FOX FHD
+http://rv.therevenge.co:80/9372941246/5108585674/85285
+#EXTINF:-1,|EXYU| FOX LIFE FHD
+http://rv.therevenge.co:80/9372941246/5108585674/85284
+#EXTINF:-1,|EXYU| FOX CRIME FHD
+http://rv.therevenge.co:80/9372941246/5108585674/85283
+#EXTINF:-1,|EXYU| FOX MOVIES FHD
+http://rv.therevenge.co:80/9372941246/5108585674/85282
+#EXTINF:-1,|EXYU| FOX
+http://rv.therevenge.co:80/9372941246/5108585674/85281
+#EXTINF:-1,|EXYU| FOX LIFE
+http://rv.therevenge.co:80/9372941246/5108585674/85280
+#EXTINF:-1,|EXYU| FOX CRIME
+http://rv.therevenge.co:80/9372941246/5108585674/85279
+#EXTINF:-1,|EXYU| FOX MOVIES
+http://rv.therevenge.co:80/9372941246/5108585674/85278
+#EXTINF:-1,##### |EXYU| DOKUMENTARNI #####
+http://rv.therevenge.co:80/9372941246/5108585674/85277
+#EXTINF:-1,|EXYU| AGRO HD
+http://rv.therevenge.co:80/9372941246/5108585674/85276
+#EXTINF:-1,|EXYU| ANIMAL PLANET
+http://rv.therevenge.co:80/9372941246/5108585674/85275
+#EXTINF:-1,|EXYU| ANIMAL PLANET HD
+http://rv.therevenge.co:80/9372941246/5108585674/85274
+#EXTINF:-1,|EXYU| 24 KITCHEN
+http://rv.therevenge.co:80/9372941246/5108585674/85273
+#EXTINF:-1,|EXYU| DISCOVERY
+http://rv.therevenge.co:80/9372941246/5108585674/85272
+#EXTINF:-1,|EXYU| DISCOVERY HD
+http://rv.therevenge.co:80/9372941246/5108585674/85271
+#EXTINF:-1,|EXYU| DISCOVERY ID
+http://rv.therevenge.co:80/9372941246/5108585674/85270
+#EXTINF:-1,|EXYU| DISCOVERY ID XTRA  HD
+http://rv.therevenge.co:80/9372941246/5108585674/85269
+#EXTINF:-1,|EXYU| TRAVEL XP HD
+http://rv.therevenge.co:80/9372941246/5108585674/85268
+#EXTINF:-1,|EXYU| DA VINCI LEARNING
+http://rv.therevenge.co:80/9372941246/5108585674/85267
+#EXTINF:-1,|EXYU| DISCOVERY SCIENCE
+http://rv.therevenge.co:80/9372941246/5108585674/85266
+#EXTINF:-1,|EXYU| CRIME INVESTIGATION
+http://rv.therevenge.co:80/9372941246/5108585674/85265
+#EXTINF:-1,|EXYU| CBS REALITY
+http://rv.therevenge.co:80/9372941246/5108585674/85264
+#EXTINF:-1,|EXYU| TLC
+http://rv.therevenge.co:80/9372941246/5108585674/85263
+#EXTINF:-1,|EXYU| E!
+http://rv.therevenge.co:80/9372941246/5108585674/85262
+#EXTINF:-1,|EXYU| DOKU TV
+http://rv.therevenge.co:80/9372941246/5108585674/85261
+#EXTINF:-1,|EXYU| TRAVEL  CHANNEL
+http://rv.therevenge.co:80/9372941246/5108585674/85260
+#EXTINF:-1,|EXYU| FINE LIVING
+http://rv.therevenge.co:80/9372941246/5108585674/85259
+#EXTINF:-1,|EXYU| DOCUBOX
+http://rv.therevenge.co:80/9372941246/5108585674/85258
+#EXTINF:-1,|EXYU| VIASAT NATURE
+http://rv.therevenge.co:80/9372941246/5108585674/85257
+#EXTINF:-1,|EXYU| VIASAT HISTORY
+http://rv.therevenge.co:80/9372941246/5108585674/85256
+#EXTINF:-1,|EXYU| VIASAT EXPLORER
+http://rv.therevenge.co:80/9372941246/5108585674/85255
+#EXTINF:-1,|EXYU| NATIONAL GEOGRAPHIC WILD
+http://rv.therevenge.co:80/9372941246/5108585674/85254
+#EXTINF:-1,|EXYU| NATIONAL GEOGRAPHIC HD
+http://rv.therevenge.co:80/9372941246/5108585674/85253
+#EXTINF:-1,|EXYU| NATIONAL GEOGRAPHIC
+http://rv.therevenge.co:80/9372941246/5108585674/85252
+#EXTINF:-1,|EXYU| NAT GEO WILD HD
+http://rv.therevenge.co:80/9372941246/5108585674/85251
+#EXTINF:-1,|EXYU| LOV I RIBOLOV HD
+http://rv.therevenge.co:80/9372941246/5108585674/85250
+#EXTINF:-1,|EXYU| HISTORY HD
+http://rv.therevenge.co:80/9372941246/5108585674/85249
+#EXTINF:-1,|EXYU| HISTORY 2 HD
+http://rv.therevenge.co:80/9372941246/5108585674/85248
+#EXTINF:-1,|EXYU| HISTORY 2
+http://rv.therevenge.co:80/9372941246/5108585674/85247
+#EXTINF:-1,|EXYU| HISTORY
+http://rv.therevenge.co:80/9372941246/5108585674/85246
+#EXTINF:-1,|EXYU| FOOD NETWORK
+http://rv.therevenge.co:80/9372941246/5108585674/85245
+#EXTINF:-1,##### |EXYU| DJECIJI KANALI #####
+http://rv.therevenge.co:80/9372941246/5108585674/85244
+#EXTINF:-1,|EXYU| KANAL 5
+http://rv.therevenge.co:80/9372941246/5108585674/87201
+#EXTINF:-1,|EXYU| SITEL
+http://rv.therevenge.co:80/9372941246/5108585674/87200
+#EXTINF:-1,|EXYU| IDJ KIDS
+http://rv.therevenge.co:80/9372941246/5108585674/85243
+#EXTINF:-1,|EXYU| MASA I MEDO
+http://rv.therevenge.co:80/9372941246/5108585674/85242
+#EXTINF:-1,|EXYU| TOM & JERRY
+http://rv.therevenge.co:80/9372941246/5108585674/85241
+#EXTINF:-1,|EXYU| HAYATOVCI
+http://rv.therevenge.co:80/9372941246/5108585674/85240
+#EXTINF:-1,|EXYU| RTV PODRINJE
+http://rv.therevenge.co:80/9372941246/5108585674/85239
+#EXTINF:-1,|EXYU| TNT KIDS
+http://rv.therevenge.co:80/9372941246/5108585674/85238
+#EXTINF:-1,|EXYU| RTL KOCKICA
+http://rv.therevenge.co:80/9372941246/5108585674/85237
+#EXTINF:-1,|EXYU| MINI TV
+http://rv.therevenge.co:80/9372941246/5108585674/85236
+#EXTINF:-1,|EXYU| MINIMAX
+http://rv.therevenge.co:80/9372941246/5108585674/85235
+#EXTINF:-1,|EXYU| PIKABOO
+http://rv.therevenge.co:80/9372941246/5108585674/85234
+#EXTINF:-1,|EXYU| NICKELODEON SR
+http://rv.therevenge.co:80/9372941246/5108585674/85233
+#EXTINF:-1,|EXYU| NICKELODEON HR
+http://rv.therevenge.co:80/9372941246/5108585674/85232
+#EXTINF:-1,|EXYU| NICK JR SR
+http://rv.therevenge.co:80/9372941246/5108585674/85231
+#EXTINF:-1,|EXYU| NICK JR HR
+http://rv.therevenge.co:80/9372941246/5108585674/85230
+#EXTINF:-1,|EXYU| BABY TV
+http://rv.therevenge.co:80/9372941246/5108585674/85229
+#EXTINF:-1,##### |EXYU| MUZICKI KANALI #####
+http://rv.therevenge.co:80/9372941246/5108585674/85228
+#EXTINF:-1,|EXYU| HAYAT  MUSIC
+http://rv.therevenge.co:80/9372941246/5108585674/85227
+#EXTINF:-1,|EXYU| HAYAT  FOLK
+http://rv.therevenge.co:80/9372941246/5108585674/85226
+#EXTINF:-1,|EXYU| GRAND 2
+http://rv.therevenge.co:80/9372941246/5108585674/85225
+#EXTINF:-1,|EXYU| GRAND
+http://rv.therevenge.co:80/9372941246/5108585674/85224
+#EXTINF:-1,|EXYU| BUJRUM TV
+http://rv.therevenge.co:80/9372941246/5108585674/85223
+#EXTINF:-1,|EXYU| IDJ TV
+http://rv.therevenge.co:80/9372941246/5108585674/85222
+#EXTINF:-1,|EXYU| IDJ MUSIC
+http://rv.therevenge.co:80/9372941246/5108585674/85221
+#EXTINF:-1,|EXYU| DM SAT
+http://rv.therevenge.co:80/9372941246/5108585674/85220
+#EXTINF:-1,|EXYU| BALKANIKA TV
+http://rv.therevenge.co:80/9372941246/5108585674/85219
+#EXTINF:-1,|EXYU| BN MUSIC
+http://rv.therevenge.co:80/9372941246/5108585674/85218
+#EXTINF:-1,|EXYU| CMC MUSIC
+http://rv.therevenge.co:80/9372941246/5108585674/85217
+#EXTINF:-1,|EXYU| JUGOTON
+http://rv.therevenge.co:80/9372941246/5108585674/85216
+#EXTINF:-1,|EXYU| IZVORNA TV
+http://rv.therevenge.co:80/9372941246/5108585674/85215
+#EXTINF:-1,|EXYU| SEVDAH TV
+http://rv.therevenge.co:80/9372941246/5108585674/85214
+#EXTINF:-1,|EXYU| GLAS DRINE
+http://rv.therevenge.co:80/9372941246/5108585674/85213
+#EXTINF:-1,|EXYU| YU PLANET
+http://rv.therevenge.co:80/9372941246/5108585674/85212
+#EXTINF:-1,|EXYU| DUGA TV
+http://rv.therevenge.co:80/9372941246/5108585674/85211
+#EXTINF:-1,|EXYU| MTV
+http://rv.therevenge.co:80/9372941246/5108585674/85210
+#EXTINF:-1,|EXYU| SOS (SR)
+http://rv.therevenge.co:80/9372941246/5108585674/85209
+#EXTINF:-1,|EXYU| TV PARTIZAN HD (SR)
+http://rv.therevenge.co:80/9372941246/5108585674/85208
+#EXTINF:-1,|EXYU| HNTV (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85207
+#EXTINF:-1,|EXYU| SPORTSKA TV (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85206
+#EXTINF:-1,|EXYU| MOJA TV (BH)
+http://rv.therevenge.co:80/9372941246/5108585674/85205
+#EXTINF:-1,|EXYU| CITY TV (BH)
+http://rv.therevenge.co:80/9372941246/5108585674/85204
+#EXTINF:-1,|EXYU| NOVA SPORT
+http://rv.therevenge.co:80/9372941246/5108585674/85203
+#EXTINF:-1,|EXYU| SPORTKLUB HD
+http://rv.therevenge.co:80/9372941246/5108585674/85202
+#EXTINF:-1,|EXYU| SPORTKLUB 1 HD (SR)
+http://rv.therevenge.co:80/9372941246/5108585674/85201
+#EXTINF:-1,|EXYU| SPORTKLUB 2 HD (SR)
+http://rv.therevenge.co:80/9372941246/5108585674/85200
+#EXTINF:-1,|EXYU| SPORTKLUB 3 HD (SR)
+http://rv.therevenge.co:80/9372941246/5108585674/85199
+#EXTINF:-1,|EXYU| SPORT KLUB 1(HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85198
+#EXTINF:-1,|EXYU| SPORT KLUB 2 (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85197
+#EXTINF:-1,|EXYU| SPORT KLUB 3 (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85196
+#EXTINF:-1,|EXYU| SPORT KLUB 4 (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85195
+#EXTINF:-1,|EXYU| SPORT KLUB 5 (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85194
+#EXTINF:-1,|EXYU| SPORT KLUB 6 (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85193
+#EXTINF:-1,|EXYU| SPORT KLUB 7 (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85192
+#EXTINF:-1,|EXYU| SPORT KLUB 8 (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85191
+#EXTINF:-1,|EXYU| SPORT KLUB 9 (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85190
+#EXTINF:-1,|EXYU| SPORT KLUB 10 (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85189
+#EXTINF:-1,|EXYU| ARENA SPORT 1 BIH
+http://rv.therevenge.co:80/9372941246/5108585674/85188
+#EXTINF:-1,|EXYU| ARENA SPORT 1 HD (SR)
+http://rv.therevenge.co:80/9372941246/5108585674/85187
+#EXTINF:-1,|EXYU| ARENA SPORT 2 HD (SR)
+http://rv.therevenge.co:80/9372941246/5108585674/85186
+#EXTINF:-1,|EXYU| ARENA SPORT 3 HD (SR)
+http://rv.therevenge.co:80/9372941246/5108585674/85185
+#EXTINF:-1,|EXYU| ARENA SPORT 4 HD (SR)
+http://rv.therevenge.co:80/9372941246/5108585674/85184
+#EXTINF:-1,|EXYU| ARENA SPORT 1 HD (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85183
+#EXTINF:-1,|EXYU| ARENA SPORT 2 HD (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85182
+#EXTINF:-1,|EXYU| ARENA SPORT 3 HD (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85181
+#EXTINF:-1,|EXYU| ARENA SPORT 4 HD (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85180
+#EXTINF:-1,|EXYU| ARENA SPORT 5 HD (HR)
+http://rv.therevenge.co:80/9372941246/5108585674/85179
+#EXTINF:-1,|EXYU| EUROSPORT 1 HD
+http://rv.therevenge.co:80/9372941246/5108585674/85178
+#EXTINF:-1,|EXYU| EUROSPORT 2 HD
+http://rv.therevenge.co:80/9372941246/5108585674/85177
+#EXTINF:-1,|EXYU| FIGHT NETWORK
+http://rv.therevenge.co:80/9372941246/5108585674/85176
+#EXTINF:-1,|EXYU| FIGHTBOX
+http://rv.therevenge.co:80/9372941246/5108585674/85175
+#EXTINF:-1,|EXYU| PLANETSPORT 1
+http://rv.therevenge.co:80/9372941246/5108585674/85174
+#EXTINF:-1,|EXYU| PLANETSPORT 2
+http://rv.therevenge.co:80/9372941246/5108585674/85173
+#EXTINF:-1,|EXYU| PLANETSPORT 3
+http://rv.therevenge.co:80/9372941246/5108585674/85172
