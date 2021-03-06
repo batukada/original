@@ -280,6 +280,14 @@ http://sunatvpro.net:25461/xMdQDniTERdB/7nEnEw5R8REFNcL/96950
 http://sunatvpro.net:25461/xMdQDniTERdB/7nEnEw5R8REFNcL/96951
 #EXTINF:-1 ,EXYU: BABY TV
 http://sunatvpro.net:25461/xMdQDniTERdB/7nEnEw5R8REFNcL/96952
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr HD UK" tvg-logo="http://pici.life/UK/nickjr.png" group-title="United Kingdom",Nick Jr HD UK
+http://mytv.fun:8080/kemal100/fkcjkrj77/15806
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr Peppa FHD UK" tvg-logo="http://pici.life/logo.png" group-title="United Kingdom",Nick Jr Peppa FHD UK
+http://mytv.fun:8080/kemal100/fkcjkrj77/683407
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon FHD VIP UK" tvg-logo="http://pici.life/UK/nickelodeon.png" group-title="United Kingdom",Nickelodeon FHD VIP UK
+http://mytv.fun:8080/kemal100/fkcjkrj77/6572
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nicktoons UK" tvg-logo="http://pici.life/UK/nicktoons.png" group-title="United Kingdom",Nicktoons UK
+http://mytv.fun:8080/kemal100/fkcjkrj77/6570
 #EXTINF:-1 ,===== EXYU: MUZICKI KANALI =====
 http://sunatvpro.net:25461/xMdQDniTERdB/7nEnEw5R8REFNcL/96953
 #EXTINF:-1 ,EXYU: HAYAT  MUSIC
