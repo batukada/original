@@ -1,4 +1,38 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nickhduk.jpg",Nick HD UK
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/16719
+#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nickjrplus1.jpg",Nick Jr. +1 UK
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/14829
+#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nickjrpeppauk.jpg",Nick Jr. Peppa UK
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/14828
+#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg",Nick Jr. UK
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/2669
+#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg",Nickelodeon UK
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/14825
+#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg",NickToons UK
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/14824
+#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/noortv.jpg",Noor TV UK
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/15025
+#EXTINF:-1 group-title="Live: ex-Yu Countries" tvg-logo="https://picon-13398.kxcdn.com/pinkkidsexyu.jpg",Pink Kids RS
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/2047
+#EXTINF:-1 group-title="Live: ex-Yu Countries" tvg-logo="https://picon-13398.kxcdn.com/pinksuperkidsexyu.jpg",Pink Super Kids RS
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/13761
+#EXTINF:-1 group-title="Live: ex-Yu Countries" tvg-logo="https://picon-13398.kxcdn.com/pinkshowrs.jpg",Pink Show RS
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/20141
+#EXTINF:-1 group-title="Live: ex-Yu Countries" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg",Baby TV RS
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/13812
+#EXTINF:-1 group-title="Live: ex-Yu Countries" tvg-logo="https://picon-13398.kxcdn.com/minitvexyu.jpg",Mini TV RS
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/6565
+#EXTINF:-1 group-title="Live: ex-Yu Countries" tvg-logo="https://picon-13398.kxcdn.com/minimax.jpg",Minimax RS
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/6564
+#EXTINF:-1 group-title="Live: ex-Yu Countries" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg",Nickelodeon HR
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/6083
+#EXTINF:-1 group-title="Live: ex-Yu Countries" tvg-logo="https://picon-13398.kxcdn.com/rtlkockicahrexyu.jpg",RTL Kockica HR
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/3167
+#EXTINF:-1 group-title="Live: ex-Yu Countries" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg",Nick Jr. HR
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/17922
+#EXTINF:-1 group-title="Live: ex-Yu Countries" tvg-logo="https://picon-13398.kxcdn.com/pikaboors.jpg",Pikaboo RS
+http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/24143
 #EXTINF:-1 group-title="Live: Macedonia" tvg-logo="https://picon-13398.kxcdn.com/macedonia.jpg",? Macedonia [MK] ?
 http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/16524
 #EXTINF:-1 group-title="Live: Macedonia" tvg-logo="https://picon-13398.kxcdn.com/24vestimk.jpg",24 Vesti MK
