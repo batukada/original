@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,Nickelodeon HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
 #EXTINF:-1 ,HR- HRT 1 HD
 http://linux-app.tv:8080/76432567009/wRKg4eYJSb/21430
 #EXTINF:-1 ,HR- HRT 2 HD
