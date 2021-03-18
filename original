@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nickhduk.jpg",Nick HD UK
-http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/16719
-#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nickjrplus1.jpg",Nick Jr. +1 UK
-http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/14829
-#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nickjrpeppauk.jpg",Nick Jr. Peppa UK
-http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/14828
-#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg",Nick Jr. UK
-http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/2669
-#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg",Nickelodeon UK
-http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/14825
-#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg",NickToons UK
-http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/14824
-#EXTINF:-1 group-title="Live: United Kingdom" tvg-logo="https://picon-13398.kxcdn.com/noortv.jpg",Noor TV UK
-http://tv.sbcommunications.xdns.pro:80/gyYe7Em34S/gMIruktd9G/15025
 #EXTINF:-1 ,HR- HRT 1 HD
 http://linux-app.tv:8080/76432567009/wRKg4eYJSb/21430
 #EXTINF:-1 ,HR- HRT 2 HD
