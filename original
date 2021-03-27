@@ -1,6 +1,42 @@
 #EXTM3U url-tvg=""
 #EXTINF:0,Nickelodeon HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/06/nick_jr_384x216.png",NICK JR
+http://client.nodomain.vip:80/live.ts?channelId=358&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",¦¯_¯_¯KIDS ¯_¯_¯¦
+http://client.nodomain.vip:80/live.ts?channelId=1128&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS
+http://client.nodomain.vip:80/live.ts?channelId=125&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS MIX 1
+http://client.nodomain.vip:80/live.ts?channelId=282&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS MIX 2
+http://client.nodomain.vip:80/live.ts?channelId=283&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/04/boomerang_384x216.png",BOOMERANG
+http://client.nodomain.vip:80/live.ts?channelId=1169&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hayatovci-logo.png",HAYATOVCI
+http://client.nodomain.vip:80/live.ts?channelId=109&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",IDJ KIDS
+http://client.nodomain.vip:80/live.ts?channelId=1868&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MAXCRO SELECT KIDS HD
+http://client.nodomain.vip:80/live.ts?channelId=1670&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MAXCRO SELECT KIDS 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1671&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MASA I MEDO
+http://client.nodomain.vip:80/live.ts?channelId=1386&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/53/53/minimax_384x216.png",MINIMAX
+http://client.nodomain.vip:80/live.ts?channelId=1168&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/06/nick_jr_384x216.png",NICK JR
+http://client.nodomain.vip:80/live.ts?channelId=358&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2018/04/16/14/06/39/384x216.png",NICKELODEON
+http://client.nodomain.vip:80/live.ts?channelId=94&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",PEPPA PIG
+http://client.nodomain.vip:80/live.ts?channelId=1869&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/12/01/18/38/39/pikaboo_384x216.png",PIKABOO
+http://client.nodomain.vip:80/live.ts?channelId=1393&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",TOM AND DZERY 24h
+http://client.nodomain.vip:80/live.ts?channelId=305&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",VAWOM TV
+http://client.nodomain.vip:80/live.ts?channelId=1467&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
 #EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1" tvg-logo="http://rexshx.com:25461/picons/hr/hrt1.png" group-title="Hrvatska",HRT 1
 http://31.220.0.89:25461/Kodi/Srbija/661
 #EXTINF:-1 tvg-id="HTV2" tvg-name="HRT 2" tvg-logo="http://rexshx.com:25461/picons/hr/hrt2.png" group-title="Hrvatska",HRT 2
