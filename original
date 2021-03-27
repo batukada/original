@@ -1,647 +1,292 @@
 #EXTM3U url-tvg=""
 #EXTINF:0,Nickelodeon HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 1 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv1.jpg" group-title="EX-YU NEOTEL",HRT 1 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1455
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 2 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv2.jpg" group-title="EX-YU NEOTEL",HRT 2 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1456
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 3 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv3.jpg" group-title="EX-YU NEOTEL",HRT 3 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 4 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv4.jpg" group-title="EX-YU NEOTEL",HRT 4 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13795
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova TV HR" tvg-logo="https://picon-13398.kxcdn.com/novatvexyu.jpg" group-title="EX-YU NEOTEL",Nova TV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1457
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL HR" tvg-logo="https://picon-13398.kxcdn.com/rtlhrexyu.jpg" group-title="EX-YU NEOTEL",RTL HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1461
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 2 HR" tvg-logo="https://picon-13398.kxcdn.com/rtl2hrexyu.jpg" group-title="EX-YU NEOTEL",RTL 2 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3166
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Crime HR" tvg-logo="https://picon-13398.kxcdn.com/rtlcrimehrexyu.jpg" group-title="EX-YU NEOTEL",RTL Crime HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13815
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Passion HR" tvg-logo="https://picon-13398.kxcdn.com/rtlpassionhrexyu.jpg" group-title="EX-YU NEOTEL",RTL Passion HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/11274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Kitchen HR" tvg-logo="https://picon-13398.kxcdn.com/24kitchen.jpg" group-title="EX-YU NEOTEL",24 Kitchen HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1476
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doma TV HR" tvg-logo="https://picon-13398.kxcdn.com/domahrexyu.jpg" group-title="EX-YU NEOTEL",Doma TV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1446
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Z1 HR" tvg-logo="https://picon-13398.kxcdn.com/z1hrexyu.jpg" group-title="EX-YU NEOTEL",Z1 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13823
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DocuBox HD RS" tvg-logo="https://picon-13398.kxcdn.com/docuboxhd.jpg" group-title="EX-YU NEOTEL",DocuBox HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC HD RS" tvg-logo="https://picon-13398.kxcdn.com/amchd.jpg" group-title="EX-YU NEOTEL",AMC HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17276
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Reality HR" tvg-logo="https://picon-13398.kxcdn.com/cbsreality.jpg" group-title="EX-YU NEOTEL",CBS Reality HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17269
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Da Vinci Learning HR" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="EX-YU NEOTEL",Da Vinci Learning HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network HR" tvg-logo="https://picon-13398.kxcdn.com/foodnetwork.jpg" group-title="EX-YU NEOTEL",Food Network HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17267
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova TV HD HR" tvg-logo="https://picon-13398.kxcdn.com/novatvexyu.jpg" group-title="EX-YU NEOTEL",Nova TV HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17273
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glas Drine BA" tvg-logo="https://picon-13398.kxcdn.com/gfba.jpg" group-title="EX-YU NEOTEL",Glas Drine BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20142
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Living HR" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="EX-YU NEOTEL",RTL Living HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17264
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 HD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub1hdexyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 1 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17252
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub2hdexyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 2 FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17254
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 4 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub4exyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 4 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17249
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 5 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub5exyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 5 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17250
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 6 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub6exyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 6 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17251
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV TK BA" tvg-logo="https://picon-13398.kxcdn.com/rtvtkexyu.jpg" group-title="EX-YU NEOTEL",RTV TK BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3164
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Face TV BA" tvg-logo="https://picon-13398.kxcdn.com/facetvbhexyu.jpg" group-title="EX-YU NEOTEL",Face TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3165
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OBN BA" tvg-logo="https://picon-13398.kxcdn.com/obnbhexyu.jpg" group-title="EX-YU NEOTEL",OBN BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1458
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Balkans FHD BA" tvg-logo="https://picon-13398.kxcdn.com/aljazeerabalkanexyu.jpg" group-title="EX-YU NEOTEL",Al Jazeera Balkans FHD BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3189
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alternativna TV BA" tvg-logo="https://picon-13398.kxcdn.com/atvexyu.jpg" group-title="EX-YU NEOTEL",Alternativna TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13797
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTRS RS" tvg-logo="https://picon-13398.kxcdn.com/rtrsexyu.jpg" group-title="EX-YU NEOTEL",RTRS RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/6566
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTRS Plus RS" tvg-logo="https://picon-13398.kxcdn.com/rtrsplusexyu.jpg" group-title="EX-YU NEOTEL",RTRS Plus RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13790
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemania RS" tvg-logo="https://picon-13398.kxcdn.com/cinemaniars.jpg" group-title="EX-YU NEOTEL",Cinemania RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17270
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FightBox FHD RS" tvg-logo="https://picon-13398.kxcdn.com/fightboxhd.jpg" group-title="EX-YU NEOTEL",FightBox FHD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17259
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="EX-YU NEOTEL",B92 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17262
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva Max RS" tvg-logo="https://picon-13398.kxcdn.com/prvamaxrs.jpg" group-title="EX-YU NEOTEL",Prva Max RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17260
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Svet RS" tvg-logo="https://picon-13398.kxcdn.com/rtssvetrs.jpg" group-title="EX-YU NEOTEL",RTS Svet RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub2hdexyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 2 FHD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17257
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub3hdexyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 3 FHD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17258
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Zenica BA" tvg-logo="https://picon-13398.kxcdn.com/tvzenicaexyu.jpg" group-title="EX-YU NEOTEL",TV Zenica BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Igman BA" tvg-logo="https://picon-13398.kxcdn.com/mtvigmanexyu.jpg" group-title="EX-YU NEOTEL",MTV Igman BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3195
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="EX-YU NEOTEL",N1 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3197
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Sarajevo BA" tvg-logo="https://picon-13398.kxcdn.com/tvsarajevoexyu.jpg" group-title="EX-YU NEOTEL",TV Sarajevo BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/11282
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/rts1exyu.jpg" group-title="EX-YU NEOTEL",RTS 1 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2026
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 1 RS" tvg-logo="https://picon-13398.kxcdn.com/rts1exyu.jpg" group-title="EX-YU NEOTEL",RTS 1 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1463
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/rts2exyu.jpg" group-title="EX-YU NEOTEL",RTS 2 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1464
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS 3 RS" tvg-logo="https://picon-13398.kxcdn.com/rts3exyu.jpg" group-title="EX-YU NEOTEL",RTS 3 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="EX-YU NEOTEL",Prva TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1460
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva Plus RS" tvg-logo="https://picon-13398.kxcdn.com/prvaplusexyu.jpg" group-title="EX-YU NEOTEL",Prva Plus RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1459
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="EX-YU NEOTEL",Prva World RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13798
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Novi Pazar RS" tvg-logo="https://picon-13398.kxcdn.com/tvnovipazarexyu.jpg" group-title="EX-YU NEOTEL",TV Novi Pazar RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/11279
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 1 RS" tvg-logo="https://picon-13398.kxcdn.com/rtv1rsexyu.jpg" group-title="EX-YU NEOTEL",RTV 1 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13762
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio B RS" tvg-logo="https://picon-13398.kxcdn.com/studiobexyu.jpg" group-title="EX-YU NEOTEL",Studio B RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/11287
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Happy TV RS" tvg-logo="https://picon-13398.kxcdn.com/happytvexyu.jpg" group-title="EX-YU NEOTEL",Happy TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3192
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sandzak TV RS" tvg-logo="https://picon-13398.kxcdn.com/samdzalexyu.jpg" group-title="EX-YU NEOTEL",Sandzak TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HR" tvg-logo="https://picon-13398.kxcdn.com/axn.jpg" group-title="EX-YU NEOTEL",AXN HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13764
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diva HR" tvg-logo="https://picon-13398.kxcdn.com/divaexyu.jpg" group-title="EX-YU NEOTEL",Diva HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13770
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBox Plus HR" tvg-logo="https://picon-13398.kxcdn.com/filmboxplus.jpg" group-title="EX-YU NEOTEL",FilmBox Plus HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBox Extra RS" tvg-logo="https://picon-13398.kxcdn.com/filmboxextra.jpg" group-title="EX-YU NEOTEL",FilmBox Extra RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13805
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX HR" tvg-logo="https://picon-13398.kxcdn.com/fox.jpg" group-title="EX-YU NEOTEL",FOX HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1448
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Movies HR" tvg-logo="https://picon-13398.kxcdn.com/foxmovies.jpg" group-title="EX-YU NEOTEL",FOX Movies HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1451
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Life HR" tvg-logo="https://picon-13398.kxcdn.com/foxlife.jpg" group-title="EX-YU NEOTEL",FOX Life HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1450
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Crime RS" tvg-logo="https://picon-13398.kxcdn.com/foxcrime.jpg" group-title="EX-YU NEOTEL",FOX Crime RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1449
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="EX-YU NEOTEL",HBO HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1452
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 3 RS" tvg-logo="https://picon-13398.kxcdn.com/hbo3.jpg" group-title="EX-YU NEOTEL",HBO 3 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13806
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineStar TV HR" tvg-logo="https://picon-13398.kxcdn.com/cinestarexyu.jpg" group-title="EX-YU NEOTEL",CineStar TV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13794
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineStar TV Action HR" tvg-logo="https://picon-13398.kxcdn.com/cinestaractionexyu.jpg" group-title="EX-YU NEOTEL",CineStar TV Action HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3180
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineStar Premiere 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinepremiere1exyu.jpg" group-title="EX-YU NEOTEL",CineStar Premiere 1 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1468
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineStar Premiere 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinepremiere2exyu.jpg" group-title="EX-YU NEOTEL",CineStar Premiere 2 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1469
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinemax.jpg" group-title="EX-YU NEOTEL",Cinemax HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinemax2.jpg" group-title="EX-YU NEOTEL",Cinemax 2 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery FHD RS" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="EX-YU NEOTEL",Investigation Discovery FHD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13783
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klasik TV HR" tvg-logo="https://picon-13398.kxcdn.com/klasikexyu.jpg" group-title="EX-YU NEOTEL",Klasik TV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3194
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 HR" tvg-logo="https://picon-13398.kxcdn.com/tv1000exyu.jpg" group-title="EX-YU NEOTEL",TV 1000 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/11275
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HR" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="EX-YU NEOTEL",Animal Planet HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel RS" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="EX-YU NEOTEL",Discovery Channel RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1445
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crime + Investigation HR" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="EX-YU NEOTEL",Crime + Investigation HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3191
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History HR" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="EX-YU NEOTEL",History HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1454
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lov I Ribolov RS" tvg-logo="https://picon-13398.kxcdn.com/lovirobolovexyu.jpg" group-title="EX-YU NEOTEL",Lov I Ribolov RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3196
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic HD HR" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="EX-YU NEOTEL",National Geographic HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1472
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC RS" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="EX-YU NEOTEL",TLC RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13820
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! HR" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="EX-YU NEOTEL",E! HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1467
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HNTV HR" tvg-logo="https://picon-13398.kxcdn.com/hntvexyu.jpg" group-title="EX-YU NEOTEL",HNTV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13771
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOS Kanal RS" tvg-logo="https://picon-13398.kxcdn.com/soskanalexyu.jpg" group-title="EX-YU NEOTEL",SOS Kanal RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 RS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="EX-YU NEOTEL",Eurosport 1 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1443
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 RS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg" group-title="EX-YU NEOTEL",Eurosport 2 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1444
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 2 FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17914
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 3 FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17916
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 4 FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17915
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 1 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1436
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 2 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1437
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 3 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1438
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 4 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1439
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5 HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 5 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13827
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 6 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport6hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 6 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13828
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 1 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3182
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 2 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3183
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 3 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3184
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 4 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3185
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 5 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3186
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub1si.jpg" group-title="EX-YU NEOTEL",Sport Klub 1 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13832
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub2si.jpg" group-title="EX-YU NEOTEL",Sport Klub 2 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13833
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub3si.jpg" group-title="EX-YU NEOTEL",Sport Klub 3 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13834
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 4 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub4exyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 4 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13829
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 5 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub5exyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 5 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13830
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 6 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub6exyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 6 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13831
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub1hdexyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 1 FHD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1440
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub2hdexyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 2 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1441
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 HD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub3hdexyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 3 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1442
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 1 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU NEOTEL",Max Select 1 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20146
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 2 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU NEOTEL",Max Select 2 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20147
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 3 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU NEOTEL",Max Select 3 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20148
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 4 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU NEOTEL",Max Select 4 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20149
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 5 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU NEOTEL",Max Select 5 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20150
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 6 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU NEOTEL",Max Select 6 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20151
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 7 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU NEOTEL",Max Select 7 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20152
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 8 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU NEOTEL",Max Select 8 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20153
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select 9 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU NEOTEL",Max Select 9 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20154
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="EX-YU NEOTEL",Pink RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2042
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pink2exyu.jpg" group-title="EX-YU NEOTEL",Pink 2 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2043
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink 3 Info RS" tvg-logo="https://picon-13398.kxcdn.com/pinkinfo3exyu.jpg" group-title="EX-YU NEOTEL",Pink 3 Info RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2044
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Action RS" tvg-logo="https://picon-13398.kxcdn.com/pinkactionexyu.jpg" group-title="EX-YU NEOTEL",Pink Action RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2041
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Comedy RS" tvg-logo="https://picon-13398.kxcdn.com/pinkcomedyexyu.jpg" group-title="EX-YU NEOTEL",Pink Comedy RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2045
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Crime & Mystery RS" tvg-logo="https://picon-13398.kxcdn.com/pinkcrimemysteryexyu.jpg" group-title="EX-YU NEOTEL",Pink Crime & Mystery RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2039
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Classic RS" tvg-logo="https://picon-13398.kxcdn.com/pinkclassicrs.jpg" group-title="EX-YU NEOTEL",Pink Classic RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19587
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Extra RS" tvg-logo="https://picon-13398.kxcdn.com/pinkextraexyu.jpg" group-title="EX-YU NEOTEL",Pink Extra RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Film RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfilmexyu.jpg" group-title="EX-YU NEOTEL",Pink Film RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3199
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Horror RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhorroexyu.jpg" group-title="EX-YU NEOTEL",Pink Horror RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2035
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Kuvar RS" tvg-logo="https://picon-13398.kxcdn.com/pinkkuvarexyu.jpg" group-title="EX-YU NEOTEL",Pink Kuvar RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3176
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink World Cinema RS" tvg-logo="https://picon-13398.kxcdn.com/pinkworldcinemaexyu.jpg" group-title="EX-YU NEOTEL",Pink World Cinema RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/5602
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Plus RS" tvg-logo="https://picon-13398.kxcdn.com/pinkplusexyu.jpg" group-title="EX-YU NEOTEL",Pink Plus RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3198
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Premium RS" tvg-logo="https://picon-13398.kxcdn.com/pinkpremiumexyu.jpg" group-title="EX-YU NEOTEL",Pink Premium RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2029
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Reality RS" tvg-logo="https://picon-13398.kxcdn.com/pinkrealityexyu.jpg" group-title="EX-YU NEOTEL",Pink Reality RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Romance RS" tvg-logo="https://picon-13398.kxcdn.com/pinkromanceexyu.jpg" group-title="EX-YU NEOTEL",Pink Romance RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3200
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Serije RS" tvg-logo="https://picon-13398.kxcdn.com/pinkserijeexyu.jpg" group-title="EX-YU NEOTEL",Pink Serije RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Sci-fi & Fantasy RS" tvg-logo="https://picon-13398.kxcdn.com/pinkscififantasyexyu.jpg" group-title="EX-YU NEOTEL",Pink Sci-fi & Fantasy RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2031
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Soap RS" tvg-logo="https://picon-13398.kxcdn.com/pinksoapexyu.jpg" group-title="EX-YU NEOTEL",Pink Soap RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Thriller RS" tvg-logo="https://picon-13398.kxcdn.com/pinkthrillerexyu.jpg" group-title="EX-YU NEOTEL",Pink Thriller RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Western RS" tvg-logo="https://picon-13398.kxcdn.com/pinkwesternexyu.jpg" group-title="EX-YU NEOTEL",Pink Western RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Pedia RS" tvg-logo="https://picon-13398.kxcdn.com/pinkpediaexyu.jpg" group-title="EX-YU NEOTEL",Pink Pedia RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13753
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Movies RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmoviesexyu.jpg" group-title="EX-YU NEOTEL",Pink Movies RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13758
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Zabava RS" tvg-logo="https://picon-13398.kxcdn.com/pinkzabavaexyu.jpg" group-title="EX-YU NEOTEL",Pink Zabava RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Kids RS" tvg-logo="https://picon-13398.kxcdn.com/pinkkidsexyu.jpg" group-title="EX-YU NEOTEL",Pink Kids RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Super Kids RS" tvg-logo="https://picon-13398.kxcdn.com/pinksuperkidsexyu.jpg" group-title="EX-YU NEOTEL",Pink Super Kids RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13761
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Show RS" tvg-logo="https://picon-13398.kxcdn.com/pinkshowrs.jpg" group-title="EX-YU NEOTEL",Pink Show RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby TV RS" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="EX-YU NEOTEL",Baby TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mini TV RS" tvg-logo="https://picon-13398.kxcdn.com/minitvexyu.jpg" group-title="EX-YU NEOTEL",Mini TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/6565
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minimax RS" tvg-logo="https://picon-13398.kxcdn.com/minimax.jpg" group-title="EX-YU NEOTEL",Minimax RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/6564
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon HR" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="EX-YU NEOTEL",Nickelodeon HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/6083
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Kockica HR" tvg-logo="https://picon-13398.kxcdn.com/rtlkockicahrexyu.jpg" group-title="EX-YU NEOTEL",RTL Kockica HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3167
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CMC TV HR" tvg-logo="https://picon-13398.kxcdn.com/cmctvexyu.jpg" group-title="EX-YU NEOTEL",CMC TV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3171
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DM Sat RS" tvg-logo="https://picon-13398.kxcdn.com/dmsatexyu.jpg" group-title="EX-YU NEOTEL",DM Sat RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3173
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Grand TV RS" tvg-logo="https://picon-13398.kxcdn.com/grandtvexyu.jpg" group-title="EX-YU NEOTEL",Grand TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/1475
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jugoton TV HR" tvg-logo="https://picon-13398.kxcdn.com/jugotontvexyu.jpg" group-title="EX-YU NEOTEL",Jugoton TV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/6561
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KCN 1 RS" tvg-logo="https://picon-13398.kxcdn.com/kcn1exyu.jpg" group-title="EX-YU NEOTEL",KCN 1 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13809
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KCN 2 Music RS" tvg-logo="https://picon-13398.kxcdn.com/kcn2exyu.jpg" group-title="EX-YU NEOTEL",KCN 2 Music RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13810
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KCN 3 Svet Plus RS" tvg-logo="https://picon-13398.kxcdn.com/kcn3exyu.jpg" group-title="EX-YU NEOTEL",KCN 3 Svet Plus RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13811
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OTV Valentino BA" tvg-logo="https://picon-13398.kxcdn.com/otvexyu.jpg" group-title="EX-YU NEOTEL",OTV Valentino BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3172
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Folk 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfolk2exyu.jpg" group-title="EX-YU NEOTEL",Pink Folk 2 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/2037
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Music RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmusicexyu.jpg" group-title="EX-YU NEOTEL",Pink Music RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13759
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Music 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmusic2exyu.jpg" group-title="EX-YU NEOTEL",Pink Music 2 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13760
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Hits 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhits2exyu.jpg" group-title="EX-YU NEOTEL",Pink Hits 2 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13757
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Folk 1 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfolkexyu.jpg" group-title="EX-YU NEOTEL",Pink Folk 1 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13756
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink n Roll RS" tvg-logo="https://picon-13398.kxcdn.com/pinknrollexyu.jpg" group-title="EX-YU NEOTEL",Pink n Roll RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13755
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva Files RS" tvg-logo="https://picon-13398.kxcdn.com/prvafilesrs.jpg" group-title="EX-YU NEOTEL",Prva Files RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/20023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Adria RS" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="EX-YU NEOTEL",MTV Adria RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13813
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IDJ TV RS" tvg-logo="https://picon-13398.kxcdn.com/idjtvrsexyu.jpg" group-title="EX-YU NEOTEL",IDJ TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16404
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Sehara BA" tvg-logo="https://picon-13398.kxcdn.com/tvsejaraexyu.jpg" group-title="EX-YU NEOTEL",TV Sehara BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/11284
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duga Plus TV RS" tvg-logo="https://picon-13398.kxcdn.com/dugaexyu.jpg" group-title="EX-YU NEOTEL",Duga Plus TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/3193
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCG Sat HD ME" tvg-logo="https://picon-13398.kxcdn.com/tvcgsatexyu.jpg" group-title="EX-YU NEOTEL",TVCG Sat HD ME
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13814
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCG 2 ME" tvg-logo="https://picon-13398.kxcdn.com/tvcg2exyu.jpg" group-title="EX-YU NEOTEL",TVCG 2 ME
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16426
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Vijesti ME" tvg-logo="https://picon-13398.kxcdn.com/tvvijestiexyu.jpg" group-title="EX-YU NEOTEL",TV Vijesti ME
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16427
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop Oto SI" tvg-logo="https://picon-13398.kxcdn.com/popotoexyu.jpg" group-title="EX-YU NEOTEL",Pop Oto SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13791
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FTV BA" tvg-logo="https://picon-13398.kxcdn.com/federalnaexyu.jpg" group-title="EX-YU NEOTEL",FTV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/6087
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova S FHD RS" tvg-logo="https://picon-13398.kxcdn.com/novasrs.jpg" group-title="EX-YU NEOTEL",Nova S FHD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19166
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vinkovacka TV HR" tvg-logo="https://picon-13398.kxcdn.com/vinkovackahr.jpg" group-title="EX-YU NEOTEL",Vinkovacka TV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/11278
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televizija 5 BA" tvg-logo="https://picon-13398.kxcdn.com/televizija5exyu.jpg" group-title="EX-YU NEOTEL",Televizija 5 BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/15854
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Slavonska TV HR" tvg-logo="https://picon-13398.kxcdn.com/slavonskatvexyu.jpg" group-title="EX-YU NEOTEL",Slavonska TV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13802
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Grand 2 RS" tvg-logo="https://picon-13398.kxcdn.com/grand2srb.jpg" group-title="EX-YU NEOTEL",Grand 2 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N1 BA" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="EX-YU NEOTEL",N1 BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N1 HR" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="EX-YU NEOTEL",N1 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop TV SI" tvg-logo="https://picon-13398.kxcdn.com/poptvsiexyu.jpg" group-title="EX-YU NEOTEL",Pop TV SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16820
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 SI" tvg-logo="https://picon-13398.kxcdn.com/sportklub2si.jpg" group-title="EX-YU NEOTEL",Sport Klub 2 SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 FHD SI" tvg-logo="https://picon-13398.kxcdn.com/sportklub3si.jpg" group-title="EX-YU NEOTEL",Sport Klub 3 FHD SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16822
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub SI" tvg-logo="https://picon-13398.kxcdn.com/sportklub1si.jpg" group-title="EX-YU NEOTEL",Sport Klub SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16823
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink LOL RS" tvg-logo="https://picon-13398.kxcdn.com/pinklolexyu.jpg" group-title="EX-YU NEOTEL",Pink LOL RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16610
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink HAHA RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhahaexyu.jpg" group-title="EX-YU NEOTEL",Pink HAHA RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16611
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHT 1 HD BA" tvg-logo="https://picon-13398.kxcdn.com/bht1exyu.jpg" group-title="EX-YU NEOTEL",BHT 1 HD BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/15864
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BN Music FHD BA" tvg-logo="https://picon-13398.kxcdn.com/bnmusicexyu.jpg" group-title="EX-YU NEOTEL",BN Music FHD BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/15863
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BN TV HD BA" tvg-logo="https://picon-13398.kxcdn.com/bnsatexyu.jpg" group-title="EX-YU NEOTEL",BN TV HD BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/15862
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat HD BA" tvg-logo="https://picon-13398.kxcdn.com/hayaexyu.jpg" group-title="EX-YU NEOTEL",Hayat HD BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/15861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat Folk BA" tvg-logo="https://picon-13398.kxcdn.com/hayatfolkexyu.jpg" group-title="EX-YU NEOTEL",Hayat Folk BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/15860
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat Plus BA" tvg-logo="https://picon-13398.kxcdn.com/hayatplusexyu.jpg" group-title="EX-YU NEOTEL",Hayat Plus BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/15859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayatovci BA" tvg-logo="https://picon-13398.kxcdn.com/hayatovciexyu.jpg" group-title="EX-YU NEOTEL",Hayatovci BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/15858
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportska TV HD HR" tvg-logo="https://picon-13398.kxcdn.com/sportskahr.jpg" group-title="EX-YU NEOTEL",Sportska TV HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/13861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub Golf HR" tvg-logo="https://picon-13398.kxcdn.com/sportklubgolfsr.jpg" group-title="EX-YU NEOTEL",Sport Klub Golf HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Channel RS" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg" group-title="EX-YU NEOTEL",Travel Channel RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17865
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang RS" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="EX-YU NEOTEL",Boomerang RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17925
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTX HR" tvg-logo="https://picon-13398.kxcdn.com/dtx.jpg" group-title="EX-YU NEOTEL",DTX HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17924
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic Wild RS" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="EX-YU NEOTEL",National Geographic Wild RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17923
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr. HR" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="EX-YU NEOTEL",Nick Jr. HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17922
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="EX-YU NEOTEL",HBO 2 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17920
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 3 HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="EX-YU NEOTEL",HBO 3 HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17918
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub3hdexyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 3 FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17917
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Happy Parovi RS" tvg-logo="https://picon-13398.kxcdn.com/parovirs.jpg" group-title="EX-YU NEOTEL",Happy Parovi RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/18099
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink World RS" tvg-logo="https://picon-13398.kxcdn.com/pinkworldexyu.jpg" group-title="EX-YU NEOTEL",Pink World RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/18098
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat Music BA" tvg-logo="https://picon-13398.kxcdn.com/hayatmusicba.jpg" group-title="EX-YU NEOTEL",Hayat Music BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17271
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV USK HD BA" tvg-logo="https://picon-13398.kxcdn.com/tvuskba.jpg" group-title="EX-YU NEOTEL",TV USK HD BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19138
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Izvorna TV BA" tvg-logo="https://picon-13398.kxcdn.com/izvornaba.jpg" group-title="EX-YU NEOTEL",Izvorna TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/18824
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat History RS" tvg-logo="https://picon-13398.kxcdn.com/viasathistory.jpg" group-title="EX-YU NEOTEL",Viasat History RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="777 ME" tvg-logo="https://picon-13398.kxcdn.com/777me.jpg" group-title="EX-YU NEOTEL",777 ME
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19381
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golica TV SI" tvg-logo="https://picon-13398.kxcdn.com/golicatvsl.jpg" group-title="EX-YU NEOTEL",Golica TV SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19618
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Maribor SI" tvg-logo="https://picon-13398.kxcdn.com/tvmariborsi.jpg" group-title="EX-YU NEOTEL",TV Maribor SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19614
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet TV HD SI" tvg-logo="https://picon-13398.kxcdn.com/planettv.jpg" group-title="EX-YU NEOTEL",Planet TV HD SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19617
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop Brio SI" tvg-logo="https://picon-13398.kxcdn.com/briosi.jpg" group-title="EX-YU NEOTEL",Pop Brio SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19615
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop Kino SI" tvg-logo="https://picon-13398.kxcdn.com/popkinosi.jpg" group-title="EX-YU NEOTEL",Pop Kino SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19616
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slovenija 1 SI" tvg-logo="https://picon-13398.kxcdn.com/tvslovenija1sk.jpg" group-title="EX-YU NEOTEL",TV Slovenija 1 SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19611
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slovenija 2 SI" tvg-logo="https://picon-13398.kxcdn.com/tvslovenija2sk.jpg" group-title="EX-YU NEOTEL",TV Slovenija 2 SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19612
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slovenija 3 SI" tvg-logo="https://picon-13398.kxcdn.com/tvslovenija3sk.jpg" group-title="EX-YU NEOTEL",TV Slovenija 3 SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19613
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Palma Plus RS" tvg-logo="https://picon-13398.kxcdn.com/thepalmaplusrs.jpg" group-title="EX-YU NEOTEL",The Palma Plus RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19624
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 1 FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/19004
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scifi FHD RS" tvg-logo="https://picon-13398.kxcdn.com/scifirs.jpg" group-title="EX-YU NEOTEL",Scifi FHD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/22971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Trezor RS" tvg-logo="https://picon-13398.kxcdn.com/rtssvetrs.jpg" group-title="EX-YU NEOTEL",RTS Trezor RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/23446
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink M ME" tvg-logo="https://picon-13398.kxcdn.com/pinkmedars.jpg" group-title="EX-YU NEOTEL",Pink M ME
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/23661
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub1hdexyu.jpg" group-title="EX-YU NEOTEL",Sport Klub 1 FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17256
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bravo Music RS" tvg-logo="https://picon-13398.kxcdn.com/bravomusicrs.jpg" group-title="EX-YU NEOTEL",Bravo Music RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/23850
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Media BH BA" tvg-logo="https://picon-13398.kxcdn.com/pinkmedabhba.jpg" group-title="EX-YU NEOTEL",Pink Media BH BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/23849
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Family RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfamilyexyu.jpg" group-title="EX-YU NEOTEL",Pink Family RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/23848
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Fashion RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfashionrs.jpg" group-title="EX-YU NEOTEL",Pink Fashion RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/23845
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Hits RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhitsrs.jpg" group-title="EX-YU NEOTEL",Pink Hits RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/23847
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Style RS" tvg-logo="https://picon-13398.kxcdn.com/pinkstylers.jpg" group-title="EX-YU NEOTEL",Pink Style RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/23846
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CityPLAY RS" tvg-logo="https://picon-13398.kxcdn.com/cityplayrs.jpg" group-title="EX-YU NEOTEL",CityPLAY RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/23844
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova M ME" tvg-logo="https://picon-13398.kxcdn.com/novamme.jpg" group-title="EX-YU NEOTEL",Nova M ME
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/24145
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova BH BA" tvg-logo="https://picon-13398.kxcdn.com/nova.jpg" group-title="EX-YU NEOTEL",Nova BH BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/24144
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pikaboo RS" tvg-logo="https://picon-13398.kxcdn.com/pikaboors.jpg" group-title="EX-YU NEOTEL",Pikaboo RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/24143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fine Living RS" tvg-logo="https://picon-13398.kxcdn.com/fineliving.jpg" group-title="EX-YU NEOTEL",Fine Living RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/24148
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moje Bugojno BA" tvg-logo="https://picon-13398.kxcdn.com/mojebugjnoba.jpg" group-title="EX-YU NEOTEL",Moje Bugojno BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/24178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="EX-YU NEOTEL",H2 FHD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/22972
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineStar TV Fantasy HR" tvg-logo="https://picon-13398.kxcdn.com/cienstarfantasyhr.jpg" group-title="EX-YU NEOTEL",CineStar TV Fantasy HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/24331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="City TV BA" tvg-logo="https://picon-13398.kxcdn.com/citytvba.jpg" group-title="EX-YU NEOTEL",City TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/24687
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 2 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv2.jpg" group-title="EX-YU NEOTEL",HRT 2 FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/24744
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yu Planet TV RS" tvg-logo="https://picon-13398.kxcdn.com/yuplanetrs.jpg" group-title="EX-YU NEOTEL",Yu Planet TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/24862
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal 6 Travnik BA" tvg-logo="https://picon-13398.kxcdn.com/kanal6ba.jpg" group-title="EX-YU NEOTEL",Kanal 6 Travnik BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/25270
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 1 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv1.jpg" group-title="EX-YU NEOTEL",HRT 1 FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/25786
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 3 HD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv3.jpg" group-title="EX-YU NEOTEL",HRT 3 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/25787
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT 4 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv4.jpg" group-title="EX-YU NEOTEL",HRT 4 FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/25788
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetSport 1 HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport1hr.jpg" group-title="EX-YU NEOTEL",PlanetSport 1 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/26089
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetSport 2 HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport2hr.jpg" group-title="EX-YU NEOTEL",PlanetSport 2 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/26090
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetSport 3 HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport3hr.jpg" group-title="EX-YU NEOTEL",PlanetSport 3 HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/26091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 7 Tuzla HD BA" tvg-logo="https://picon-13398.kxcdn.com/tv7tuzlaba.jpg" group-title="EX-YU NEOTEL",TV 7 Tuzla HD BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/26685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet [Multi-sub] Europe" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="EX-YU NEOTEL",Animal Planet [Multi-sub] Europe
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27035
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC [Multi-sub] Balkans" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="EX-YU NEOTEL",TLC [Multi-sub] Balkans
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27134
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Superstar TV RS" tvg-logo="https://picon-13398.kxcdn.com/superstartvrs.jpg" group-title="EX-YU NEOTEL",Superstar TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27308
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub HD [Multi-audio] ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/sportklubexyu.jpg" group-title="EX-YU NEOTEL",Sport Klub HD [Multi-audio] ex-Yu
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27524
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Narodni HR" tvg-logo="https://picon-13398.kxcdn.com/narodnihr.jpg" group-title="EX-YU NEOTEL",Narodni HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/17275
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Slon BA" tvg-logo="https://picon-13398.kxcdn.com/slonextraba.jpg" group-title="EX-YU NEOTEL",TV Slon BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27558
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino TV HD HR" tvg-logo="https://picon-13398.kxcdn.com/kinotvhr.jpg" group-title="EX-YU NEOTEL",Kino TV HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M1 Film HR" tvg-logo="https://picon-13398.kxcdn.com/m1filmhr.jpg" group-title="EX-YU NEOTEL",M1 Film HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27547
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B1 TV BA" tvg-logo="https://picon-13398.kxcdn.com/b1ro.jpg" group-title="EX-YU NEOTEL",B1 TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27660
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aurora TV HR" tvg-logo="https://picon-13398.kxcdn.com/aurorahr.jpg" group-title="EX-YU NEOTEL",Aurora TV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27658
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balkan Music ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/balkanmusicexyu.jpg" group-title="EX-YU NEOTEL",Balkan Music ex-Yu
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27802
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetSport 4 HD HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport4hr.jpg" group-title="EX-YU NEOTEL",PlanetSport 4 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27815
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlanetSport 5 HD HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport5hr.jpg" group-title="EX-YU NEOTEL",PlanetSport 5 HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1 HD SI" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="EX-YU NEOTEL",Sport TV 1 HD SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 2 HD SI" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg" group-title="EX-YU NEOTEL",Sport TV 2 HD SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pickbox FHD HR" tvg-logo="https://picon-13398.kxcdn.com/pickboxhr.jpg" group-title="EX-YU NEOTEL",Pickbox FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Select Premium FHD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="EX-YU NEOTEL",Max Select Premium FHD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Istra HR" tvg-logo="https://picon-13398.kxcdn.com/tviistrahr.jpg" group-title="EX-YU NEOTEL",TV Istra HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/27822
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Partizan TV RS" tvg-logo="https://picon-13398.kxcdn.com/partizanexyu.jpg" group-title="EX-YU NEOTEL",Partizan TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/16401
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Channel HR" tvg-logo="https://picon-13398.kxcdn.com/fightchannelhr.jpg" group-title="EX-YU NEOTEL",Fight Channel HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28086
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport / Moja TV HD BH" tvg-logo="https://picon-13398.kxcdn.com/mojatvbh.jpg" group-title="EX-YU NEOTEL",Arena Sport / Moja TV HD BH
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28085
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD SI" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="EX-YU NEOTEL",HBO HD SI
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28084
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore RS" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="EX-YU NEOTEL",Viasat Explore RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28071
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic RS" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="EX-YU NEOTEL",National Geographic RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28070
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Leskovac RS" tvg-logo="https://picon-13398.kxcdn.com/tvleskovacrs.jpg" group-title="EX-YU NEOTEL",TV Leskovac RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28068
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sevdah TV BA" tvg-logo="https://picon-13398.kxcdn.com/sevdahtvba.jpg" group-title="EX-YU NEOTEL",Sevdah TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28066
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bosansko Posavska TV BA" tvg-logo="https://picon-13398.kxcdn.com/bosanskoba.jpg" group-title="EX-YU NEOTEL",Bosansko Posavska TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28064
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCG 1 ME" tvg-logo="https://picon-13398.kxcdn.com/tvcg1me.jpg" group-title="EX-YU NEOTEL",TVCG 1 ME
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28063
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mreza TV Zagreb HR" tvg-logo="https://picon-13398.kxcdn.com/mrezatvzagrebhr.jpg" group-title="EX-YU NEOTEL",Mreza TV Zagreb HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28061
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal RI Rijeka HR" tvg-logo="https://picon-13398.kxcdn.com/kanalrhr.jpg" group-title="EX-YU NEOTEL",Kanal RI Rijeka HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28056
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HRT International HR" tvg-logo="https://picon-13398.kxcdn.com/hrtinthr.jpg" group-title="EX-YU NEOTEL",HRT International HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28054
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Koncert RS" tvg-logo="https://picon-13398.kxcdn.com/pinkkoncertrs.jpg" group-title="EX-YU NEOTEL",Pink Koncert RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Drama RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="EX-YU NEOTEL",RTS Drama RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Muzika RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="EX-YU NEOTEL",RTS Muzika RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Zivot RS" tvg-logo="https://picon-13398.kxcdn.com/rtssvetrs.jpg" group-title="EX-YU NEOTEL",RTS Zivot RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prva Kick RS" tvg-logo="https://picon-13398.kxcdn.com/prvakickrs.jpg" group-title="EX-YU NEOTEL",Prva Kick RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28045
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Nature HR" tvg-logo="https://picon-13398.kxcdn.com/viasatnature.jpg" group-title="EX-YU NEOTEL",Viasat Nature HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28399
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elta 1 BH" tvg-logo="https://picon-13398.kxcdn.com/elta1bh.jpg" group-title="EX-YU NEOTEL",Elta 1 BH
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28392
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elta 2 BH" tvg-logo="https://picon-13398.kxcdn.com/elta2bh.jpg" group-title="EX-YU NEOTEL",Elta 2 BH
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28393
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Kolo RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="EX-YU NEOTEL",RTS Kolo RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28390
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth Adria ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="EX-YU NEOTEL",BBC Earth Adria ex-Yu
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28388
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Spin RS" tvg-logo="https://picon-13398.kxcdn.com/axnspinhd.jpg" group-title="EX-YU NEOTEL",AXN Spin RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28394
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV HB BA" tvg-logo="https://picon-13398.kxcdn.com/rtvhbba.jpg" group-title="EX-YU NEOTEL",RTV HB BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29547
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alfa TV BA" tvg-logo="https://picon-13398.kxcdn.com/alfatvba.jpg" group-title="EX-YU NEOTEL",Alfa TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Vogosca BA" tvg-logo="https://picon-13398.kxcdn.com/rtvvogoscaba.jpg" group-title="EX-YU NEOTEL",RTV Vogosca BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hema TV BA" tvg-logo="https://picon-13398.kxcdn.com/hematvba.jpg" group-title="EX-YU NEOTEL",Hema TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29552
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hit TV BA" tvg-logo="https://picon-13398.kxcdn.com/hitba.jpg" group-title="EX-YU NEOTEL",Hit TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29553
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oscar TV BA" tvg-logo="https://picon-13398.kxcdn.com/oscartvba.jpg" group-title="EX-YU NEOTEL",Oscar TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29554
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network HR" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetworkhd.jpg" group-title="EX-YU NEOTEL",Cartoon Network HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29555
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network Ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/fightnetworkus.jpg" group-title="EX-YU NEOTEL",Fight Network Ex-Yu
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29556
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Poletarac RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="EX-YU NEOTEL",RTS Poletarac RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29557
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Most RS" tvg-logo="https://picon-13398.kxcdn.com/tvmostrs.jpg" group-title="EX-YU NEOTEL",TV Most RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29561
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV Jata BA" tvg-logo="https://picon-13398.kxcdn.com/ntvickakanjba.jpg" group-title="EX-YU NEOTEL",NTV Jata BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29563
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova Sport HD RS" tvg-logo="https://picon-13398.kxcdn.com/novasportru.jpg" group-title="EX-YU NEOTEL",Nova Sport HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/29855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banovina TV HR" tvg-logo="https://picon-13398.kxcdn.com/banovlnahr.jpg" group-title="EX-YU NEOTEL",Banovina TV HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/30074
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Krajina BA" tvg-logo="https://picon-13398.kxcdn.com/krajinaba.jpg" group-title="EX-YU NEOTEL",RTV Krajina BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/32683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amari TV BA" tvg-logo="https://picon-13398.kxcdn.com/amaritvba.jpg" group-title="EX-YU NEOTEL",Amari TV BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/32684
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV IC Kakanj BA" tvg-logo="https://picon-13398.kxcdn.com/ntvickakanjba.jpg" group-title="EX-YU NEOTEL",NTV IC Kakanj BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/32685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O Kanal BA" tvg-logo="https://picon-13398.kxcdn.com/okanalba.jpg" group-title="EX-YU NEOTEL",O Kanal BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/32686
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Posavina BA" tvg-logo="https://picon-13398.kxcdn.com/posavnaba.jpg" group-title="EX-YU NEOTEL",Posavina BA
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/32687
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth HD HR" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="EX-YU NEOTEL",BBC Earth HD HR
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28398
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 2 RS" tvg-logo="https://picon-13398.kxcdn.com/rtv2rs.jpg" group-title="EX-YU NEOTEL",RTV 2 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/33965
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zadruga Live 1 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="EX-YU NEOTEL",Zadruga Live 1 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/35327
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zadruga Live 2 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="EX-YU NEOTEL",Zadruga Live 2 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/35328
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zadruga Live 3 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="EX-YU NEOTEL",Zadruga Live 3 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/35329
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zadruga Live 4 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="EX-YU NEOTEL",Zadruga Live 4 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/35330
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star TV RS" tvg-logo="https://picon-13398.kxcdn.com/startvrs.jpg" group-title="EX-YU NEOTEL",Star TV RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/28252
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 1 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/52131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="EX-YU NEOTEL",Arena Sport 2 RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/52132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox HD RS" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="EX-YU NEOTEL",Fox HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/52133
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink HD RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="EX-YU NEOTEL",Pink HD RS
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/71021
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science [Multi-sub] Europe" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="EX-YU NEOTEL",Discovery Science [Multi-sub] Europe
-http://tv.sbcommunications.xdns.pro:80/RFAaTng46/DHlxbU5268/72672
+#EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1" tvg-logo="http://rexshx.com:25461/picons/hr/hrt1.png" group-title="Hrvatska",HRT 1
+http://31.220.0.89:25461/Kodi/Srbija/661
+#EXTINF:-1 tvg-id="HTV2" tvg-name="HRT 2" tvg-logo="http://rexshx.com:25461/picons/hr/hrt2.png" group-title="Hrvatska",HRT 2
+http://31.220.0.89:25461/Kodi/Srbija/662
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-logo="http://rexshx.com:25461/picons/hr/hrt3.png" group-title="Hrvatska",HRT 3
+http://31.220.0.89:25461/Kodi/Srbija/663
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="http://rexshx.com:25461/picons/hr/hrt4.png" group-title="Hrvatska",HRT 4
+http://31.220.0.89:25461/Kodi/Srbija/664
+#EXTINF:-1 tvg-id="HRT5.hr" tvg-name="HRT 5" tvg-logo="http://rexshx.com:25461/picons/hr/hrt5.png" group-title="Hrvatska",HRT 5
+http://31.220.0.89:25461/Kodi/Srbija/665
+#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" tvg-logo="http://rexshx.com:25461/picons/hr/novatvhd.png" group-title="Hrvatska",Nova TV
+http://31.220.0.89:25461/Kodi/Srbija/666
+#EXTINF:-1 tvg-id="DomaTV.hr" tvg-name="Doma TV" tvg-logo="http://rexshx.com:25461/picons/hr/domatvhd.png" group-title="Hrvatska",Doma TV
+http://31.220.0.89:25461/Kodi/Srbija/667
+#EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL Televizija" tvg-logo="http://rexshx.com:25461/picons/hr/rtltelevizija.png" group-title="Hrvatska",RTL Televizija
+http://31.220.0.89:25461/Kodi/Srbija/668
+#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="RTL 2" tvg-logo="http://rexshx.com:25461/picons/hr/rtl2.png" group-title="Hrvatska",RTL 2
+http://31.220.0.89:25461/Kodi/Srbija/669
+#EXTINF:-1 tvg-id="RTL Adria" tvg-name="RTL Adria" tvg-logo="" group-title="Hrvatska",RTL Adria
+http://31.220.0.89:25461/Kodi/Srbija/844
+#EXTINF:-1 tvg-id="RTLPassion.hr" tvg-name="RTL Passion" tvg-logo="" group-title="Hrvatska",RTL Passion
+http://31.220.0.89:25461/Kodi/Srbija/845
+#EXTINF:-1 tvg-id="N1Croatia.hr" tvg-name="N1 HR" tvg-logo="http://rexshx.com:25461/picons/hr/n1hr.png" group-title="Hrvatska",N1 HR
+http://31.220.0.89:25461/Kodi/Srbija/670
+#EXTINF:-1 tvg-id="BHTV1.rs" tvg-name="BHT 1" tvg-logo="http://rexshx.com:25461/picons/bih/bht1hd.png" group-title="Bosna&Hercegovina",BHT 1
+http://31.220.0.89:25461/Kodi/Srbija/672
+#EXTINF:-1 tvg-id="HayatTV.ba" tvg-name="HAYAT" tvg-logo="http://rexshx.com:25461/picons/bih/hayat.png" group-title="Bosna&Hercegovina",HAYAT
+http://31.220.0.89:25461/Kodi/Srbija/673
+#EXTINF:-1 tvg-id="novabh" tvg-name="Nova BH" tvg-logo="http://rexshx.com:25461/picons/bih/novabh.png" group-title="Bosna&Hercegovina",Nova BH
+http://31.220.0.89:25461/Kodi/Srbija/674
+#EXTINF:-1 tvg-id="FTV" tvg-name="Federalna" tvg-logo="http://rexshx.com:25461/picons/bih/federalna.png" group-title="Bosna&Hercegovina",Federalna
+http://31.220.0.89:25461/Kodi/Srbija/675
+#EXTINF:-1 tvg-id="" tvg-name="FACE TV" tvg-logo="http://195.154.233.186:82/logo_channels/face_tv_ba.png" group-title="Bosna&Hercegovina",FACE TV
+http://31.220.0.89:25461/Kodi/Srbija/843
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS" tvg-logo="http://rexshx.com:25461/picons/bih/rtrs.png" group-title="Bosna&Hercegovina",RTRS
+http://31.220.0.89:25461/Kodi/Srbija/676
+#EXTINF:-1 tvg-id="BNBIH.ba" tvg-name="BN" tvg-logo="http://rexshx.com:25461/picons/bih/bn.png" group-title="Bosna&Hercegovina",BN
+http://31.220.0.89:25461/Kodi/Srbija/677
+#EXTINF:-1 tvg-id="N1" tvg-name="N1 BiH" tvg-logo="http://rexshx.com:25461/picons/bih/n1bih.png" group-title="Bosna&Hercegovina",N1 BiH
+http://31.220.0.89:25461/Kodi/Srbija/678
+#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink TV" tvg-logo="http://rexshx.com:25461/picons/pink/pink.png" group-title="Pink Media",Pink TV
+http://31.220.0.89:25461/Kodi/Srbija/679
+#EXTINF:-1 tvg-id="PINKBH" tvg-name="Pink Media BiH" tvg-logo="http://rexshx.com:25461/picons/pink/pinkbh.png" group-title="Pink Media",Pink Media BiH
+http://31.220.0.89:25461/Kodi/Srbija/680
+#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="Pink Movies" tvg-logo="http://rexshx.com:25461/picons/pink/pinkmovies.png" group-title="Pink Media",Pink Movies
+http://31.220.0.89:25461/Kodi/Srbija/681
+#EXTINF:-1 tvg-id="PinkThriller.rs" tvg-name="Pink Thriller" tvg-logo="http://rexshx.com:25461/picons/pink/pinkthriller.png" group-title="Pink Media",Pink Thriller
+http://31.220.0.89:25461/Kodi/Srbija/682
+#EXTINF:-1 tvg-id="PinkFilm.rs" tvg-name="Pink Film" tvg-logo="http://rexshx.com:25461/picons/pink/pinkfilm.png" group-title="Pink Media",Pink Film
+http://31.220.0.89:25461/Kodi/Srbija/683
+#EXTINF:-1 tvg-id="PPinkCrime.rs" tvg-name="Pink Crime & Mystery" tvg-logo="http://rexshx.com:25461/picons/pink/pinkcrimeanedmystery.png" group-title="Pink Media",Pink Crime & Mystery
+http://31.220.0.89:25461/Kodi/Srbija/684
+#EXTINF:-1 tvg-id="PinkComedy.rs" tvg-name="Pink Comedy" tvg-logo="http://rexshx.com:25461/picons/pink/pinkcomedy.png" group-title="Pink Media",Pink Comedy
+http://31.220.0.89:25461/Kodi/Srbija/685
+#EXTINF:-1 tvg-id="PinkAction.rs" tvg-name="Pink Action" tvg-logo="http://rexshx.com:25461/picons/pink/pinkaction.png" group-title="Pink Media",Pink Action
+http://31.220.0.89:25461/Kodi/Srbija/686
+#EXTINF:-1 tvg-id="PinkSciFiFantasy.rs" tvg-name="Pink SciFi & Fantasy" tvg-logo="http://rexshx.com:25461/picons/pink/pinkscifi.png" group-title="Pink Media",Pink SciFi & Fantasy
+http://31.220.0.89:25461/Kodi/Srbija/687
+#EXTINF:-1 tvg-id="PinkPremium.rs" tvg-name="Pink Premium" tvg-logo="http://rexshx.com:25461/picons/pink/pinkpremium.png" group-title="Pink Media",Pink Premium
+http://31.220.0.89:25461/Kodi/Srbija/688
+#EXTINF:-1 tvg-id="PinkWestern.rs" tvg-name="Pink Western" tvg-logo="http://rexshx.com:25461/picons/pink/pinkwestern.png" group-title="Pink Media",Pink Western
+http://31.220.0.89:25461/Kodi/Srbija/689
+#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Pink Zadruga 1" tvg-logo="http://rexshx.com:25461/picons/pink/pinkzadruga1.png" group-title="Pink Media",Pink Zadruga 1
+http://31.220.0.89:25461/Kodi/Srbija/690
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 2" tvg-logo="http://rexshx.com:25461/picons/pink/pinkzadruga2.png" group-title="Pink Media",Pink Zadruga 2
+http://31.220.0.89:25461/Kodi/Srbija/691
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 3" tvg-logo="http://rexshx.com:25461/picons/pink/pinkzadruga1.png" group-title="Pink Media",Pink Zadruga 3
+http://31.220.0.89:25461/Kodi/Srbija/692
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 4" tvg-logo="http://rexshx.com:25461/picons/pink/pinkzadruga1.png" group-title="Pink Media",Pink Zadruga 4
+http://31.220.0.89:25461/Kodi/Srbija/693
+#EXTINF:-1 tvg-id="HBO.hr" tvg-name="HBO" tvg-logo="http://5.9.21.6/DE/hbo.png" group-title="Filmski",HBO
+http://31.220.0.89:25461/Kodi/Srbija/694
+#EXTINF:-1 tvg-id="HBO2.hr" tvg-name="HBO 2" tvg-logo="http://5.9.21.6/DE/HBO2.png" group-title="Filmski",HBO 2
+http://31.220.0.89:25461/Kodi/Srbija/695
+#EXTINF:-1 tvg-id="HBO3.hr" tvg-name="HBO 3" tvg-logo="http://5.9.21.6/DE/HBO3.png" group-title="Filmski",HBO 3
+http://31.220.0.89:25461/Kodi/Srbija/696
+#EXTINF:-1 tvg-id="Fox.hr" tvg-name="Fox" tvg-logo="http://5.9.21.6/DE/foxhd.png" group-title="Filmski",Fox
+http://31.220.0.89:25461/Kodi/Srbija/698
+#EXTINF:-1 tvg-id="FoxMovies" tvg-name="Fox Movies" tvg-logo="http://5.9.21.6/DE/foxmovies.png" group-title="Filmski",Fox Movies
+http://31.220.0.89:25461/Kodi/Srbija/699
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life" tvg-logo="http://5.9.21.6/DE/foxlife.png" group-title="Filmski",Fox Life
+http://31.220.0.89:25461/Kodi/Srbija/700
+#EXTINF:-1 tvg-id="FOXCrime.hr" tvg-name="Fox Crime" tvg-logo="http://5.9.21.6/DE/foxcrime.png" group-title="Filmski",Fox Crime
+http://31.220.0.89:25461/Kodi/Srbija/701
+#EXTINF:-1 tvg-id="CinestarTV.hr" tvg-name="Cinestar TV 1" tvg-logo="http://5.9.21.6/DE/cinestartv.png" group-title="Filmski",Cinestar TV 1
+http://31.220.0.89:25461/Kodi/Srbija/702
+#EXTINF:-1 tvg-id="CinestarPremiere2" tvg-name="Cinestar TV 2" tvg-logo="http://5.9.21.6/DE/cinestartv.png" group-title="Filmski",Cinestar TV 2
+http://31.220.0.89:25461/Kodi/Srbija/703
+#EXTINF:-1 tvg-id="cinestarcomedy" tvg-name="Cinestar Comedy" tvg-logo="https://nstatic.net/img/tv/channels/m/cinestar-tv-comedy.png" group-title="Filmski",Cinestar Comedy
+http://31.220.0.89:25461/Kodi/Srbija/704
+#EXTINF:-1 tvg-id="CinestarFantasy" tvg-name="Cinestar Fantasy" tvg-logo="http://5.9.21.6/DE/cinestarfantasy.png" group-title="Filmski",Cinestar Fantasy
+http://31.220.0.89:25461/Kodi/Srbija/705
+#EXTINF:-1 tvg-id="CINESTARACTIONTHRILLER.rs" tvg-name="CineStar Action" tvg-logo="http://5.9.21.6/DE/cinestaraction.png" group-title="Filmski",CineStar Action
+http://31.220.0.89:25461/Kodi/Srbija/706
+#EXTINF:-1 tvg-id="Cinemax1.hr" tvg-name="Cinemax 1" tvg-logo="http://5.9.21.6/DE/cinemaxhd.png" group-title="Filmski",Cinemax 1
+http://31.220.0.89:25461/Kodi/Srbija/707
+#EXTINF:-1 tvg-id="Cinemax2.hr" tvg-name="Cinemax 2" tvg-logo="http://5.9.21.6/DE/cinemax2.png" group-title="Filmski",Cinemax 2
+http://31.220.0.89:25461/Kodi/Srbija/708
+#EXTINF:-1 tvg-id="AMC.hr" tvg-name="AMC" tvg-logo="http://rexshx.com:25461/picons/film/amc.png" group-title="Filmski",AMC
+http://31.220.0.89:25461/Kodi/Srbija/709
+#EXTINF:-1 tvg-id="Cinemania.hr" tvg-name="Cinemania" tvg-logo="http://5.9.21.6/DE/cinemania.png" group-title="Filmski",Cinemania
+http://31.220.0.89:25461/Kodi/Srbija/710
+#EXTINF:-1 tvg-id="TV1000.hr" tvg-name="TV 1000" tvg-logo="http://5.9.21.6/DE/tv1000.png" group-title="Filmski",TV 1000
+http://31.220.0.89:25461/Kodi/Srbija/712
+#EXTINF:-1 tvg-id="KlasikTV.hr" tvg-name="Klasik TV" tvg-logo="http://5.9.21.6/DE/klasiktv.png" group-title="Filmski",Klasik TV
+http://31.220.0.89:25461/Kodi/Srbija/713
+#EXTINF:-1 tvg-id="SUPERSTAR TV" tvg-name="Superstar TV" tvg-logo="https://tvprofil.com/img/kanali-logo/SuperstarTV_logo.png" group-title="Filmski",Superstar TV
+http://31.220.0.89:25461/Kodi/Srbija/714
+#EXTINF:-1 tvg-id="M1 FILM" tvg-name="M1 Film" tvg-logo="http://rexshx.com:25461/picons/film/m1film.png" group-title="Filmski",M1 Film
+http://31.220.0.89:25461/Kodi/Srbija/715
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="http://rexshx.com:25461/picons/film/axnspin.png" group-title="Filmski",AXN Spin
+http://31.220.0.89:25461/Kodi/Srbija/717
+#EXTINF:-1 tvg-id="marvelchannel" tvg-name="AXN Adria" tvg-logo="http://5.9.21.6/DE/axn.png" group-title="Filmski",AXN Adria
+http://31.220.0.89:25461/Kodi/Srbija/718
+#EXTINF:-1 tvg-id="24Kitchen.hr" tvg-name="24 Kitchen" tvg-logo="http://rexshx.com:25461/picons/docu/24kitchenhd.png" group-title="Dokumentarni",24 Kitchen
+http://31.220.0.89:25461/Kodi/Srbija/719
+#EXTINF:-1 tvg-id="AnimalPlanet.hr" tvg-name="Animal Planet" tvg-logo="http://rexshx.com:25461/picons/docu/animalplanet.png" group-title="Dokumentarni",Animal Planet
+http://31.220.0.89:25461/Kodi/Srbija/720
+#EXTINF:-1 tvg-id="BBCEarth.hr" tvg-name="BBC Earth" tvg-logo="http://rexshx.com:25461/picons/docu/bbcearth.png" group-title="Dokumentarni",BBC Earth
+http://31.220.0.89:25461/Kodi/Srbija/721
+#EXTINF:-1 tvg-id="CBSReality.rs" tvg-name="CBS Reality" tvg-logo="http://rexshx.com:25461/picons/docu/cbsreality.png" group-title="Dokumentarni",CBS Reality
+http://31.220.0.89:25461/Kodi/Srbija/722
+#EXTINF:-1 tvg-id="crimeinvestigation" tvg-name="Crime Investigation" tvg-logo="http://rexshx.com:25461/picons/docu/crimeinvestigation.png" group-title="Dokumentarni",Crime Investigation
+http://31.220.0.89:25461/Kodi/Srbija/723
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="http://rexshx.com:25461/picons/docu/davincilearning.png" group-title="Dokumentarni",Da Vinci Learning
+http://31.220.0.89:25461/Kodi/Srbija/725
+#EXTINF:-1 tvg-id="Discovery.hr" tvg-name="Discovery Channel" tvg-logo="http://rexshx.com:25461/picons/docu/discovery.png" group-title="Dokumentarni",Discovery Channel
+http://31.220.0.89:25461/Kodi/Srbija/726
+#EXTINF:-1 tvg-id="fineliving" tvg-name="Fine Living" tvg-logo="http://rexshx.com:25461/picons/docu/fineliving.png" group-title="Dokumentarni",Fine Living
+http://31.220.0.89:25461/Kodi/Srbija/727
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="http://rexshx.com:25461/picons/docu/foodnetwork.png" group-title="Dokumentarni",Food Network
+http://31.220.0.89:25461/Kodi/Srbija/728
+#EXTINF:-1 tvg-id="HistoryChannel" tvg-name="History Channel" tvg-logo="http://rexshx.com:25461/picons/de/historychannelhd.png" group-title="Dokumentarni",History Channel
+http://31.220.0.89:25461/Kodi/Srbija/729
+#EXTINF:-1 tvg-id="LoviRibolov.rs" tvg-name="Lov i Ribolov" tvg-logo="http://rexshx.com:25461/picons/docu/loviribolov.png" group-title="Dokumentarni",Lov i Ribolov
+http://31.220.0.89:25461/Kodi/Srbija/730
+#EXTINF:-1 tvg-id="NationalGeographic.rs" tvg-name="National Geographic" tvg-logo="http://rexshx.com:25461/picons/docu/nationalgeographic.png" group-title="Dokumentarni",National Geographic
+http://31.220.0.89:25461/Kodi/Srbija/731
+#EXTINF:-1 tvg-id="PlanetEarth.hr" tvg-name="Planet Earth" tvg-logo="http://rexshx.com:25461/picons/docu/planetearth.png" group-title="Dokumentarni",Planet Earth
+http://31.220.0.89:25461/Kodi/Srbija/732
+#EXTINF:-1 tvg-id="TravelChannel.hr" tvg-name="Travel Channel" tvg-logo="http://rexshx.com:25461/picons/docu/travelchannel.png" group-title="Dokumentarni",Travel Channel
+http://31.220.0.89:25461/Kodi/Srbija/733
+#EXTINF:-1 tvg-id="ViasatHistory.hr" tvg-name="Viasat History" tvg-logo="http://rexshx.com:25461/picons/docu/viasathistory.png" group-title="Dokumentarni",Viasat History
+http://31.220.0.89:25461/Kodi/Srbija/734
+#EXTINF:-1 tvg-id="ViasatNature.hr" tvg-name="Viasat Nature" tvg-logo="" group-title="Dokumentarni",Viasat Nature
+http://31.220.0.89:25461/Kodi/Srbija/814
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport 1" tvg-logo="http://rexshx.com:25461/picons/sport/eurosport1hd.png" group-title="Sport",Eurosport 1
+http://31.220.0.89:25461/Kodi/Srbija/735
+#EXTINF:-1 tvg-id="EUROSPORT2" tvg-name="Eurosport 2" tvg-logo="http://rexshx.com:25461/picons/sport/eurosport2hd.png" group-title="Sport",Eurosport 2
+http://31.220.0.89:25461/Kodi/Srbija/736
+#EXTINF:-1 tvg-id="ArenaSport1hr" tvg-name="Arena Sport 1 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena1.png" group-title="Sport",Arena Sport 1 HR
+http://31.220.0.89:25461/Kodi/Srbija/737
+#EXTINF:-1 tvg-id="ArenaSport2hr" tvg-name="Arena Sport 2 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena2.png" group-title="Sport",Arena Sport 2 HR
+http://31.220.0.89:25461/Kodi/Srbija/738
+#EXTINF:-1 tvg-id="ArenaSport3hr" tvg-name="Arena Sport 3 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena3.png" group-title="Sport",Arena Sport 3 HR
+http://31.220.0.89:25461/Kodi/Srbija/739
+#EXTINF:-1 tvg-id="ArenaSport4hr" tvg-name="Arena Sport 4 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena4.png" group-title="Sport",Arena Sport 4 HR
+http://31.220.0.89:25461/Kodi/Srbija/740
+#EXTINF:-1 tvg-id="ArenaSport5hr" tvg-name="Arena Sport 5 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena5.png" group-title="Sport",Arena Sport 5 HR
+http://31.220.0.89:25461/Kodi/Srbija/741
+#EXTINF:-1 tvg-id="ArenaSport6hr" tvg-name="Arena Sport 6 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena6.png" group-title="Sport",Arena Sport 6 HR
+http://31.220.0.89:25461/Kodi/Srbija/742
+#EXTINF:-1 tvg-id="ArenaSport1" tvg-name="Arena Sport 1 SR" tvg-logo="http://rexshx.com:25461/picons/sport/arena1.png" group-title="Sport",Arena Sport 1 SR
+http://31.220.0.89:25461/Kodi/Srbija/743
+#EXTINF:-1 tvg-id="ArenaSport2" tvg-name="Arena Sport 2 SR" tvg-logo="http://rexshx.com:25461/picons/sport/arena2.png" group-title="Sport",Arena Sport 2 SR
+http://31.220.0.89:25461/Kodi/Srbija/744
+#EXTINF:-1 tvg-id="ArenaSport3" tvg-name="Arena Sport 3 SR" tvg-logo="http://rexshx.com:25461/picons/sport/arena3.png" group-title="Sport",Arena Sport 3 SR
+http://31.220.0.89:25461/Kodi/Srbija/745
+#EXTINF:-1 tvg-id="ArenaSport4" tvg-name="Arena Sport 4 SR" tvg-logo="http://rexshx.com:25461/picons/sport/arena4.png" group-title="Sport",Arena Sport 4 SR
+http://31.220.0.89:25461/Kodi/Srbija/746
+#EXTINF:-1 tvg-id="ArenaSport5" tvg-name="Arena Sport 5 SR" tvg-logo="http://rexshx.com:25461/picons/sport/arena5.png" group-title="Sport",Arena Sport 5 SR
+http://31.220.0.89:25461/Kodi/Srbija/747
+#EXTINF:-1 tvg-id="SK1HR" tvg-name="Sport Klub 1 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk1.png" group-title="Sport",Sport Klub 1 HR
+http://31.220.0.89:25461/Kodi/Srbija/748
+#EXTINF:-1 tvg-id="SK2HR" tvg-name="Sport Klub 2 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk2.png" group-title="Sport",Sport Klub 2 HR
+http://31.220.0.89:25461/Kodi/Srbija/749
+#EXTINF:-1 tvg-id="SK3HR" tvg-name="Sport Klub 3 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk3.png" group-title="Sport",Sport Klub 3 HR
+http://31.220.0.89:25461/Kodi/Srbija/750
+#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Sport Klub 4 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk4.png" group-title="Sport",Sport Klub 4 HR
+http://31.220.0.89:25461/Kodi/Srbija/751
+#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Sport Klub 5 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk5.png" group-title="Sport",Sport Klub 5 HR
+http://31.220.0.89:25461/Kodi/Srbija/752
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk6.png" group-title="Sport",Sport Klub 6 HR
+http://31.220.0.89:25461/Kodi/Srbija/753
+#EXTINF:-1 tvg-id="SportKlub1" tvg-name="SPORT KLUB 1 RS" tvg-logo="http://www.cableguy.club/sk1.png" group-title="Sport",SPORT KLUB 1 RS
+http://31.220.0.89:25461/Kodi/Srbija/835
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 RS" tvg-logo="http://www.cableguy.club/sk2.png" group-title="Sport",SPORT KLUB 2 RS
+http://31.220.0.89:25461/Kodi/Srbija/836
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 RS" tvg-logo="http://www.cableguy.club/sk3.png" group-title="Sport",SPORT KLUB 3 RS
+http://31.220.0.89:25461/Kodi/Srbija/837
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4 RS" tvg-logo="http://www.cableguy.club/sk4.png" group-title="Sport",SPORT KLUB 4 RS
+http://31.220.0.89:25461/Kodi/Srbija/838
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT BIH" tvg-logo="http://rexshx.com:25461/picons/sport/novasport.png" group-title="Sport",NOVA SPORT BIH
+http://31.220.0.89:25461/Kodi/Srbija/839
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  1 " tvg-logo="" group-title="Sport",ORF Sport  1 
+http://31.220.0.89:25461/Kodi/Srbija/840
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1" tvg-logo="http://www.cableguy.club/BT_Sport_1.png" group-title="Sport",BT SPORT 1
+http://31.220.0.89:25461/Kodi/Srbija/841
+#EXTINF:-1 tvg-id="PLANETSPORT1.hr" tvg-name="Planet Sport 1" tvg-logo="http://rexshx.com:25461/picons/sport/planetsport1.png" group-title="Sport",Planet Sport 1
+http://31.220.0.89:25461/Kodi/Srbija/764
+#EXTINF:-1 tvg-id="PLANETSPORT2.hr" tvg-name="Planet Sport 2" tvg-logo="http://rexshx.com:25461/picons/sport/planetsport2.png" group-title="Sport",Planet Sport 2
+http://31.220.0.89:25461/Kodi/Srbija/765
+#EXTINF:-1 tvg-id="PLANETSPORT3.hr" tvg-name="Planet Sport 3" tvg-logo="http://rexshx.com:25461/picons/sport/planetsport3.png" group-title="Sport",Planet Sport 3
+http://31.220.0.89:25461/Kodi/Srbija/766
+#EXTINF:-1 tvg-id="planetsport4" tvg-name="Planet Sport 4" tvg-logo="http://rexshx.com:25461/picons/sport/planetsport4.png" group-title="Sport",Planet Sport 4
+http://31.220.0.89:25461/Kodi/Srbija/767
+#EXTINF:-1 tvg-id="planetsport5" tvg-name="Planet Sport 5" tvg-logo="http://rexshx.com:25461/picons/sport/planetsport5.png" group-title="Sport",Planet Sport 5
+http://31.220.0.89:25461/Kodi/Srbija/768
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-logo="" group-title="Srbija",RTS 1
+http://31.220.0.89:25461/Kodi/Srbija/807
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="" group-title="Srbija",RTS 2
+http://31.220.0.89:25461/Kodi/Srbija/808
+#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3" tvg-logo="" group-title="Srbija",RTS 3
+http://31.220.0.89:25461/Kodi/Srbija/809
+#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV" tvg-logo="" group-title="Srbija",Prva TV
+http://31.220.0.89:25461/Kodi/Srbija/810
+#EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="Prva PLUS" tvg-logo="" group-title="Srbija",Prva PLUS
+http://31.220.0.89:25461/Kodi/Srbija/846
+#EXTINF:-1 tvg-id="happytv.sr" tvg-name="Happy" tvg-logo="" group-title="Srbija",Happy
+http://31.220.0.89:25461/Kodi/Srbija/847
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 " tvg-logo="" group-title="Srbija",N1 
+http://31.220.0.89:25461/Kodi/Srbija/811
+#EXTINF:-1 tvg-id="novas.rs" tvg-name="Nova S" tvg-logo="" group-title="Srbija",Nova S
+http://31.220.0.89:25461/Kodi/Srbija/812
+#EXTINF:-1 tvg-id="studio-b-yu.sr" tvg-name="Studio B" tvg-logo="" group-title="Srbija",Studio B
+http://31.220.0.89:25461/Kodi/Srbija/813
+#EXTINF:-1 tvg-id="NatGeoWildHD.hr" tvg-name="Nat Geo WILD" tvg-logo="" group-title="Dokumentarni",Nat Geo WILD
+http://31.220.0.89:25461/Kodi/Srbija/815
+#EXTINF:-1 tvg-id="ViasatNature.hr" tvg-name="Viasat Nature" tvg-logo="" group-title="Dokumentarni",Viasat Nature
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science USA" tvg-logo="" group-title="Dokumentarni",Discovery Science USA
+http://31.220.0.89:25461/Kodi/Srbija/842
+#EXTINF:-1 tvg-id="" tvg-name="Jugoton" tvg-logo="http://www.cableguy.club/Jugoton_TV.png" group-title="Muzicki",Jugoton
+http://31.220.0.89:25461/Kodi/Srbija/848
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="Muzicki",VH1 Classic
+http://31.220.0.89:25461/Kodi/Srbija/849
+#EXTINF:-1 tvg-id="" tvg-name="CMC" tvg-logo="" group-title="Muzicki",CMC
+http://31.220.0.89:25461/Kodi/Srbija/850
+#EXTINF:-1 tvg-id="" tvg-name="BN Music" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bn_music.jpg" group-title="Muzicki",BN Music
+http://31.220.0.89:25461/Kodi/Srbija/851
+#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 1" tvg-logo="http://195.154.233.186:82/logo_channels/pink_folk1.png" group-title="Muzicki",Pink Folk 1
+http://31.220.0.89:25461/Kodi/Srbija/852
+#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 2" tvg-logo="http://195.154.233.186:82/logo_channels/pink_folk2.png" group-title="Muzicki",Pink Folk 2
+http://31.220.0.89:25461/Kodi/Srbija/853
+#EXTINF:-1 tvg-id="" tvg-name="MRT 1" tvg-logo="" group-title="Makedonija",MRT 1
+http://31.220.0.89:25461/Kodi/Srbija/874
+#EXTINF:-1 tvg-id="" tvg-name="MPT Sobraniski" tvg-logo="" group-title="Makedonija",MPT Sobraniski
+http://31.220.0.89:25461/Kodi/Srbija/877
+#EXTINF:-1 tvg-id="" tvg-name="ALSAT" tvg-logo="" group-title="Makedonija",ALSAT
+http://31.220.0.89:25461/Kodi/Srbija/879
+#EXTINF:-1 tvg-id="" tvg-name="Alfa" tvg-logo="" group-title="Makedonija",Alfa
+http://31.220.0.89:25461/Kodi/Srbija/875
+#EXTINF:-1 tvg-id="" tvg-name="Sitel" tvg-logo="" group-title="Makedonija",Sitel
+http://31.220.0.89:25461/Kodi/Srbija/876
+#EXTINF:-1 tvg-id="" tvg-name="Sky Folk" tvg-logo="" group-title="Makedonija",Turbo Folk
+http://31.220.0.89:25461/Kodi/Srbija/873
+#EXTINF:-1 tvg-id="" tvg-name="Nasa TV" tvg-logo="" group-title="Makedonija",Nasa TV
+http://31.220.0.89:25461/Kodi/Srbija/880
+#EXTINF:-1 tvg-id="" tvg-name="Cineplex" tvg-logo="" group-title="Makedonija",Cineplex
+http://31.220.0.89:25461/Kodi/Srbija/881
+#EXTINF:-1 tvg-id="" tvg-name="TV Plus Kumanovo" tvg-logo="" group-title="Makedonija",TV Plus Kumanovo
+http://31.220.0.89:25461/Kodi/Srbija/878
+#EXTINF:-1 tvg-id="" tvg-name="TV Hugo" tvg-logo="" group-title="Makedonija",TV Hugo
+http://31.220.0.89:25461/Kodi/Srbija/870
+#EXTINF:-1 tvg-id="" tvg-name="Hugo 2" tvg-logo="" group-title="Makedonija",Hugo 2
+http://31.220.0.89:25461/Kodi/Srbija/871
+#EXTINF:-1 tvg-id="" tvg-name="Hugo 3" tvg-logo="" group-title="Makedonija",Hugo 3
+http://31.220.0.89:25461/Kodi/Srbija/872
+#EXTINF:-1 tvg-id="" tvg-name="Zvezda TV" tvg-logo="" group-title="Sport",Zvezda TV
+http://31.220.0.89:25461/Kodi/Srbija/882
+#EXTINF:-1 tvg-id="" tvg-name="RTCG 1" tvg-logo="" group-title="Montenegro",RTCG 1
+http://31.220.0.89:25461/Kodi/Srbija/883
+#EXTINF:-1 tvg-id="" tvg-name="RTCG sat" tvg-logo="" group-title="Montenegro",RTCG sat
+http://31.220.0.89:25461/Kodi/Srbija/884
+#EXTINF:-1 tvg-id="" tvg-name="RTCG 2" tvg-logo="" group-title="Montenegro",RTCG 2
+http://31.220.0.89:25461/Kodi/Srbija/885
+#EXTINF:-1 tvg-id="" tvg-name="Prva CG" tvg-logo="" group-title="Montenegro",Prva CG
+http://31.220.0.89:25461/Kodi/Srbija/886
+#EXTINF:-1 tvg-id="" tvg-name="TV Vijesti" tvg-logo="" group-title="Montenegro",TV Vijesti
+http://31.220.0.89:25461/Kodi/Srbija/887
+#EXTINF:-1 tvg-id="" tvg-name="Nova M" tvg-logo="" group-title="Montenegro",Nova M
+http://31.220.0.89:25461/Kodi/Srbija/888
+#EXTINF:-1 tvg-id="" tvg-name="V 777 Podgorica" tvg-logo="" group-title="Montenegro",V 777 Podgorica
+http://31.220.0.89:25461/Kodi/Srbija/889
+#EXTINF:-1 tvg-id="" tvg-name="Monte-Lux" tvg-logo="" group-title="Montenegro",Monte-Lux
+http://31.220.0.89:25461/Kodi/Srbija/890
+#EXTINF:-1 tvg-id="" tvg-name="Telma" tvg-logo="" group-title="Makedonija",Telma
+http://31.220.0.89:25461/Kodi/Srbija/891
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5" tvg-logo="" group-title="Makedonija",Kanal 5
+http://31.220.0.89:25461/Kodi/Srbija/892
