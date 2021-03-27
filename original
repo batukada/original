@@ -3,6 +3,12 @@
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/06/nick_jr_384x216.png",NICK JR
 http://client.nodomain.vip:80/live.ts?channelId=358&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_channel_global.png",DISNEY CHANNEL UK
+http://client.nodomain.vip:80/live.ts?channelId=528&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png",DISNEY JUNIOR UK
+http://client.nodomain.vip:80/live.ts?channelId=1392&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:0,CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
 #EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",¦¯_¯_¯KIDS ¯_¯_¯¦
 http://client.nodomain.vip:80/live.ts?channelId=1128&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
 #EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS
