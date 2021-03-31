@@ -28,6 +28,597 @@ http://client.nodomain.vip:80/live.ts?channelId=1670&uid=33688&deviceUser=27josi
 #EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MAXCRO SELECT KIDS 2 HD
 http://client.nodomain.vip:80/live.ts?channelId=1671&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
 #EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MASA I MEDO
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt1.jpg",HTV 1
+http://client.nodomain.vip:80/live.ts?channelId=2&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt1_hd.png",HTV 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1489&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt2.jpg",HTV 2
+http://client.nodomain.vip:80/live.ts?channelId=3&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt2_hd.png",HTV 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1463&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt3.jpg",HTV 3
+http://client.nodomain.vip:80/live.ts?channelId=188&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt3_hd.png",HTV 3 HD
+http://client.nodomain.vip:80/live.ts?channelId=1490&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt4.jpg",HTV 4
+http://client.nodomain.vip:80/live.ts?channelId=277&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt4_hd.png",HTV 4 HD
+http://client.nodomain.vip:80/live.ts?channelId=1491&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt_satelitski_program.jpg",HTV INT.
+http://client.nodomain.vip:80/live.ts?channelId=606&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaTV_logo_2019.png",NOVA TV
+http://client.nodomain.vip:80/live.ts?channelId=5&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/nova_hd/801-8-cro-HR/nova_hd_tvchannel_list.png",NOVA TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1176&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/doma.png",DOMA TV
+http://client.nodomain.vip:80/live.ts?channelId=7&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/doma.png",DOMA TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1391&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL.png",RTL TV
+http://client.nodomain.vip:80/live.ts?channelId=4&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL.png",RTL TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1777&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL2-logo.png",RTL 2
+http://client.nodomain.vip:80/live.ts?channelId=6&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL2-logo.png",RTL 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1778&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl-kockica-logo.png",RTL KOCKICA
+http://client.nodomain.vip:80/live.ts?channelId=8&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl-kockica-logo.png",RTL KOCKICA HD
+http://client.nodomain.vip:80/live.ts?channelId=1779&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_rtl_adria.png",RTL ADRIA
+http://client.nodomain.vip:80/live.ts?channelId=1804&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_rtl_crime.png",RTL CRIME
+http://client.nodomain.vip:80/live.ts?channelId=313&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL_Living_logo.png",RTL_LIVING
+http://client.nodomain.vip:80/live.ts?channelId=261&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL_Passion_logo.png",RTL PASSION
+http://client.nodomain.vip:80/live.ts?channelId=356&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://poslovni.sbb.rs/wp-content/uploads/2020/03/rtl-croatia-world.png",RTL CROATIA WORLD
+http://client.nodomain.vip:80/live.ts?channelId=1231&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/KlasikTV_logo.png",KLASIK TV
+http://client.nodomain.vip:80/live.ts?channelId=45&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/dutv-logo.png",DUBROVNIK TV
+http://client.nodomain.vip:80/live.ts?channelId=1382&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="/noicon.png",GB TV
+http://client.nodomain.vip:80/live.ts?channelId=1233&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/jabukatv-logo.png",JABUKA TV
+http://client.nodomain.vip:80/live.ts?channelId=1236&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kanalr-logo.png",KANAL RI
+http://client.nodomain.vip:80/live.ts?channelId=1232&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_web_prod.jpg",KREATOR TV
+http://client.nodomain.vip:80/live.ts?channelId=1433&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LaudatoTV_logo.png",LAUDATO TV
+http://client.nodomain.vip:80/live.ts?channelId=604&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LibertasTV.png",LIBERTAS TV
+http://client.nodomain.vip:80/live.ts?channelId=1437&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://sj0292nqbq42lklxrpimpr5b-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/weblogo_sm_1.0.png",MARY TV MEDJUGORJE
+http://client.nodomain.vip:80/live.ts?channelId=1793&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/MrezaZG_logo.png",MREZA TV
+http://client.nodomain.vip:80/live.ts?channelId=1234&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/46/02/n1hd_logo_16_9_light_384x216_f0fa5312_10be_4645_9b31_005cadb32a1f.png",N1 HR
+http://client.nodomain.vip:80/live.ts?channelId=1458&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/ostv-logo.png",OSJECKA TV
+http://client.nodomain.vip:80/live.ts?channelId=342&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/poljoprivredna_tv_logo.png",POLJOPRIVREDNA TV
+http://client.nodomain.vip:80/live.ts?channelId=1237&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://sbtv.hr/templates/retroid/images/logos/rlogo1.png",SB TV
+http://client.nodomain.vip:80/live.ts?channelId=1865&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/stv-logo.png",SLAVONSKA TV
+http://client.nodomain.vip:80/live.ts?channelId=538&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sptv-logo.png",SPORTSKA TV
+http://client.nodomain.vip:80/live.ts?channelId=1673&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TrendTV-logo_logo.png",TREND TV KARLOVAC
+http://client.nodomain.vip:80/live.ts?channelId=1280&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvaurora.tv/wp-content/uploads/2020/03/Logo-480-7.png",TV AURORA
+http://client.nodomain.vip:80/live.ts?channelId=1238&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv-jadran-logo.png",TV JADRAN
+http://client.nodomain.vip:80/live.ts?channelId=1230&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="/noicon.png",TV MEDJUGORJE
+http://client.nodomain.vip:80/live.ts?channelId=1790&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Plava_Vinkovacka_logo.png",VINKOVACKA TV
+http://client.nodomain.vip:80/live.ts?channelId=539&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/vtv-logo.png",VTV VARAZDIN
+http://client.nodomain.vip:80/live.ts?channelId=1216&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/zdrava-televizija-logo.jpg",ZDRAVA TV
+http://client.nodomain.vip:80/live.ts?channelId=1235&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/z1-logo.png",Z1
+http://client.nodomain.vip:80/live.ts?channelId=540&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-round-250.png",█▀▄▀▄▀BOSNA I HERCEGOVINA▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1115&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaBH_logo.png",NOVA BH
+http://client.nodomain.vip:80/live.ts?channelId=36&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaBH_logo.png",NOVA BH HD
+http://client.nodomain.vip:80/live.ts?channelId=1509&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bht1.jpg",BHT
+http://client.nodomain.vip:80/live.ts?channelId=47&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/28/18/bht1_logo_16_9_light_384x216_b45eb1ad_0092_490a_b365_41f2853cdcd9.png",BHT HD
+http://client.nodomain.vip:80/live.ts?channelId=1188&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/obn.jpg",OBN
+http://client.nodomain.vip:80/live.ts?channelId=51&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bnsat.png",BN SAT
+http://client.nodomain.vip:80/live.ts?channelId=48&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ftv_ba.jpg",FTV
+http://client.nodomain.vip:80/live.ts?channelId=1&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_ba.jpg",HAYAT
+http://client.nodomain.vip:80/live.ts?channelId=39&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/alfatvlogo.png",ALFA TV
+http://client.nodomain.vip:80/live.ts?channelId=310&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_balkans.jpg",AL JAZEERA
+http://client.nodomain.vip:80/live.ts?channelId=117&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/ATV_logo.png",ATV
+http://client.nodomain.vip:80/live.ts?channelId=104&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://www.b1tv.ba/wp-content/uploads/2018/12/fav-257x300.png",B1 TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1441&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://tv.bir.ba/wp-content/uploads/2017/06/TVLogoBetaV1.png",BIR TV
+http://client.nodomain.vip:80/live.ts?channelId=1835&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://bosansko-posavskatv.com/wp-content/uploads/2019/05/Bosansko-Posavska-Televizija03.jpg",BOSANSKO POSAVSKA TV
+http://client.nodomain.vip:80/live.ts?channelId=1583&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/CityTV_logo.png",CITY TV MOSTAR
+http://client.nodomain.vip:80/live.ts?channelId=1454&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Dobra_Balkanska_TV_logo.png",DOBRA TV ISLAM
+http://client.nodomain.vip:80/live.ts?channelId=1517&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/face-tv-logo.png",FACE TV
+http://client.nodomain.vip:80/live.ts?channelId=54&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_plus.jpg",HAYAT PLUS
+http://client.nodomain.vip:80/live.ts?channelId=103&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kanal6-logo.png",KANAL 6
+http://client.nodomain.vip:80/live.ts?channelId=1440&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="/noicon.png",MEKKA TV
+http://client.nodomain.vip:80/live.ts?channelId=1516&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/mtv-igman-logo.png",MTV IGMAN
+http://client.nodomain.vip:80/live.ts?channelId=116&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/45/57/n1hd_logo_16_9_light_384x216_205f4923_27d6_4713_8d99_77ba011a0a3d.png",N1 BOSNA
+http://client.nodomain.vip:80/live.ts?channelId=52&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/12/03/23/48/52/l_o_kanal_xl.png",O KANAL
+http://client.nodomain.vip:80/live.ts?channelId=56&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://podrinjemedia.ba/wp-content/uploads/2020/04/PodrinjeMediaLogo-2-300x275-1.png",PODRINJE TV
+http://client.nodomain.vip:80/live.ts?channelId=1875&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv7.jpg",RTV 7
+http://client.nodomain.vip:80/live.ts?channelId=348&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://rtvbpk.ba/wp-content/uploads/2020/04/Big_Logo_20.gif",RTV BPK
+http://client.nodomain.vip:80/live.ts?channelId=1807&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/08/15/tv_bugojno_384x216.png",RTV BUGOJNO
+http://client.nodomain.vip:80/live.ts?channelId=1373&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://rtvcazin.ba/wp-content/uploads/2019/08/logo-jpg.jpg",RTV CAZIN
+http://client.nodomain.vip:80/live.ts?channelId=1798&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/07/02/13/16/26/l_logo_transparentbck.png",RTV HERCEG BOSNE
+http://client.nodomain.vip:80/live.ts?channelId=1434&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://sanartv.ba/wp-content/uploads/2017/03/RTVSANA-bijelo-e1490615551806.png",RTV SANA
+http://client.nodomain.vip:80/live.ts?channelId=1838&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-usk-logo.png",RTV USK
+http://client.nodomain.vip:80/live.ts?channelId=350&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-ze-logo.png",RTV ZENICA
+http://client.nodomain.vip:80/live.ts?channelId=311&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/favicon-www.televizija5.ba.png",TELEVIZIJA 5
+http://client.nodomain.vip:80/live.ts?channelId=484&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-tk-logo.png",TK TUZLA
+http://client.nodomain.vip:80/live.ts?channelId=59&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kanal3-prnjavor-logo.png",TV K3
+http://client.nodomain.vip:80/live.ts?channelId=347&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tvsa-logo.png",TV SARAJEVO
+http://client.nodomain.vip:80/live.ts?channelId=339&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Slon_Extra_logo.png",TV SLON
+http://client.nodomain.vip:80/live.ts?channelId=323&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://cdn.countryflags.com/thumbs/serbia/flag-round-250.png",█▀▄▀▄▀SRBIJA▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1116&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/novaslogo.png",NOVA S HD
+http://client.nodomain.vip:80/live.ts?channelId=603&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://nstatic.net/img/tv/channels/m/rts-1.png",RTS HD
+http://client.nodomain.vip:80/live.ts?channelId=1189&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS1_logo.png",RTS 1
+http://client.nodomain.vip:80/live.ts?channelId=37&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS2_logo.png",RTS 2
+http://client.nodomain.vip:80/live.ts?channelId=38&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_3_logo.png",RTS 3
+http://client.nodomain.vip:80/live.ts?channelId=544&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Drama_logo.png",RTS DRAMA
+http://client.nodomain.vip:80/live.ts?channelId=1494&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Kolo_logo.jpg",RTS_KOLO
+http://client.nodomain.vip:80/live.ts?channelId=1499&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_svet_logo.png",RTS SVET
+http://client.nodomain.vip:80/live.ts?channelId=1496&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Trezor_logo.png",RTS TREZOR
+http://client.nodomain.vip:80/live.ts?channelId=1497&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Zivot_logo.png",RTS ZIVOT
+http://client.nodomain.vip:80/live.ts?channelId=1498&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtrs-logo.png",RTRS
+http://client.nodomain.vip:80/live.ts?channelId=53&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://nstatic.net/img/tv/channels/m/b92.png",B92
+http://client.nodomain.vip:80/live.ts?channelId=58&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Happy_new_logo.png",HAPPY
+http://client.nodomain.vip:80/live.ts?channelId=235&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://i.ytimg.com/vi/HhL-97KGLXk/hqdefault.jpg",HAPPY PAROVI 24/7
+http://client.nodomain.vip:80/live.ts?channelId=483&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Hram_logo.png",HRAM_TV
+http://client.nodomain.vip:80/live.ts?channelId=1776&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",KURIR TV
+http://client.nodomain.vip:80/live.ts?channelId=1864&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://nstatic.net/img/tv/channels/m/n1.png",N1 RS
+http://client.nodomain.vip:80/live.ts?channelId=1457&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",NASA_BALKAN
+http://client.nodomain.vip:80/live.ts?channelId=1504&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",NOVA RS
+http://client.nodomain.vip:80/live.ts?channelId=1520&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-novi-pazar-logo.png",NOVI_PAZAR
+http://client.nodomain.vip:80/live.ts?channelId=132&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",PALMA_PLUS
+http://client.nodomain.vip:80/live.ts?channelId=1748&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prva-srpska-logo.png",PRVA TV
+http://client.nodomain.vip:80/live.ts?channelId=40&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Prva_FILES_logo.png",PRVA FILES
+http://client.nodomain.vip:80/live.ts?channelId=1644&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Prva_Plus_Logo.png",PRVA PLUS
+http://client.nodomain.vip:80/live.ts?channelId=42&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PRVA-KICK_logo.png",PRVA_KICK
+http://client.nodomain.vip:80/live.ts?channelId=1375&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prva-max_logo.jpg",PRVA MAX
+http://client.nodomain.vip:80/live.ts?channelId=1374&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prva_world_logo.png",PRVA WORLD
+http://client.nodomain.vip:80/live.ts?channelId=543&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://rtvbor.rs/wp-content/uploads/2018/09/rtvborrs_logo_site.png",RTV BOR
+http://client.nodomain.vip:80/live.ts?channelId=1887&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-vojvodina.jpg",RTV VOJVODINA 1
+http://client.nodomain.vip:80/live.ts?channelId=1456&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",SANDZAK_TV
+http://client.nodomain.vip:80/live.ts?channelId=455&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",SANDZACKA_TV_MREZA
+http://client.nodomain.vip:80/live.ts?channelId=1500&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sos_kanal.png",SOS
+http://client.nodomain.vip:80/live.ts?channelId=153&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",TV LOTEL
+http://client.nodomain.vip:80/live.ts?channelId=1912&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://cdn.countryflags.com/thumbs/montenegro/flag-round-250.png",█▀▄▀▄▀CRNA GORA▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1774&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaM_logo.png",NOVA_M
+http://client.nodomain.vip:80/live.ts?channelId=335&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTCG1-logo.jpg",RTCG 1
+http://client.nodomain.vip:80/live.ts?channelId=315&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTCG2-logo.jpg",RTCG 2
+http://client.nodomain.vip:80/live.ts?channelId=1643&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTCG-Sat-logo.jpg",RTCG SAT
+http://client.nodomain.vip:80/live.ts?channelId=1783&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prvacg.jpg",PRVA_TV_CG
+http://client.nodomain.vip:80/live.ts?channelId=1784&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Vijesti_CG_logo.png",TV VIJESTI CG
+http://client.nodomain.vip:80/live.ts?channelId=1645&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="/noicon.png",█▀▄▀▄▀PINK▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1118&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/52/01/zadruga_live_1_384x216.png",PINK ZADRUGA 1 24/7
+http://client.nodomain.vip:80/live.ts?channelId=1486&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/54/55/zadruga_live_2_384x216.png",PINK ZADRUGA 2 24/7
+http://client.nodomain.vip:80/live.ts?channelId=1743&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/56/36/zadruga_live_3_384x216.png",PINK ZADRUGA 3 24/7
+http://client.nodomain.vip:80/live.ts?channelId=1744&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/58/20/zadruga_live_4_384x216.png",PINK ZADRUGA 4 24/7
+http://client.nodomain.vip:80/live.ts?channelId=1745&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PINK-logo.jpg",PINK
+http://client.nodomain.vip:80/live.ts?channelId=64&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Media_BH_logo.png",PINK BH
+http://client.nodomain.vip:80/live.ts?channelId=1383&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink_media_m.png",PINK M
+http://client.nodomain.vip:80/live.ts?channelId=1385&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/Red-TV-Pink-Logo.png",RED TV (ex.Pink 2)
+http://client.nodomain.vip:80/live.ts?channelId=57&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink3_Info_logo.png",PINK 3
+http://client.nodomain.vip:80/live.ts?channelId=60&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-action-logo.png",PINK ACTION
+http://client.nodomain.vip:80/live.ts?channelId=32&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-classic-logo.png",PINK CLASSIC
+http://client.nodomain.vip:80/live.ts?channelId=494&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkComedy.png",PINK COMEDY
+http://client.nodomain.vip:80/live.ts?channelId=50&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Crime_Mistery_logo.png",PINK CRIME MYSTERY
+http://client.nodomain.vip:80/live.ts?channelId=34&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkExtra.png",PINK EXTRA
+http://client.nodomain.vip:80/live.ts?channelId=227&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-family-logo.png",PINK FAMILY
+http://client.nodomain.vip:80/live.ts?channelId=1281&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-film-logo.png",PINK FILM
+http://client.nodomain.vip:80/live.ts?channelId=120&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/05/30/17/05/15/pink_hits_2_384x216.png",PINK HITS 2
+http://client.nodomain.vip:80/live.ts?channelId=182&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/HaHa.png",PINK HAHA
+http://client.nodomain.vip:80/live.ts?channelId=1283&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkHorror.png",PINK HORROR
+http://client.nodomain.vip:80/live.ts?channelId=223&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-kids-logo.png",PINK KIDS
+http://client.nodomain.vip:80/live.ts?channelId=147&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LOL.png",PINK LOL
+http://client.nodomain.vip:80/live.ts?channelId=1282&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Kuvar_logo.png",PINK KUVAR
+http://client.nodomain.vip:80/live.ts?channelId=527&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-movies-logo.png",PINK MOVIES
+http://client.nodomain.vip:80/live.ts?channelId=532&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkPlus.png",PINK PLUS
+http://client.nodomain.vip:80/live.ts?channelId=55&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkPremium.png",PINK PREMIUM
+http://client.nodomain.vip:80/live.ts?channelId=31&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkReality.png",PINK REALITY
+http://client.nodomain.vip:80/live.ts?channelId=63&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Romance_logo.png",PINK ROMANCE
+http://client.nodomain.vip:80/live.ts?channelId=46&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_SciFi_Fantasy_logo.png",PINK SCI-FI FANTASY
+http://client.nodomain.vip:80/live.ts?channelId=66&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Serije_logo.png",PINK SERIJE
+http://client.nodomain.vip:80/live.ts?channelId=336&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkSoap_logo2.png",PINK SOAP
+http://client.nodomain.vip:80/live.ts?channelId=181&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Thriller_logo.png",PINK THRILLER
+http://client.nodomain.vip:80/live.ts?channelId=33&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-western-logo.jpg",PINK WESTERN
+http://client.nodomain.vip:80/live.ts?channelId=119&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-world-logo.png",PINK WORLD
+http://client.nodomain.vip:80/live.ts?channelId=154&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkZabava_logo.png",PINK ZABAVA
+http://client.nodomain.vip:80/live.ts?channelId=155&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="PINK" tvg-logo="/noicon.png",PINK PEDIA
+http://client.nodomain.vip:80/live.ts?channelId=1913&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png",█▀▄▀▄▀ALBANIJA▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1123&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",AMOL TV ALB
+http://client.nodomain.vip:80/live.ts?channelId=1649&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",ALB MUSIC
+http://client.nodomain.vip:80/live.ts?channelId=1654&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alsat_m.jpg",ALSAT M ALB
+http://client.nodomain.vip:80/live.ts?channelId=281&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",BESA TV ALB
+http://client.nodomain.vip:80/live.ts?channelId=1650&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",DASMA TV ALB
+http://client.nodomain.vip:80/live.ts?channelId=1655&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_aksion.jpg",FILM AKSION ALB
+http://client.nodomain.vip:80/live.ts?channelId=204&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_drame.jpg",FILM DRAME ALB
+http://client.nodomain.vip:80/live.ts?channelId=205&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",FILM DY HD ALB
+http://client.nodomain.vip:80/live.ts?channelId=139&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_hits.jpg",FILM HITS ALB
+http://client.nodomain.vip:80/live.ts?channelId=138&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_komedi.jpg",FILM KOMEDI ALB
+http://client.nodomain.vip:80/live.ts?channelId=137&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",FILM NJE HD ALB
+http://client.nodomain.vip:80/live.ts?channelId=134&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_thriller.jpg",FILM TRILLER ALB
+http://client.nodomain.vip:80/live.ts?channelId=140&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",FIRST CHANNEL ALB
+http://client.nodomain.vip:80/live.ts?channelId=1511&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/klan_kosova.jpg",KLAN KOSOVA ALB
+http://client.nodomain.vip:80/live.ts?channelId=1459&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/koha_vision.jpg",KTV KOHAVIZION ALB
+http://client.nodomain.vip:80/live.ts?channelId=233&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",MY MUSIC ALB
+http://client.nodomain.vip:80/live.ts?channelId=1653&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",RROKUM HD ALB
+http://client.nodomain.vip:80/live.ts?channelId=1652&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",RTK ALB
+http://client.nodomain.vip:80/live.ts?channelId=234&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",RTV 21 ALB
+http://client.nodomain.vip:80/live.ts?channelId=497&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",RTV 21 MK ALB
+http://client.nodomain.vip:80/live.ts?channelId=1817&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",RTV 21 POPULLORE ALB
+http://client.nodomain.vip:80/live.ts?channelId=498&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/supersonic_tv_folk.jpg",STV FOLK ALB
+http://client.nodomain.vip:80/live.ts?channelId=231&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/top_channel.jpg",TOP CHANNEL ALB
+http://client.nodomain.vip:80/live.ts?channelId=610&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",TRING ACTION ALB
+http://client.nodomain.vip:80/live.ts?channelId=271&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_planet.jpg",TRING PLANET ALB
+http://client.nodomain.vip:80/live.ts?channelId=272&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_shqip.jpg",TRING_SHQIP_ALB
+http://client.nodomain.vip:80/live.ts?channelId=273&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_super.jpg",TRING SUPER ALB
+http://client.nodomain.vip:80/live.ts?channelId=274&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_tring.jpg",TRING TRING ALB
+http://client.nodomain.vip:80/live.ts?channelId=275&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_world.jpg",TRING WORLD ALB
+http://client.nodomain.vip:80/live.ts?channelId=276&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",T7 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1816&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",TV DUKAGJINI ALB
+http://client.nodomain.vip:80/live.ts?channelId=1815&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_klan.jpg",TV KLAN ALB
+http://client.nodomain.vip:80/live.ts?channelId=229&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",TV KOHA ALB
+http://client.nodomain.vip:80/live.ts?channelId=1648&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",TV OPINION ALB
+http://client.nodomain.vip:80/live.ts?channelId=1651&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="https://cdn.countryflags.com/thumbs/macedonia/flag-round-250.png",█▀▄▀▄▀MAKEDONIJA▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1130&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/24_vesti_mk.jpg",24 VESTI MK
+http://client.nodomain.vip:80/live.ts?channelId=1568&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alfa_tv_es.jpg",ALFA TV MK
+http://client.nodomain.vip:80/live.ts?channelId=1785&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",FOLK KLUB MK
+http://client.nodomain.vip:80/live.ts?channelId=1556&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png",HBO MK
+http://client.nodomain.vip:80/live.ts?channelId=1561&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png",HBO 2 MK
+http://client.nodomain.vip:80/live.ts?channelId=1562&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo3_ce.png",HBO_3_MK
+http://client.nodomain.vip:80/live.ts?channelId=1563&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",HUGO 1 MK
+http://client.nodomain.vip:80/live.ts?channelId=1552&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",HUGO 2 MK
+http://client.nodomain.vip:80/live.ts?channelId=1553&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal5_ua.jpg",KANAL 5 MK
+http://client.nodomain.vip:80/live.ts?channelId=239&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",MTM TV MK
+http://client.nodomain.vip:80/live.ts?channelId=1786&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_1_mk.jpg",MRT 1 MK
+http://client.nodomain.vip:80/live.ts?channelId=569&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_2_sat.jpg",MRT 2 MK
+http://client.nodomain.vip:80/live.ts?channelId=570&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",MRT 3 MK
+http://client.nodomain.vip:80/live.ts?channelId=1551&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",PLANETA TV MK
+http://client.nodomain.vip:80/live.ts?channelId=1787&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg",SITEL MK
+http://client.nodomain.vip:80/live.ts?channelId=241&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",TV+ MK
+http://client.nodomain.vip:80/live.ts?channelId=571&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",TELMA MK
+http://client.nodomain.vip:80/live.ts?channelId=434&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",TV PLUS MK
+http://client.nodomain.vip:80/live.ts?channelId=1788&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",TV SUTEL MK
+http://client.nodomain.vip:80/live.ts?channelId=1586&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="https://cdn.countryflags.com/thumbs/slovenia/flag-round-250.png",█▀▄▀▄▀SLOVENIJA▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1127&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_slo1.jpg",SLO 1
+http://client.nodomain.vip:80/live.ts?channelId=536&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_slo2.jpg",SLO 2
+http://client.nodomain.vip:80/live.ts?channelId=537&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_slo3.jpg",SLO 3
+http://client.nodomain.vip:80/live.ts?channelId=1636&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pop_tv_si.jpg",POP TV SLO
+http://client.nodomain.vip:80/live.ts?channelId=605&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pop_oto.jpg",POP OTO SLO
+http://client.nodomain.vip:80/live.ts?channelId=1639&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_a_tr.jpg",KANAL A SLO
+http://client.nodomain.vip:80/live.ts?channelId=1334&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/planet_tv_si.jpg",PLANET TV SLO
+http://client.nodomain.vip:80/live.ts?channelId=1640&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="/noicon.png",PLANET TV 2 SLO
+http://client.nodomain.vip:80/live.ts?channelId=1894&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",█▀▄▀▄▀DOKU & ZABAVA ▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1119&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/10/28/24_kitchen_384x216.png",24 KITCHEN
+http://client.nodomain.vip:80/live.ts?channelId=9&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/animal_planet_poland.png",ANIMAL PLANET
+http://client.nodomain.vip:80/live.ts?channelId=108&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/06/06/14/57/09/ccx_384x216px.png",COMEDY CENTRAL EXTRA
+http://client.nodomain.vip:80/live.ts?channelId=1340&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2018/10/09/16/21/40/crime_and_investigation_384x216.png",CRIME INVESTIGATION
+http://client.nodomain.vip:80/live.ts?channelId=236&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",DA VINCI LEARNING
+http://client.nodomain.vip:80/live.ts?channelId=573&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/01/29/14/14/42/2.png",DISCOVERY
+http://client.nodomain.vip:80/live.ts?channelId=105&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",DISCOVERY SCIENCE
+http://client.nodomain.vip:80/live.ts?channelId=1672&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",DOKU TV
+http://client.nodomain.vip:80/live.ts?channelId=1839&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us_xtra.png",DTX HD
+http://client.nodomain.vip:80/live.ts?channelId=1662&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/58/57/e_entertainment_384x216.png",E!
+http://client.nodomain.vip:80/live.ts?channelId=118&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",FOOD NETWORK
+http://client.nodomain.vip:80/live.ts?channelId=1661&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/57/01/history_384x216.png",HISTORY
+http://client.nodomain.vip:80/live.ts?channelId=84&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/39/51/history2hd_logo_16_9_light_384x216_960b676d_768e_4cf9_9aaf_316314e944a2.png",HISTORY 2
+http://client.nodomain.vip:80/live.ts?channelId=467&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",INVESTIGATION DISCOVERY
+http://client.nodomain.vip:80/live.ts?channelId=1502&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/17/lov_i_ribolov_384x216.png",LOV I RIBOLOV
+http://client.nodomain.vip:80/live.ts?channelId=130&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/12/national_geographic_384x216.png",NATIONAL GEOGRAPHIC
+http://client.nodomain.vip:80/live.ts?channelId=10&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/02/12/10/51/33/nat_geo_wild_384x216.png",NAT GEO WILD
+http://client.nodomain.vip:80/live.ts?channelId=263&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",FINE LIVING
+http://client.nodomain.vip:80/live.ts?channelId=469&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",PLANET EARTH
+http://client.nodomain.vip:80/live.ts?channelId=1430&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/41/tlc_384x216.png",TLC
+http://client.nodomain.vip:80/live.ts?channelId=373&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/01/34/travel_channel_384x216.png",TRAVEL CHANNEL
+http://client.nodomain.vip:80/live.ts?channelId=468&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/15/viasat_explore_384x216.png",VIASAT EXPLORE
+http://client.nodomain.vip:80/live.ts?channelId=1153&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/12/56/viasathistory_logo_16_9_light_384x216_81d897e3_8090_4a26_9636_7a755b99ccd3.png",VIASAT HISTORY
+http://client.nodomain.vip:80/live.ts?channelId=587&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/22/viasat_nature_384x216.png",VIASAT NATURE
+http://client.nodomain.vip:80/live.ts?channelId=1663&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://cdn.countryflags.com/thumbs/croatia/flag-button-round-250.png",█▀▄▀▄▀MUZIKA & ZABAVA▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1863&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/rtv_banovina/31833-6-cro-HR/rtv_banovina_tvchannel_list.png",BANOVINA TV
+http://client.nodomain.vip:80/live.ts?channelId=443&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/balkanika-logo.png",BALKANIKA
+http://client.nodomain.vip:80/live.ts?channelId=307&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo-www.bnmusic.org_logo.png",BN MUSIC
+http://client.nodomain.vip:80/live.ts?channelId=131&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/CMC_TV_logo.png",CMC
+http://client.nodomain.vip:80/live.ts?channelId=1799&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/CMC_TV_logo.png",CMC HD
+http://client.nodomain.vip:80/live.ts?channelId=110&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/DMC_televizija_logo.png",DMC TV
+http://client.nodomain.vip:80/live.ts?channelId=1750&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/dm-sat-logo.png",DM_SAT
+http://client.nodomain.vip:80/live.ts?channelId=43&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://lh3.googleusercontent.com/tfNjE2fNDWF6EnCkXNpfXbLOYiDFgl0T0ybnMV3uVyXQxFG49qs4woYiqtYPg0kQOtYO",DUGA_TV
+http://client.nodomain.vip:80/live.ts?channelId=226&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://sviraradio.com/logo/134-radio-glas-drine.jpg",GLAS DRINE
+http://client.nodomain.vip:80/live.ts?channelId=1453&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/01/19/grand_384x216.png",GRAND TV
+http://client.nodomain.vip:80/live.ts?channelId=95&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/59/01/grand_2_384x216.png",GRAND_TV_2
+http://client.nodomain.vip:80/live.ts?channelId=493&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hayatfolk_logo.png",HAYAT FOLK
+http://client.nodomain.vip:80/live.ts?channelId=149&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/51/07/idj_tv_hd_384x216.png",IDJ_TV
+http://client.nodomain.vip:80/live.ts?channelId=485&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/IzvornaTV_logo.png",IZVORNA TV
+http://client.nodomain.vip:80/live.ts?channelId=295&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/jugoton-tv-logo.png",JUGOTON TV
+http://client.nodomain.vip:80/live.ts?channelId=542&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kcn1-logo.png",KCN
+http://client.nodomain.vip:80/live.ts?channelId=338&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/19/mtv_384x216.png",MTV
+http://client.nodomain.vip:80/live.ts?channelId=85&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/29/mtv_hits_384x216.png",MTV HITS
+http://client.nodomain.vip:80/live.ts?channelId=595&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_base_fr.jpg",MTV BASE
+http://client.nodomain.vip:80/live.ts?channelId=1881&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_classic_uk.jpg",MTV CLASSIC
+http://client.nodomain.vip:80/live.ts?channelId=1882&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_dance_uk.jpg",MTV DANCE
+http://client.nodomain.vip:80/live.ts?channelId=1883&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/narodni/10690-6-cro-HR/narodni_tvchannel_list.png",NARODNA TV
+http://client.nodomain.vip:80/live.ts?channelId=1432&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/otv-valentino-logo.png",OTV
+http://client.nodomain.vip:80/live.ts?channelId=269&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="/noicon.png",OTV FOLK
+http://client.nodomain.vip:80/live.ts?channelId=1885&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="/noicon.png",OTV ETNO
+http://client.nodomain.vip:80/live.ts?channelId=1886&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="/noicon.png",PRVA HERCEGOVACKA
+http://client.nodomain.vip:80/live.ts?channelId=1884&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkFolk1_logo.png",PINK FOLK 1
+http://client.nodomain.vip:80/live.ts?channelId=349&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkFolk2_logo.png",PINK FOLK 2
+http://client.nodomain.vip:80/live.ts?channelId=148&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/08/29/17/37/41/posavina_tv_384x216.png",POSAVINA TV
+http://client.nodomain.vip:80/live.ts?channelId=309&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Muzika_logo.png",RTS_MUZIKA
+http://client.nodomain.vip:80/live.ts?channelId=1495&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="/noicon.png",TOP_SOUND
+http://client.nodomain.vip:80/live.ts?channelId=1587&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/22/vh1_384x216.png",VH1
+http://client.nodomain.vip:80/live.ts?channelId=594&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/33/vh1_classic_384x216.png",VH1 CLASSIC
+http://client.nodomain.vip:80/live.ts?channelId=1781&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",█▀▄▀▄▀KIDS ▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1128&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS
+http://client.nodomain.vip:80/live.ts?channelId=125&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS MIX 1
+http://client.nodomain.vip:80/live.ts?channelId=282&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS MIX 2
+http://client.nodomain.vip:80/live.ts?channelId=283&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/04/boomerang_384x216.png",BOOMERANG
+http://client.nodomain.vip:80/live.ts?channelId=1169&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hayatovci-logo.png",HAYATOVCI
+http://client.nodomain.vip:80/live.ts?channelId=109&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",IDJ KIDS
+http://client.nodomain.vip:80/live.ts?channelId=1868&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MAXCRO SELECT KIDS HD
+http://client.nodomain.vip:80/live.ts?channelId=1670&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MAXCRO SELECT KIDS 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1671&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MASA I MEDO
 http://client.nodomain.vip:80/live.ts?channelId=1386&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/53/53/minimax_384x216.png",MINIMAX
 http://client.nodomain.vip:80/live.ts?channelId=1168&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
@@ -42,293 +633,6 @@ http://client.nodomain.vip:80/live.ts?channelId=1393&uid=33688&deviceUser=27josi
 #EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",TOM AND DZERY 24h
 http://client.nodomain.vip:80/live.ts?channelId=305&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
 #EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",VAWOM TV
-http://client.nodomain.vip:80/live.ts?channelId=1467&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 tvg-id="HTV1" tvg-name="HRT 1" tvg-logo="http://rexshx.com:25461/picons/hr/hrt1.png" group-title="Hrvatska",HRT 1
-http://31.220.0.89:25461/Kodi/Srbija/661
-#EXTINF:-1 tvg-id="HTV2" tvg-name="HRT 2" tvg-logo="http://rexshx.com:25461/picons/hr/hrt2.png" group-title="Hrvatska",HRT 2
-http://31.220.0.89:25461/Kodi/Srbija/662
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-logo="http://rexshx.com:25461/picons/hr/hrt3.png" group-title="Hrvatska",HRT 3
-http://31.220.0.89:25461/Kodi/Srbija/663
-#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="http://rexshx.com:25461/picons/hr/hrt4.png" group-title="Hrvatska",HRT 4
-http://31.220.0.89:25461/Kodi/Srbija/664
-#EXTINF:-1 tvg-id="HRT5.hr" tvg-name="HRT 5" tvg-logo="http://rexshx.com:25461/picons/hr/hrt5.png" group-title="Hrvatska",HRT 5
-http://31.220.0.89:25461/Kodi/Srbija/665
-#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" tvg-logo="http://rexshx.com:25461/picons/hr/novatvhd.png" group-title="Hrvatska",Nova TV
-http://31.220.0.89:25461/Kodi/Srbija/666
-#EXTINF:-1 tvg-id="DomaTV.hr" tvg-name="Doma TV" tvg-logo="http://rexshx.com:25461/picons/hr/domatvhd.png" group-title="Hrvatska",Doma TV
-http://31.220.0.89:25461/Kodi/Srbija/667
-#EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL Televizija" tvg-logo="http://rexshx.com:25461/picons/hr/rtltelevizija.png" group-title="Hrvatska",RTL Televizija
-http://31.220.0.89:25461/Kodi/Srbija/668
-#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="RTL 2" tvg-logo="http://rexshx.com:25461/picons/hr/rtl2.png" group-title="Hrvatska",RTL 2
-http://31.220.0.89:25461/Kodi/Srbija/669
-#EXTINF:-1 tvg-id="RTL Adria" tvg-name="RTL Adria" tvg-logo="" group-title="Hrvatska",RTL Adria
-http://31.220.0.89:25461/Kodi/Srbija/844
-#EXTINF:-1 tvg-id="RTLPassion.hr" tvg-name="RTL Passion" tvg-logo="" group-title="Hrvatska",RTL Passion
-http://31.220.0.89:25461/Kodi/Srbija/845
-#EXTINF:-1 tvg-id="N1Croatia.hr" tvg-name="N1 HR" tvg-logo="http://rexshx.com:25461/picons/hr/n1hr.png" group-title="Hrvatska",N1 HR
-http://31.220.0.89:25461/Kodi/Srbija/670
-#EXTINF:-1 tvg-id="BHTV1.rs" tvg-name="BHT 1" tvg-logo="http://rexshx.com:25461/picons/bih/bht1hd.png" group-title="Bosna&Hercegovina",BHT 1
-http://31.220.0.89:25461/Kodi/Srbija/672
-#EXTINF:-1 tvg-id="HayatTV.ba" tvg-name="HAYAT" tvg-logo="http://rexshx.com:25461/picons/bih/hayat.png" group-title="Bosna&Hercegovina",HAYAT
-http://31.220.0.89:25461/Kodi/Srbija/673
-#EXTINF:-1 tvg-id="novabh" tvg-name="Nova BH" tvg-logo="http://rexshx.com:25461/picons/bih/novabh.png" group-title="Bosna&Hercegovina",Nova BH
-http://31.220.0.89:25461/Kodi/Srbija/674
-#EXTINF:-1 tvg-id="FTV" tvg-name="Federalna" tvg-logo="http://rexshx.com:25461/picons/bih/federalna.png" group-title="Bosna&Hercegovina",Federalna
-http://31.220.0.89:25461/Kodi/Srbija/675
-#EXTINF:-1 tvg-id="" tvg-name="FACE TV" tvg-logo="http://195.154.233.186:82/logo_channels/face_tv_ba.png" group-title="Bosna&Hercegovina",FACE TV
-http://31.220.0.89:25461/Kodi/Srbija/843
-#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS" tvg-logo="http://rexshx.com:25461/picons/bih/rtrs.png" group-title="Bosna&Hercegovina",RTRS
-http://31.220.0.89:25461/Kodi/Srbija/676
-#EXTINF:-1 tvg-id="BNBIH.ba" tvg-name="BN" tvg-logo="http://rexshx.com:25461/picons/bih/bn.png" group-title="Bosna&Hercegovina",BN
-http://31.220.0.89:25461/Kodi/Srbija/677
-#EXTINF:-1 tvg-id="N1" tvg-name="N1 BiH" tvg-logo="http://rexshx.com:25461/picons/bih/n1bih.png" group-title="Bosna&Hercegovina",N1 BiH
-http://31.220.0.89:25461/Kodi/Srbija/678
-#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink TV" tvg-logo="http://rexshx.com:25461/picons/pink/pink.png" group-title="Pink Media",Pink TV
-http://31.220.0.89:25461/Kodi/Srbija/679
-#EXTINF:-1 tvg-id="PINKBH" tvg-name="Pink Media BiH" tvg-logo="http://rexshx.com:25461/picons/pink/pinkbh.png" group-title="Pink Media",Pink Media BiH
-http://31.220.0.89:25461/Kodi/Srbija/680
-#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="Pink Movies" tvg-logo="http://rexshx.com:25461/picons/pink/pinkmovies.png" group-title="Pink Media",Pink Movies
-http://31.220.0.89:25461/Kodi/Srbija/681
-#EXTINF:-1 tvg-id="PinkThriller.rs" tvg-name="Pink Thriller" tvg-logo="http://rexshx.com:25461/picons/pink/pinkthriller.png" group-title="Pink Media",Pink Thriller
-http://31.220.0.89:25461/Kodi/Srbija/682
-#EXTINF:-1 tvg-id="PinkFilm.rs" tvg-name="Pink Film" tvg-logo="http://rexshx.com:25461/picons/pink/pinkfilm.png" group-title="Pink Media",Pink Film
-http://31.220.0.89:25461/Kodi/Srbija/683
-#EXTINF:-1 tvg-id="PPinkCrime.rs" tvg-name="Pink Crime & Mystery" tvg-logo="http://rexshx.com:25461/picons/pink/pinkcrimeanedmystery.png" group-title="Pink Media",Pink Crime & Mystery
-http://31.220.0.89:25461/Kodi/Srbija/684
-#EXTINF:-1 tvg-id="PinkComedy.rs" tvg-name="Pink Comedy" tvg-logo="http://rexshx.com:25461/picons/pink/pinkcomedy.png" group-title="Pink Media",Pink Comedy
-http://31.220.0.89:25461/Kodi/Srbija/685
-#EXTINF:-1 tvg-id="PinkAction.rs" tvg-name="Pink Action" tvg-logo="http://rexshx.com:25461/picons/pink/pinkaction.png" group-title="Pink Media",Pink Action
-http://31.220.0.89:25461/Kodi/Srbija/686
-#EXTINF:-1 tvg-id="PinkSciFiFantasy.rs" tvg-name="Pink SciFi & Fantasy" tvg-logo="http://rexshx.com:25461/picons/pink/pinkscifi.png" group-title="Pink Media",Pink SciFi & Fantasy
-http://31.220.0.89:25461/Kodi/Srbija/687
-#EXTINF:-1 tvg-id="PinkPremium.rs" tvg-name="Pink Premium" tvg-logo="http://rexshx.com:25461/picons/pink/pinkpremium.png" group-title="Pink Media",Pink Premium
-http://31.220.0.89:25461/Kodi/Srbija/688
-#EXTINF:-1 tvg-id="PinkWestern.rs" tvg-name="Pink Western" tvg-logo="http://rexshx.com:25461/picons/pink/pinkwestern.png" group-title="Pink Media",Pink Western
-http://31.220.0.89:25461/Kodi/Srbija/689
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Pink Zadruga 1" tvg-logo="http://rexshx.com:25461/picons/pink/pinkzadruga1.png" group-title="Pink Media",Pink Zadruga 1
-http://31.220.0.89:25461/Kodi/Srbija/690
-#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 2" tvg-logo="http://rexshx.com:25461/picons/pink/pinkzadruga2.png" group-title="Pink Media",Pink Zadruga 2
-http://31.220.0.89:25461/Kodi/Srbija/691
-#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 3" tvg-logo="http://rexshx.com:25461/picons/pink/pinkzadruga1.png" group-title="Pink Media",Pink Zadruga 3
-http://31.220.0.89:25461/Kodi/Srbija/692
-#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 4" tvg-logo="http://rexshx.com:25461/picons/pink/pinkzadruga1.png" group-title="Pink Media",Pink Zadruga 4
-http://31.220.0.89:25461/Kodi/Srbija/693
-#EXTINF:-1 tvg-id="HBO.hr" tvg-name="HBO" tvg-logo="http://5.9.21.6/DE/hbo.png" group-title="Filmski",HBO
-http://31.220.0.89:25461/Kodi/Srbija/694
-#EXTINF:-1 tvg-id="HBO2.hr" tvg-name="HBO 2" tvg-logo="http://5.9.21.6/DE/HBO2.png" group-title="Filmski",HBO 2
-http://31.220.0.89:25461/Kodi/Srbija/695
-#EXTINF:-1 tvg-id="HBO3.hr" tvg-name="HBO 3" tvg-logo="http://5.9.21.6/DE/HBO3.png" group-title="Filmski",HBO 3
-http://31.220.0.89:25461/Kodi/Srbija/696
-#EXTINF:-1 tvg-id="Fox.hr" tvg-name="Fox" tvg-logo="http://5.9.21.6/DE/foxhd.png" group-title="Filmski",Fox
-http://31.220.0.89:25461/Kodi/Srbija/698
-#EXTINF:-1 tvg-id="FoxMovies" tvg-name="Fox Movies" tvg-logo="http://5.9.21.6/DE/foxmovies.png" group-title="Filmski",Fox Movies
-http://31.220.0.89:25461/Kodi/Srbija/699
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life" tvg-logo="http://5.9.21.6/DE/foxlife.png" group-title="Filmski",Fox Life
-http://31.220.0.89:25461/Kodi/Srbija/700
-#EXTINF:-1 tvg-id="FOXCrime.hr" tvg-name="Fox Crime" tvg-logo="http://5.9.21.6/DE/foxcrime.png" group-title="Filmski",Fox Crime
-http://31.220.0.89:25461/Kodi/Srbija/701
-#EXTINF:-1 tvg-id="CinestarTV.hr" tvg-name="Cinestar TV 1" tvg-logo="http://5.9.21.6/DE/cinestartv.png" group-title="Filmski",Cinestar TV 1
-http://31.220.0.89:25461/Kodi/Srbija/702
-#EXTINF:-1 tvg-id="CinestarPremiere2" tvg-name="Cinestar TV 2" tvg-logo="http://5.9.21.6/DE/cinestartv.png" group-title="Filmski",Cinestar TV 2
-http://31.220.0.89:25461/Kodi/Srbija/703
-#EXTINF:-1 tvg-id="cinestarcomedy" tvg-name="Cinestar Comedy" tvg-logo="https://nstatic.net/img/tv/channels/m/cinestar-tv-comedy.png" group-title="Filmski",Cinestar Comedy
-http://31.220.0.89:25461/Kodi/Srbija/704
-#EXTINF:-1 tvg-id="CinestarFantasy" tvg-name="Cinestar Fantasy" tvg-logo="http://5.9.21.6/DE/cinestarfantasy.png" group-title="Filmski",Cinestar Fantasy
-http://31.220.0.89:25461/Kodi/Srbija/705
-#EXTINF:-1 tvg-id="CINESTARACTIONTHRILLER.rs" tvg-name="CineStar Action" tvg-logo="http://5.9.21.6/DE/cinestaraction.png" group-title="Filmski",CineStar Action
-http://31.220.0.89:25461/Kodi/Srbija/706
-#EXTINF:-1 tvg-id="Cinemax1.hr" tvg-name="Cinemax 1" tvg-logo="http://5.9.21.6/DE/cinemaxhd.png" group-title="Filmski",Cinemax 1
-http://31.220.0.89:25461/Kodi/Srbija/707
-#EXTINF:-1 tvg-id="Cinemax2.hr" tvg-name="Cinemax 2" tvg-logo="http://5.9.21.6/DE/cinemax2.png" group-title="Filmski",Cinemax 2
-http://31.220.0.89:25461/Kodi/Srbija/708
-#EXTINF:-1 tvg-id="AMC.hr" tvg-name="AMC" tvg-logo="http://rexshx.com:25461/picons/film/amc.png" group-title="Filmski",AMC
-http://31.220.0.89:25461/Kodi/Srbija/709
-#EXTINF:-1 tvg-id="Cinemania.hr" tvg-name="Cinemania" tvg-logo="http://5.9.21.6/DE/cinemania.png" group-title="Filmski",Cinemania
-http://31.220.0.89:25461/Kodi/Srbija/710
-#EXTINF:-1 tvg-id="TV1000.hr" tvg-name="TV 1000" tvg-logo="http://5.9.21.6/DE/tv1000.png" group-title="Filmski",TV 1000
-http://31.220.0.89:25461/Kodi/Srbija/712
-#EXTINF:-1 tvg-id="KlasikTV.hr" tvg-name="Klasik TV" tvg-logo="http://5.9.21.6/DE/klasiktv.png" group-title="Filmski",Klasik TV
-http://31.220.0.89:25461/Kodi/Srbija/713
-#EXTINF:-1 tvg-id="SUPERSTAR TV" tvg-name="Superstar TV" tvg-logo="https://tvprofil.com/img/kanali-logo/SuperstarTV_logo.png" group-title="Filmski",Superstar TV
-http://31.220.0.89:25461/Kodi/Srbija/714
-#EXTINF:-1 tvg-id="M1 FILM" tvg-name="M1 Film" tvg-logo="http://rexshx.com:25461/picons/film/m1film.png" group-title="Filmski",M1 Film
-http://31.220.0.89:25461/Kodi/Srbija/715
-#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="http://rexshx.com:25461/picons/film/axnspin.png" group-title="Filmski",AXN Spin
-http://31.220.0.89:25461/Kodi/Srbija/717
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="AXN Adria" tvg-logo="http://5.9.21.6/DE/axn.png" group-title="Filmski",AXN Adria
-http://31.220.0.89:25461/Kodi/Srbija/718
-#EXTINF:-1 tvg-id="24Kitchen.hr" tvg-name="24 Kitchen" tvg-logo="http://rexshx.com:25461/picons/docu/24kitchenhd.png" group-title="Dokumentarni",24 Kitchen
-http://31.220.0.89:25461/Kodi/Srbija/719
-#EXTINF:-1 tvg-id="AnimalPlanet.hr" tvg-name="Animal Planet" tvg-logo="http://rexshx.com:25461/picons/docu/animalplanet.png" group-title="Dokumentarni",Animal Planet
-http://31.220.0.89:25461/Kodi/Srbija/720
-#EXTINF:-1 tvg-id="BBCEarth.hr" tvg-name="BBC Earth" tvg-logo="http://rexshx.com:25461/picons/docu/bbcearth.png" group-title="Dokumentarni",BBC Earth
-http://31.220.0.89:25461/Kodi/Srbija/721
-#EXTINF:-1 tvg-id="CBSReality.rs" tvg-name="CBS Reality" tvg-logo="http://rexshx.com:25461/picons/docu/cbsreality.png" group-title="Dokumentarni",CBS Reality
-http://31.220.0.89:25461/Kodi/Srbija/722
-#EXTINF:-1 tvg-id="crimeinvestigation" tvg-name="Crime Investigation" tvg-logo="http://rexshx.com:25461/picons/docu/crimeinvestigation.png" group-title="Dokumentarni",Crime Investigation
-http://31.220.0.89:25461/Kodi/Srbija/723
-#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="http://rexshx.com:25461/picons/docu/davincilearning.png" group-title="Dokumentarni",Da Vinci Learning
-http://31.220.0.89:25461/Kodi/Srbija/725
-#EXTINF:-1 tvg-id="Discovery.hr" tvg-name="Discovery Channel" tvg-logo="http://rexshx.com:25461/picons/docu/discovery.png" group-title="Dokumentarni",Discovery Channel
-http://31.220.0.89:25461/Kodi/Srbija/726
-#EXTINF:-1 tvg-id="fineliving" tvg-name="Fine Living" tvg-logo="http://rexshx.com:25461/picons/docu/fineliving.png" group-title="Dokumentarni",Fine Living
-http://31.220.0.89:25461/Kodi/Srbija/727
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="http://rexshx.com:25461/picons/docu/foodnetwork.png" group-title="Dokumentarni",Food Network
-http://31.220.0.89:25461/Kodi/Srbija/728
-#EXTINF:-1 tvg-id="HistoryChannel" tvg-name="History Channel" tvg-logo="http://rexshx.com:25461/picons/de/historychannelhd.png" group-title="Dokumentarni",History Channel
-http://31.220.0.89:25461/Kodi/Srbija/729
-#EXTINF:-1 tvg-id="LoviRibolov.rs" tvg-name="Lov i Ribolov" tvg-logo="http://rexshx.com:25461/picons/docu/loviribolov.png" group-title="Dokumentarni",Lov i Ribolov
-http://31.220.0.89:25461/Kodi/Srbija/730
-#EXTINF:-1 tvg-id="NationalGeographic.rs" tvg-name="National Geographic" tvg-logo="http://rexshx.com:25461/picons/docu/nationalgeographic.png" group-title="Dokumentarni",National Geographic
-http://31.220.0.89:25461/Kodi/Srbija/731
-#EXTINF:-1 tvg-id="PlanetEarth.hr" tvg-name="Planet Earth" tvg-logo="http://rexshx.com:25461/picons/docu/planetearth.png" group-title="Dokumentarni",Planet Earth
-http://31.220.0.89:25461/Kodi/Srbija/732
-#EXTINF:-1 tvg-id="TravelChannel.hr" tvg-name="Travel Channel" tvg-logo="http://rexshx.com:25461/picons/docu/travelchannel.png" group-title="Dokumentarni",Travel Channel
-http://31.220.0.89:25461/Kodi/Srbija/733
-#EXTINF:-1 tvg-id="ViasatHistory.hr" tvg-name="Viasat History" tvg-logo="http://rexshx.com:25461/picons/docu/viasathistory.png" group-title="Dokumentarni",Viasat History
-http://31.220.0.89:25461/Kodi/Srbija/734
-#EXTINF:-1 tvg-id="ViasatNature.hr" tvg-name="Viasat Nature" tvg-logo="" group-title="Dokumentarni",Viasat Nature
-http://31.220.0.89:25461/Kodi/Srbija/814
-#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport 1" tvg-logo="http://rexshx.com:25461/picons/sport/eurosport1hd.png" group-title="Sport",Eurosport 1
-http://31.220.0.89:25461/Kodi/Srbija/735
-#EXTINF:-1 tvg-id="EUROSPORT2" tvg-name="Eurosport 2" tvg-logo="http://rexshx.com:25461/picons/sport/eurosport2hd.png" group-title="Sport",Eurosport 2
-http://31.220.0.89:25461/Kodi/Srbija/736
-#EXTINF:-1 tvg-id="ArenaSport1hr" tvg-name="Arena Sport 1 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena1.png" group-title="Sport",Arena Sport 1 HR
-http://31.220.0.89:25461/Kodi/Srbija/737
-#EXTINF:-1 tvg-id="ArenaSport2hr" tvg-name="Arena Sport 2 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena2.png" group-title="Sport",Arena Sport 2 HR
-http://31.220.0.89:25461/Kodi/Srbija/738
-#EXTINF:-1 tvg-id="ArenaSport3hr" tvg-name="Arena Sport 3 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena3.png" group-title="Sport",Arena Sport 3 HR
-http://31.220.0.89:25461/Kodi/Srbija/739
-#EXTINF:-1 tvg-id="ArenaSport4hr" tvg-name="Arena Sport 4 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena4.png" group-title="Sport",Arena Sport 4 HR
-http://31.220.0.89:25461/Kodi/Srbija/740
-#EXTINF:-1 tvg-id="ArenaSport5hr" tvg-name="Arena Sport 5 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena5.png" group-title="Sport",Arena Sport 5 HR
-http://31.220.0.89:25461/Kodi/Srbija/741
-#EXTINF:-1 tvg-id="ArenaSport6hr" tvg-name="Arena Sport 6 HR" tvg-logo="http://rexshx.com:25461/picons/sport/arena6.png" group-title="Sport",Arena Sport 6 HR
-http://31.220.0.89:25461/Kodi/Srbija/742
-#EXTINF:-1 tvg-id="ArenaSport1" tvg-name="Arena Sport 1 SR" tvg-logo="http://rexshx.com:25461/picons/sport/arena1.png" group-title="Sport",Arena Sport 1 SR
-http://31.220.0.89:25461/Kodi/Srbija/743
-#EXTINF:-1 tvg-id="ArenaSport2" tvg-name="Arena Sport 2 SR" tvg-logo="http://rexshx.com:25461/picons/sport/arena2.png" group-title="Sport",Arena Sport 2 SR
-http://31.220.0.89:25461/Kodi/Srbija/744
-#EXTINF:-1 tvg-id="ArenaSport3" tvg-name="Arena Sport 3 SR" tvg-logo="http://rexshx.com:25461/picons/sport/arena3.png" group-title="Sport",Arena Sport 3 SR
-http://31.220.0.89:25461/Kodi/Srbija/745
-#EXTINF:-1 tvg-id="ArenaSport4" tvg-name="Arena Sport 4 SR" tvg-logo="http://rexshx.com:25461/picons/sport/arena4.png" group-title="Sport",Arena Sport 4 SR
-http://31.220.0.89:25461/Kodi/Srbija/746
-#EXTINF:-1 tvg-id="ArenaSport5" tvg-name="Arena Sport 5 SR" tvg-logo="http://rexshx.com:25461/picons/sport/arena5.png" group-title="Sport",Arena Sport 5 SR
-http://31.220.0.89:25461/Kodi/Srbija/747
-#EXTINF:-1 tvg-id="SK1HR" tvg-name="Sport Klub 1 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk1.png" group-title="Sport",Sport Klub 1 HR
-http://31.220.0.89:25461/Kodi/Srbija/748
-#EXTINF:-1 tvg-id="SK2HR" tvg-name="Sport Klub 2 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk2.png" group-title="Sport",Sport Klub 2 HR
-http://31.220.0.89:25461/Kodi/Srbija/749
-#EXTINF:-1 tvg-id="SK3HR" tvg-name="Sport Klub 3 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk3.png" group-title="Sport",Sport Klub 3 HR
-http://31.220.0.89:25461/Kodi/Srbija/750
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Sport Klub 4 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk4.png" group-title="Sport",Sport Klub 4 HR
-http://31.220.0.89:25461/Kodi/Srbija/751
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Sport Klub 5 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk5.png" group-title="Sport",Sport Klub 5 HR
-http://31.220.0.89:25461/Kodi/Srbija/752
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 HR" tvg-logo="http://rexshx.com:25461/picons/sport/sk6.png" group-title="Sport",Sport Klub 6 HR
-http://31.220.0.89:25461/Kodi/Srbija/753
-#EXTINF:-1 tvg-id="SportKlub1" tvg-name="SPORT KLUB 1 RS" tvg-logo="http://www.cableguy.club/sk1.png" group-title="Sport",SPORT KLUB 1 RS
-http://31.220.0.89:25461/Kodi/Srbija/835
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 RS" tvg-logo="http://www.cableguy.club/sk2.png" group-title="Sport",SPORT KLUB 2 RS
-http://31.220.0.89:25461/Kodi/Srbija/836
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 RS" tvg-logo="http://www.cableguy.club/sk3.png" group-title="Sport",SPORT KLUB 3 RS
-http://31.220.0.89:25461/Kodi/Srbija/837
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4 RS" tvg-logo="http://www.cableguy.club/sk4.png" group-title="Sport",SPORT KLUB 4 RS
-http://31.220.0.89:25461/Kodi/Srbija/838
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT BIH" tvg-logo="http://rexshx.com:25461/picons/sport/novasport.png" group-title="Sport",NOVA SPORT BIH
-http://31.220.0.89:25461/Kodi/Srbija/839
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  1 " tvg-logo="" group-title="Sport",ORF Sport  1 
-http://31.220.0.89:25461/Kodi/Srbija/840
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1" tvg-logo="http://www.cableguy.club/BT_Sport_1.png" group-title="Sport",BT SPORT 1
-http://31.220.0.89:25461/Kodi/Srbija/841
-#EXTINF:-1 tvg-id="PLANETSPORT1.hr" tvg-name="Planet Sport 1" tvg-logo="http://rexshx.com:25461/picons/sport/planetsport1.png" group-title="Sport",Planet Sport 1
-http://31.220.0.89:25461/Kodi/Srbija/764
-#EXTINF:-1 tvg-id="PLANETSPORT2.hr" tvg-name="Planet Sport 2" tvg-logo="http://rexshx.com:25461/picons/sport/planetsport2.png" group-title="Sport",Planet Sport 2
-http://31.220.0.89:25461/Kodi/Srbija/765
-#EXTINF:-1 tvg-id="PLANETSPORT3.hr" tvg-name="Planet Sport 3" tvg-logo="http://rexshx.com:25461/picons/sport/planetsport3.png" group-title="Sport",Planet Sport 3
-http://31.220.0.89:25461/Kodi/Srbija/766
-#EXTINF:-1 tvg-id="planetsport4" tvg-name="Planet Sport 4" tvg-logo="http://rexshx.com:25461/picons/sport/planetsport4.png" group-title="Sport",Planet Sport 4
-http://31.220.0.89:25461/Kodi/Srbija/767
-#EXTINF:-1 tvg-id="planetsport5" tvg-name="Planet Sport 5" tvg-logo="http://rexshx.com:25461/picons/sport/planetsport5.png" group-title="Sport",Planet Sport 5
-http://31.220.0.89:25461/Kodi/Srbija/768
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-logo="" group-title="Srbija",RTS 1
-http://31.220.0.89:25461/Kodi/Srbija/807
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="" group-title="Srbija",RTS 2
-http://31.220.0.89:25461/Kodi/Srbija/808
-#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3" tvg-logo="" group-title="Srbija",RTS 3
-http://31.220.0.89:25461/Kodi/Srbija/809
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV" tvg-logo="" group-title="Srbija",Prva TV
-http://31.220.0.89:25461/Kodi/Srbija/810
-#EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="Prva PLUS" tvg-logo="" group-title="Srbija",Prva PLUS
-http://31.220.0.89:25461/Kodi/Srbija/846
-#EXTINF:-1 tvg-id="happytv.sr" tvg-name="Happy" tvg-logo="" group-title="Srbija",Happy
-http://31.220.0.89:25461/Kodi/Srbija/847
-#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 " tvg-logo="" group-title="Srbija",N1 
-http://31.220.0.89:25461/Kodi/Srbija/811
-#EXTINF:-1 tvg-id="novas.rs" tvg-name="Nova S" tvg-logo="" group-title="Srbija",Nova S
-http://31.220.0.89:25461/Kodi/Srbija/812
-#EXTINF:-1 tvg-id="studio-b-yu.sr" tvg-name="Studio B" tvg-logo="" group-title="Srbija",Studio B
-http://31.220.0.89:25461/Kodi/Srbija/813
-#EXTINF:-1 tvg-id="NatGeoWildHD.hr" tvg-name="Nat Geo WILD" tvg-logo="" group-title="Dokumentarni",Nat Geo WILD
-http://31.220.0.89:25461/Kodi/Srbija/815
-#EXTINF:-1 tvg-id="ViasatNature.hr" tvg-name="Viasat Nature" tvg-logo="" group-title="Dokumentarni",Viasat Nature
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science USA" tvg-logo="" group-title="Dokumentarni",Discovery Science USA
-http://31.220.0.89:25461/Kodi/Srbija/842
-#EXTINF:-1 tvg-id="" tvg-name="Jugoton" tvg-logo="http://www.cableguy.club/Jugoton_TV.png" group-title="Muzicki",Jugoton
-http://31.220.0.89:25461/Kodi/Srbija/848
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="Muzicki",VH1 Classic
-http://31.220.0.89:25461/Kodi/Srbija/849
-#EXTINF:-1 tvg-id="" tvg-name="CMC" tvg-logo="" group-title="Muzicki",CMC
-http://31.220.0.89:25461/Kodi/Srbija/850
-#EXTINF:-1 tvg-id="" tvg-name="BN Music" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bn_music.jpg" group-title="Muzicki",BN Music
-http://31.220.0.89:25461/Kodi/Srbija/851
-#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 1" tvg-logo="http://195.154.233.186:82/logo_channels/pink_folk1.png" group-title="Muzicki",Pink Folk 1
-http://31.220.0.89:25461/Kodi/Srbija/852
-#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 2" tvg-logo="http://195.154.233.186:82/logo_channels/pink_folk2.png" group-title="Muzicki",Pink Folk 2
-http://31.220.0.89:25461/Kodi/Srbija/853
-#EXTINF:-1 tvg-id="" tvg-name="MRT 1" tvg-logo="" group-title="Makedonija",MRT 1
-http://31.220.0.89:25461/Kodi/Srbija/874
-#EXTINF:-1 tvg-id="" tvg-name="MPT Sobraniski" tvg-logo="" group-title="Makedonija",MPT Sobraniski
-http://31.220.0.89:25461/Kodi/Srbija/877
-#EXTINF:-1 tvg-id="" tvg-name="ALSAT" tvg-logo="" group-title="Makedonija",ALSAT
-http://31.220.0.89:25461/Kodi/Srbija/879
-#EXTINF:-1 tvg-id="" tvg-name="Alfa" tvg-logo="" group-title="Makedonija",Alfa
-http://31.220.0.89:25461/Kodi/Srbija/875
-#EXTINF:-1 tvg-id="" tvg-name="Sitel" tvg-logo="" group-title="Makedonija",Sitel
-http://31.220.0.89:25461/Kodi/Srbija/876
-#EXTINF:-1 tvg-id="" tvg-name="Sky Folk" tvg-logo="" group-title="Makedonija",Turbo Folk
-http://31.220.0.89:25461/Kodi/Srbija/873
-#EXTINF:-1 tvg-id="" tvg-name="Nasa TV" tvg-logo="" group-title="Makedonija",Nasa TV
-http://31.220.0.89:25461/Kodi/Srbija/880
-#EXTINF:-1 tvg-id="" tvg-name="Cineplex" tvg-logo="" group-title="Makedonija",Cineplex
-http://31.220.0.89:25461/Kodi/Srbija/881
-#EXTINF:-1 tvg-id="" tvg-name="TV Plus Kumanovo" tvg-logo="" group-title="Makedonija",TV Plus Kumanovo
-http://31.220.0.89:25461/Kodi/Srbija/878
-#EXTINF:-1 tvg-id="" tvg-name="TV Hugo" tvg-logo="" group-title="Makedonija",TV Hugo
-http://31.220.0.89:25461/Kodi/Srbija/870
-#EXTINF:-1 tvg-id="" tvg-name="Hugo 2" tvg-logo="" group-title="Makedonija",Hugo 2
-http://31.220.0.89:25461/Kodi/Srbija/871
-#EXTINF:-1 tvg-id="" tvg-name="Hugo 3" tvg-logo="" group-title="Makedonija",Hugo 3
-http://31.220.0.89:25461/Kodi/Srbija/872
-#EXTINF:-1 tvg-id="" tvg-name="Zvezda TV" tvg-logo="" group-title="Sport",Zvezda TV
-http://31.220.0.89:25461/Kodi/Srbija/882
-#EXTINF:-1 tvg-id="" tvg-name="RTCG 1" tvg-logo="" group-title="Montenegro",RTCG 1
-http://31.220.0.89:25461/Kodi/Srbija/883
-#EXTINF:-1 tvg-id="" tvg-name="RTCG sat" tvg-logo="" group-title="Montenegro",RTCG sat
-http://31.220.0.89:25461/Kodi/Srbija/884
-#EXTINF:-1 tvg-id="" tvg-name="RTCG 2" tvg-logo="" group-title="Montenegro",RTCG 2
-http://31.220.0.89:25461/Kodi/Srbija/885
-#EXTINF:-1 tvg-id="" tvg-name="Prva CG" tvg-logo="" group-title="Montenegro",Prva CG
-http://31.220.0.89:25461/Kodi/Srbija/886
-#EXTINF:-1 tvg-id="" tvg-name="TV Vijesti" tvg-logo="" group-title="Montenegro",TV Vijesti
-http://31.220.0.89:25461/Kodi/Srbija/887
-#EXTINF:-1 tvg-id="" tvg-name="Nova M" tvg-logo="" group-title="Montenegro",Nova M
-http://31.220.0.89:25461/Kodi/Srbija/888
-#EXTINF:-1 tvg-id="" tvg-name="V 777 Podgorica" tvg-logo="" group-title="Montenegro",V 777 Podgorica
-http://31.220.0.89:25461/Kodi/Srbija/889
-#EXTINF:-1 tvg-id="" tvg-name="Monte-Lux" tvg-logo="" group-title="Montenegro",Monte-Lux
-http://31.220.0.89:25461/Kodi/Srbija/890
-#EXTINF:-1 tvg-id="" tvg-name="Telma" tvg-logo="" group-title="Makedonija",Telma
-http://31.220.0.89:25461/Kodi/Srbija/891
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 5" tvg-logo="" group-title="Makedonija",Kanal 5
-http://31.220.0.89:25461/Kodi/Srbija/892
+
+
+
