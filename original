@@ -1,5 +1,3 @@
-
-
 #EXTM3U
 #EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt1.jpg",HTV 1
 http://client.nodomain.vip:80/live.ts?channelId=2&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
