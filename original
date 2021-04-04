@@ -1,676 +1,6 @@
-#EXTM3U url-tvg=""
-#EXTINF:0,Nickelodeon HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/06/nick_jr_384x216.png",NICK JR
-http://client.nodomain.vip:80/live.ts?channelId=358&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_channel_global.png",DISNEY CHANNEL UK
-http://client.nodomain.vip:80/live.ts?channelId=528&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png",DISNEY JUNIOR UK
-http://client.nodomain.vip:80/live.ts?channelId=1392&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:0,CARTOON NETWORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",¦¯_¯_¯KIDS ¯_¯_¯¦
-http://client.nodomain.vip:80/live.ts?channelId=1128&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS
-http://client.nodomain.vip:80/live.ts?channelId=125&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS MIX 1
-http://client.nodomain.vip:80/live.ts?channelId=282&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS MIX 2
-http://client.nodomain.vip:80/live.ts?channelId=283&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/04/boomerang_384x216.png",BOOMERANG
-http://client.nodomain.vip:80/live.ts?channelId=1169&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hayatovci-logo.png",HAYATOVCI
-http://client.nodomain.vip:80/live.ts?channelId=109&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",IDJ KIDS
-http://client.nodomain.vip:80/live.ts?channelId=1868&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MAXCRO SELECT KIDS HD
-http://client.nodomain.vip:80/live.ts?channelId=1670&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MAXCRO SELECT KIDS 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1671&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv1.jpg" group-title="Live: ex-Yu Countries",HRT 1 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1455
-#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv2.jpg" group-title="Live: ex-Yu Countries",HRT 2 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1456
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv3.jpg" group-title="Live: ex-Yu Countries",HRT 3 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2027
-#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4 HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv4.jpg" group-title="Live: ex-Yu Countries",HRT 4 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13795
-#EXTINF:-1 tvg-id="777TV.me" tvg-name="Nova TV HR" tvg-logo="https://picon-13398.kxcdn.com/novatvexyu.jpg" group-title="Live: ex-Yu Countries",Nova TV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1457
-#EXTINF:-1 tvg-id="Rtl.hr" tvg-name="RTL HR" tvg-logo="https://picon-13398.kxcdn.com/rtlhrexyu.jpg" group-title="Live: ex-Yu Countries",RTL HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1461
-#EXTINF:-1 tvg-id="Rtl2.hr" tvg-name="RTL 2 HR" tvg-logo="https://picon-13398.kxcdn.com/rtl2hrexyu.jpg" group-title="Live: ex-Yu Countries",RTL 2 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3166
-#EXTINF:-1 tvg-id="RtlCrime.hr" tvg-name="RTL Crime HR" tvg-logo="https://picon-13398.kxcdn.com/rtlcrimehrexyu.jpg" group-title="Live: ex-Yu Countries",RTL Crime HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13815
-#EXTINF:-1 tvg-id="RtlPassion.hr" tvg-name="RTL Passion HR" tvg-logo="https://picon-13398.kxcdn.com/rtlpassionhrexyu.jpg" group-title="Live: ex-Yu Countries",RTL Passion HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/11274
-#EXTINF:-1 tvg-id="24Kitchen.hr" tvg-name="24 Kitchen HR" tvg-logo="https://picon-13398.kxcdn.com/24kitchen.jpg" group-title="Live: ex-Yu Countries",24 Kitchen HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1476
-#EXTINF:-1 tvg-id="DomaTv.hr" tvg-name="Doma TV HR" tvg-logo="https://picon-13398.kxcdn.com/domahrexyu.jpg" group-title="Live: ex-Yu Countries",Doma TV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1446
-#EXTINF:-1 tvg-id="Z1.hr" tvg-name="Z1 HR" tvg-logo="https://picon-13398.kxcdn.com/z1hrexyu.jpg" group-title="Live: ex-Yu Countries",Z1 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13823
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="DocuBox HD RS" tvg-logo="https://picon-13398.kxcdn.com/docuboxhd.jpg" group-title="Live: ex-Yu Countries",DocuBox HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20143
-#EXTINF:-1 tvg-id="AMC.hr" tvg-name="AMC HD RS" tvg-logo="https://picon-13398.kxcdn.com/amchd.jpg" group-title="Live: ex-Yu Countries",AMC HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17276
-#EXTINF:-1 tvg-id="CBSReality.hr" tvg-name="CBS Reality HR" tvg-logo="https://picon-13398.kxcdn.com/cbsreality.jpg" group-title="Live: ex-Yu Countries",CBS Reality HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17269
-#EXTINF:-1 tvg-id="DaVinciLearning.hr" tvg-name="Da Vinci Learning HR" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="Live: ex-Yu Countries",Da Vinci Learning HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17272
-#EXTINF:-1 tvg-id="FoodNetwork.hr" tvg-name="Food Network HR" tvg-logo="https://picon-13398.kxcdn.com/foodnetwork.jpg" group-title="Live: ex-Yu Countries",Food Network HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17267
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Nova TV HD HR" tvg-logo="https://picon-13398.kxcdn.com/novatvexyu.jpg" group-title="Live: ex-Yu Countries",Nova TV HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17273
-#EXTINF:-1 tvg-id="" tvg-name="Glas Drine BA" tvg-logo="https://picon-13398.kxcdn.com/gfba.jpg" group-title="Live: ex-Yu Countries",Glas Drine BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20142
-#EXTINF:-1 tvg-id="RtlLiving.hr" tvg-name="RTL Living HR" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="Live: ex-Yu Countries",RTL Living HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17264
-#EXTINF:-1 tvg-id="SportKlub1.hr" tvg-name="Sport Klub 1 HD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub1hdexyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 1 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17252
-#EXTINF:-1 tvg-id="SportKlub2.hr" tvg-name="Sport Klub 2 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub2hdexyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 2 FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17254
-#EXTINF:-1 tvg-id="SportKlub4.hr" tvg-name="Sport Klub 4 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub4exyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 4 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17249
-#EXTINF:-1 tvg-id="SportKlub5.hr" tvg-name="Sport Klub 5 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub5exyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 5 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17250
-#EXTINF:-1 tvg-id="SportKlub6.hr" tvg-name="Sport Klub 6 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub6exyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 6 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17251
-#EXTINF:-1 tvg-id="RTVTK.ba" tvg-name="RTV TK BA" tvg-logo="https://picon-13398.kxcdn.com/rtvtkexyu.jpg" group-title="Live: ex-Yu Countries",RTV TK BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3164
-#EXTINF:-1 tvg-id="FaceTV.ba" tvg-name="Face TV BA" tvg-logo="https://picon-13398.kxcdn.com/facetvbhexyu.jpg" group-title="Live: ex-Yu Countries",Face TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3165
-#EXTINF:-1 tvg-id="OBN.ba" tvg-name="OBN BA" tvg-logo="https://picon-13398.kxcdn.com/obnbhexyu.jpg" group-title="Live: ex-Yu Countries",OBN BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1458
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-name="Al Jazeera Balkans FHD BA" tvg-logo="https://picon-13398.kxcdn.com/aljazeerabalkanexyu.jpg" group-title="Live: ex-Yu Countries",Al Jazeera Balkans FHD BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3189
-#EXTINF:-1 tvg-id="AlternativnaTV.ba" tvg-name="Alternativna TV BA" tvg-logo="https://picon-13398.kxcdn.com/atvexyu.jpg" group-title="Live: ex-Yu Countries",Alternativna TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13797
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="RTRS RS" tvg-logo="https://picon-13398.kxcdn.com/rtrsexyu.jpg" group-title="Live: ex-Yu Countries",RTRS RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/6566
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="RTRS Plus RS" tvg-logo="https://picon-13398.kxcdn.com/rtrsplusexyu.jpg" group-title="Live: ex-Yu Countries",RTRS Plus RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13790
-#EXTINF:-1 tvg-id="Cinemania.rs" tvg-name="Cinemania RS" tvg-logo="https://picon-13398.kxcdn.com/cinemaniars.jpg" group-title="Live: ex-Yu Countries",Cinemania RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17270
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="FightBox FHD RS" tvg-logo="https://picon-13398.kxcdn.com/fightboxhd.jpg" group-title="Live: ex-Yu Countries",FightBox FHD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17259
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17262
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Prva Max RS" tvg-logo="https://picon-13398.kxcdn.com/prvamaxrs.jpg" group-title="Live: ex-Yu Countries",Prva Max RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17260
-#EXTINF:-1 tvg-id="" tvg-name="RTS Svet RS" tvg-logo="https://picon-13398.kxcdn.com/rtssvetrs.jpg" group-title="Live: ex-Yu Countries",RTS Svet RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19812
-#EXTINF:-1 tvg-id="SportKlub2.rs" tvg-name="Sport Klub 2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub2hdexyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 2 FHD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17257
-#EXTINF:-1 tvg-id="SportKlub3.rs" tvg-name="Sport Klub 3 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub3hdexyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 3 FHD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17258
-#EXTINF:-1 tvg-id="TVZenica.ba" tvg-name="TV Zenica BA" tvg-logo="https://picon-13398.kxcdn.com/tvzenicaexyu.jpg" group-title="Live: ex-Yu Countries",TV Zenica BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13817
-#EXTINF:-1 tvg-id="MTVIgman.ba" tvg-name="MTV Igman BA" tvg-logo="https://picon-13398.kxcdn.com/mtvigmanexyu.jpg" group-title="Live: ex-Yu Countries",MTV Igman BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3195
-#EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="Live: ex-Yu Countries",N1 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3197
-#EXTINF:-1 tvg-id="TVSarajevo.ba" tvg-name="TV Sarajevo BA" tvg-logo="https://picon-13398.kxcdn.com/tvsarajevoexyu.jpg" group-title="Live: ex-Yu Countries",TV Sarajevo BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/11282
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/rts1exyu.jpg" group-title="Live: ex-Yu Countries",RTS 1 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2026
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1 RS" tvg-logo="https://picon-13398.kxcdn.com/rts1exyu.jpg" group-title="Live: ex-Yu Countries",RTS 1 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1463
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/rts2exyu.jpg" group-title="Live: ex-Yu Countries",RTS 2 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1464
-#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3 RS" tvg-logo="https://picon-13398.kxcdn.com/rts3exyu.jpg" group-title="Live: ex-Yu Countries",RTS 3 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13816
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1460
-#EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="Prva Plus RS" tvg-logo="https://picon-13398.kxcdn.com/prvaplusexyu.jpg" group-title="Live: ex-Yu Countries",Prva Plus RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1459
-#EXTINF:-1 tvg-id="" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13798
-#EXTINF:-1 tvg-id="" tvg-name="TV Novi Pazar RS" tvg-logo="https://picon-13398.kxcdn.com/tvnovipazarexyu.jpg" group-title="Live: ex-Yu Countries",TV Novi Pazar RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/11279
-#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 1 RS" tvg-logo="https://picon-13398.kxcdn.com/rtv1rsexyu.jpg" group-title="Live: ex-Yu Countries",RTV 1 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13762
-#EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B RS" tvg-logo="https://picon-13398.kxcdn.com/studiobexyu.jpg" group-title="Live: ex-Yu Countries",Studio B RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/11287
-#EXTINF:-1 tvg-id="happytv.rs" tvg-name="Happy TV RS" tvg-logo="https://picon-13398.kxcdn.com/happytvexyu.jpg" group-title="Live: ex-Yu Countries",Happy TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3192
-#EXTINF:-1 tvg-id="" tvg-name="Sandzak TV RS" tvg-logo="https://picon-13398.kxcdn.com/samdzalexyu.jpg" group-title="Live: ex-Yu Countries",Sandzak TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13818
-#EXTINF:-1 tvg-id="AXN.hr" tvg-name="AXN HR" tvg-logo="https://picon-13398.kxcdn.com/axn.jpg" group-title="Live: ex-Yu Countries",AXN HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13764
-#EXTINF:-1 tvg-id="Diva.hr" tvg-name="Diva HR" tvg-logo="https://picon-13398.kxcdn.com/divaexyu.jpg" group-title="Live: ex-Yu Countries",Diva HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13770
-#EXTINF:-1 tvg-id="FilmBoxPlus.hr" tvg-name="FilmBox Plus HR" tvg-logo="https://picon-13398.kxcdn.com/filmboxplus.jpg" group-title="Live: ex-Yu Countries",FilmBox Plus HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13773
-#EXTINF:-1 tvg-id="FilmBoxExtra.rs" tvg-name="FilmBox Extra RS" tvg-logo="https://picon-13398.kxcdn.com/filmboxextra.jpg" group-title="Live: ex-Yu Countries",FilmBox Extra RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13805
-#EXTINF:-1 tvg-id="Fox.hr" tvg-name="FOX HR" tvg-logo="https://picon-13398.kxcdn.com/fox.jpg" group-title="Live: ex-Yu Countries",FOX HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1448
-#EXTINF:-1 tvg-id="FoxMovies.hr" tvg-name="FOX Movies HR" tvg-logo="https://picon-13398.kxcdn.com/foxmovies.jpg" group-title="Live: ex-Yu Countries",FOX Movies HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1451
-#EXTINF:-1 tvg-id="FoxLife.hr" tvg-name="FOX Life HR" tvg-logo="https://picon-13398.kxcdn.com/foxlife.jpg" group-title="Live: ex-Yu Countries",FOX Life HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1450
-#EXTINF:-1 tvg-id="FoxCrime.hr" tvg-name="FOX Crime RS" tvg-logo="https://picon-13398.kxcdn.com/foxcrime.jpg" group-title="Live: ex-Yu Countries",FOX Crime RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1449
-#EXTINF:-1 tvg-id="HBO.rs" tvg-name="HBO HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Live: ex-Yu Countries",HBO HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1452
-#EXTINF:-1 tvg-id="HBO3.rs" tvg-name="HBO 3 RS" tvg-logo="https://picon-13398.kxcdn.com/hbo3.jpg" group-title="Live: ex-Yu Countries",HBO 3 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13806
-#EXTINF:-1 tvg-id="CinestarTv.hr" tvg-name="CineStar TV HR" tvg-logo="https://picon-13398.kxcdn.com/cinestarexyu.jpg" group-title="Live: ex-Yu Countries",CineStar TV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13794
-#EXTINF:-1 tvg-id="CinestarActionThriller.hr" tvg-name="CineStar TV Action HR" tvg-logo="https://picon-13398.kxcdn.com/cinestaractionexyu.jpg" group-title="Live: ex-Yu Countries",CineStar TV Action HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3180
-#EXTINF:-1 tvg-id="CineStarPremiere1.rs" tvg-name="CineStar Premiere 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinepremiere1exyu.jpg" group-title="Live: ex-Yu Countries",CineStar Premiere 1 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1468
-#EXTINF:-1 tvg-id="CineStarPremiere2.rs" tvg-name="CineStar Premiere 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinepremiere2exyu.jpg" group-title="Live: ex-Yu Countries",CineStar Premiere 2 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1469
-#EXTINF:-1 tvg-id="Cinemax.rs" tvg-name="Cinemax HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinemax.jpg" group-title="Live: ex-Yu Countries",Cinemax HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2022
-#EXTINF:-1 tvg-id="Cinemax2.rs" tvg-name="Cinemax 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinemax2.jpg" group-title="Live: ex-Yu Countries",Cinemax 2 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2023
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Investigation Discovery FHD RS" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Live: ex-Yu Countries",Investigation Discovery FHD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13783
-#EXTINF:-1 tvg-id="KlasikTv.hr" tvg-name="Klasik TV HR" tvg-logo="https://picon-13398.kxcdn.com/klasikexyu.jpg" group-title="Live: ex-Yu Countries",Klasik TV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3194
-#EXTINF:-1 tvg-id="TV1000.hr" tvg-name="TV 1000 HR" tvg-logo="https://picon-13398.kxcdn.com/tv1000exyu.jpg" group-title="Live: ex-Yu Countries",TV 1000 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/11275
-#EXTINF:-1 tvg-id="AnimalPlanet.hr" tvg-name="Animal Planet HR" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="Live: ex-Yu Countries",Animal Planet HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3178
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Discovery Channel RS" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: ex-Yu Countries",Discovery Channel RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1445
-#EXTINF:-1 tvg-id="CI.hr" tvg-name="Crime + Investigation HR" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Live: ex-Yu Countries",Crime + Investigation HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3191
-#EXTINF:-1 tvg-id="HistoryChannel.hr" tvg-name="History HR" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: ex-Yu Countries",History HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1454
-#EXTINF:-1 tvg-id="LoviRibolov.rs" tvg-name="Lov I Ribolov RS" tvg-logo="https://picon-13398.kxcdn.com/lovirobolovexyu.jpg" group-title="Live: ex-Yu Countries",Lov I Ribolov RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3196
-#EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-name="National Geographic HD HR" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: ex-Yu Countries",National Geographic HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1472
-#EXTINF:-1 tvg-id="TLC.rs" tvg-name="TLC RS" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: ex-Yu Countries",TLC RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13820
-#EXTINF:-1 tvg-id="EEntertainment.hr" tvg-name="E! HR" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: ex-Yu Countries",E! HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1467
-#EXTINF:-1 tvg-id="Hntv.hr" tvg-name="HNTV HR" tvg-logo="https://picon-13398.kxcdn.com/hntvexyu.jpg" group-title="Live: ex-Yu Countries",HNTV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13771
-#EXTINF:-1 tvg-id="SOS.rs" tvg-name="SOS Kanal RS" tvg-logo="https://picon-13398.kxcdn.com/soskanalexyu.jpg" group-title="Live: ex-Yu Countries",SOS Kanal RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13819
-#EXTINF:-1 tvg-id="Eurosport.rs" tvg-name="Eurosport 1 RS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="Live: ex-Yu Countries",Eurosport 1 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1443
-#EXTINF:-1 tvg-id="Eurosport2.rs" tvg-name="Eurosport 2 RS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg" group-title="Live: ex-Yu Countries",Eurosport 2 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1444
-#EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-name="Arena Sport 2 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 2 FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17914
-#EXTINF:-1 tvg-id="ArenaSport3.hr" tvg-name="Arena Sport 3 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 3 FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17916
-#EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-name="Arena Sport 4 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 4 FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17915
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Arena Sport 1 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 1 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1436
-#EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-name="Arena Sport 2 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 2 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1437
-#EXTINF:-1 tvg-id="ArenaSport3.hr" tvg-name="Arena Sport 3 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 3 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1438
-#EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-name="Arena Sport 4 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 4 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1439
-#EXTINF:-1 tvg-id="ArenaSport5.hr" tvg-name="Arena Sport 5 HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 5 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13827
-#EXTINF:-1 tvg-id="ArenaSport6.hr" tvg-name="Arena Sport 6 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport6hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 6 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13828
-#EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="Arena Sport 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 1 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3182
-#EXTINF:-1 tvg-id="Arenasport2.rs" tvg-name="Arena Sport 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 2 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3183
-#EXTINF:-1 tvg-id="Arenasport3.rs" tvg-name="Arena Sport 3 RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 3 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3184
-#EXTINF:-1 tvg-id="Arenasport4.rs" tvg-name="Arena Sport 4 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 4 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3185
-#EXTINF:-1 tvg-id="Arenasport5.rs" tvg-name="Arena Sport 5 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 5 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3186
-#EXTINF:-1 tvg-id="SportKlub1.rs" tvg-name="Sport Klub 1 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub1si.jpg" group-title="Live: ex-Yu Countries",Sport Klub 1 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13832
-#EXTINF:-1 tvg-id="SportKlub2.hr" tvg-name="Sport Klub 2 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub2si.jpg" group-title="Live: ex-Yu Countries",Sport Klub 2 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13833
-#EXTINF:-1 tvg-id="SportKlub3.hr" tvg-name="Sport Klub 3 HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub3si.jpg" group-title="Live: ex-Yu Countries",Sport Klub 3 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13834
-#EXTINF:-1 tvg-id="SportKlub4.rs" tvg-name="Sport Klub 4 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub4exyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 4 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13829
-#EXTINF:-1 tvg-id="SportKlub5.rs" tvg-name="Sport Klub 5 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub5exyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 5 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13830
-#EXTINF:-1 tvg-id="SportKlub6.rs" tvg-name="Sport Klub 6 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub6exyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 6 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13831
-#EXTINF:-1 tvg-id="SportKlub1.rs" tvg-name="Sport Klub 1 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub1hdexyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 1 FHD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1440
-#EXTINF:-1 tvg-id="SportKlub2.rs" tvg-name="Sport Klub 2 RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub2hdexyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 2 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1441
-#EXTINF:-1 tvg-id="SportKlub3.rs" tvg-name="Sport Klub 3 HD RS" tvg-logo="https://picon-13398.kxcdn.com/sportklub3hdexyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 3 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1442
-#EXTINF:-1 tvg-id="" tvg-name="Max Select 1 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="Live: ex-Yu Countries",Max Select 1 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20146
-#EXTINF:-1 tvg-id="" tvg-name="Max Select 2 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="Live: ex-Yu Countries",Max Select 2 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20147
-#EXTINF:-1 tvg-id="" tvg-name="Max Select 3 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="Live: ex-Yu Countries",Max Select 3 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20148
-#EXTINF:-1 tvg-id="" tvg-name="Max Select 4 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="Live: ex-Yu Countries",Max Select 4 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20149
-#EXTINF:-1 tvg-id="" tvg-name="Max Select 5 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="Live: ex-Yu Countries",Max Select 5 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20150
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Max Select 6 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="Live: ex-Yu Countries",Max Select 6 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20151
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Max Select 7 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="Live: ex-Yu Countries",Max Select 7 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20152
-#EXTINF:-1 tvg-id="" tvg-name="Max Select 8 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="Live: ex-Yu Countries",Max Select 8 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20153
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Max Select 9 HD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="Live: ex-Yu Countries",Max Select 9 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20154
-#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="Live: ex-Yu Countries",Pink RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2042
-#EXTINF:-1 tvg-id="Pink2.rs" tvg-name="Pink 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pink2exyu.jpg" group-title="Live: ex-Yu Countries",Pink 2 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2043
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Pink 3 Info RS" tvg-logo="https://picon-13398.kxcdn.com/pinkinfo3exyu.jpg" group-title="Live: ex-Yu Countries",Pink 3 Info RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2044
-#EXTINF:-1 tvg-id="PinkAction.rs" tvg-name="Pink Action RS" tvg-logo="https://picon-13398.kxcdn.com/pinkactionexyu.jpg" group-title="Live: ex-Yu Countries",Pink Action RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2041
-#EXTINF:-1 tvg-id="PinkComedy.rs" tvg-name="Pink Comedy RS" tvg-logo="https://picon-13398.kxcdn.com/pinkcomedyexyu.jpg" group-title="Live: ex-Yu Countries",Pink Comedy RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2045
-#EXTINF:-1 tvg-id="PinkCrimeAndMystery.rs" tvg-name="Pink Crime & Mystery RS" tvg-logo="https://picon-13398.kxcdn.com/pinkcrimemysteryexyu.jpg" group-title="Live: ex-Yu Countries",Pink Crime & Mystery RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2039
-#EXTINF:-1 tvg-id="PinkClassic.rs" tvg-name="Pink Classic RS" tvg-logo="https://picon-13398.kxcdn.com/pinkclassicrs.jpg" group-title="Live: ex-Yu Countries",Pink Classic RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19587
-#EXTINF:-1 tvg-id="PinkExtra.rs" tvg-name="Pink Extra RS" tvg-logo="https://picon-13398.kxcdn.com/pinkextraexyu.jpg" group-title="Live: ex-Yu Countries",Pink Extra RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2046
-#EXTINF:-1 tvg-id="PinkFilm.rs" tvg-name="Pink Film RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfilmexyu.jpg" group-title="Live: ex-Yu Countries",Pink Film RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3199
-#EXTINF:-1 tvg-id="PinkHorror.rs" tvg-name="Pink Horror RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhorroexyu.jpg" group-title="Live: ex-Yu Countries",Pink Horror RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2035
-#EXTINF:-1 tvg-id="PinkKuvar.rs" tvg-name="Pink Kuvar RS" tvg-logo="https://picon-13398.kxcdn.com/pinkkuvarexyu.jpg" group-title="Live: ex-Yu Countries",Pink Kuvar RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3176
-#EXTINF:-1 tvg-id="PinkWorldCinema.rs" tvg-name="Pink World Cinema RS" tvg-logo="https://picon-13398.kxcdn.com/pinkworldcinemaexyu.jpg" group-title="Live: ex-Yu Countries",Pink World Cinema RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/5602
-#EXTINF:-1 tvg-id="PinkPlus.rs" tvg-name="Pink Plus RS" tvg-logo="https://picon-13398.kxcdn.com/pinkplusexyu.jpg" group-title="Live: ex-Yu Countries",Pink Plus RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3198
-#EXTINF:-1 tvg-id="PinkPremium.rs" tvg-name="Pink Premium RS" tvg-logo="https://picon-13398.kxcdn.com/pinkpremiumexyu.jpg" group-title="Live: ex-Yu Countries",Pink Premium RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2029
-#EXTINF:-1 tvg-id="PinkReality.rs" tvg-name="Pink Reality RS" tvg-logo="https://picon-13398.kxcdn.com/pinkrealityexyu.jpg" group-title="Live: ex-Yu Countries",Pink Reality RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2048
-#EXTINF:-1 tvg-id="PinkRomance.rs" tvg-name="Pink Romance RS" tvg-logo="https://picon-13398.kxcdn.com/pinkromanceexyu.jpg" group-title="Live: ex-Yu Countries",Pink Romance RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3200
-#EXTINF:-1 tvg-id="PinkSerije.rs" tvg-name="Pink Serije RS" tvg-logo="https://picon-13398.kxcdn.com/pinkserijeexyu.jpg" group-title="Live: ex-Yu Countries",Pink Serije RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2032
-#EXTINF:-1 tvg-id="PinkScifiAndFantasy.rs" tvg-name="Pink Sci-fi & Fantasy RS" tvg-logo="https://picon-13398.kxcdn.com/pinkscififantasyexyu.jpg" group-title="Live: ex-Yu Countries",Pink Sci-fi & Fantasy RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2031
-#EXTINF:-1 tvg-id="PinkSoap.rs" tvg-name="Pink Soap RS" tvg-logo="https://picon-13398.kxcdn.com/pinksoapexyu.jpg" group-title="Live: ex-Yu Countries",Pink Soap RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2049
-#EXTINF:-1 tvg-id="PinkThriller.rs" tvg-name="Pink Thriller RS" tvg-logo="https://picon-13398.kxcdn.com/pinkthrillerexyu.jpg" group-title="Live: ex-Yu Countries",Pink Thriller RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2040
-#EXTINF:-1 tvg-id="PinkWestern.rs" tvg-name="Pink Western RS" tvg-logo="https://picon-13398.kxcdn.com/pinkwesternexyu.jpg" group-title="Live: ex-Yu Countries",Pink Western RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2050
-#EXTINF:-1 tvg-id="PinkPedia.rs" tvg-name="Pink Pedia RS" tvg-logo="https://picon-13398.kxcdn.com/pinkpediaexyu.jpg" group-title="Live: ex-Yu Countries",Pink Pedia RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13753
-#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="Pink Movies RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmoviesexyu.jpg" group-title="Live: ex-Yu Countries",Pink Movies RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13758
-#EXTINF:-1 tvg-id="PinkZabava.rs" tvg-name="Pink Zabava RS" tvg-logo="https://picon-13398.kxcdn.com/pinkzabavaexyu.jpg" group-title="Live: ex-Yu Countries",Pink Zabava RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2028
-#EXTINF:-1 tvg-id="PinkKids.rs" tvg-name="Pink Kids RS" tvg-logo="https://picon-13398.kxcdn.com/pinkkidsexyu.jpg" group-title="Live: ex-Yu Countries",Pink Kids RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2047
-#EXTINF:-1 tvg-id="PinkSuperKids.rs" tvg-name="Pink Super Kids RS" tvg-logo="https://picon-13398.kxcdn.com/pinksuperkidsexyu.jpg" group-title="Live: ex-Yu Countries",Pink Super Kids RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13761
-#EXTINF:-1 tvg-id="PinkShow.rs" tvg-name="Pink Show RS" tvg-logo="https://picon-13398.kxcdn.com/pinkshowrs.jpg" group-title="Live: ex-Yu Countries",Pink Show RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20141
-#EXTINF:-1 tvg-id="BabyTV.rs" tvg-name="Baby TV RS" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: ex-Yu Countries",Baby TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13812
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Mini TV RS" tvg-logo="https://picon-13398.kxcdn.com/minitvexyu.jpg" group-title="Live: ex-Yu Countries",Mini TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/6565
-#EXTINF:-1 tvg-id="Minimax.rs" tvg-name="Minimax RS" tvg-logo="https://picon-13398.kxcdn.com/minimax.jpg" group-title="Live: ex-Yu Countries",Minimax RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/6564
-#EXTINF:-1 tvg-id="Nickelodeon.rs" tvg-name="Nickelodeon HR" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: ex-Yu Countries",Nickelodeon HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/6083
-#EXTINF:-1 tvg-id="RtlKockica.hr" tvg-name="RTL Kockica HR" tvg-logo="https://picon-13398.kxcdn.com/rtlkockicahrexyu.jpg" group-title="Live: ex-Yu Countries",RTL Kockica HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3167
-#EXTINF:-1 tvg-id="CMC.hr" tvg-name="CMC TV HR" tvg-logo="https://picon-13398.kxcdn.com/cmctvexyu.jpg" group-title="Live: ex-Yu Countries",CMC TV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3171
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="DM Sat RS" tvg-logo="https://picon-13398.kxcdn.com/dmsatexyu.jpg" group-title="Live: ex-Yu Countries",DM Sat RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3173
-#EXTINF:-1 tvg-id="Grand.rs" tvg-name="Grand TV RS" tvg-logo="https://picon-13398.kxcdn.com/grandtvexyu.jpg" group-title="Live: ex-Yu Countries",Grand TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/1475
-#EXTINF:-1 tvg-id="Jugoton.hr" tvg-name="Jugoton TV HR" tvg-logo="https://picon-13398.kxcdn.com/jugotontvexyu.jpg" group-title="Live: ex-Yu Countries",Jugoton TV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/6561
-#EXTINF:-1 tvg-id="KCN1.rs" tvg-name="KCN 1 RS" tvg-logo="https://picon-13398.kxcdn.com/kcn1exyu.jpg" group-title="Live: ex-Yu Countries",KCN 1 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13809
-#EXTINF:-1 tvg-id="" tvg-name="KCN 2 Music RS" tvg-logo="https://picon-13398.kxcdn.com/kcn2exyu.jpg" group-title="Live: ex-Yu Countries",KCN 2 Music RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13810
-#EXTINF:-1 tvg-id="" tvg-name="KCN 3 Svet Plus RS" tvg-logo="https://picon-13398.kxcdn.com/kcn3exyu.jpg" group-title="Live: ex-Yu Countries",KCN 3 Svet Plus RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13811
-#EXTINF:-1 tvg-id="OTVValentino.ba" tvg-name="OTV Valentino BA" tvg-logo="https://picon-13398.kxcdn.com/otvexyu.jpg" group-title="Live: ex-Yu Countries",OTV Valentino BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3172
-#EXTINF:-1 tvg-id="PinkFolk2.rs" tvg-name="Pink Folk 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfolk2exyu.jpg" group-title="Live: ex-Yu Countries",Pink Folk 2 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/2037
-#EXTINF:-1 tvg-id="PinkMusic.rs" tvg-name="Pink Music RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmusicexyu.jpg" group-title="Live: ex-Yu Countries",Pink Music RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13759
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Pink Music 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmusic2exyu.jpg" group-title="Live: ex-Yu Countries",Pink Music 2 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13760
-#EXTINF:-1 tvg-id="PinkHits.rs" tvg-name="Pink Hits 2 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhits2exyu.jpg" group-title="Live: ex-Yu Countries",Pink Hits 2 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13757
-#EXTINF:-1 tvg-id="PinkFolk1.rs" tvg-name="Pink Folk 1 RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfolkexyu.jpg" group-title="Live: ex-Yu Countries",Pink Folk 1 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13756
-#EXTINF:-1 tvg-id="" tvg-name="Pink n Roll RS" tvg-logo="https://picon-13398.kxcdn.com/pinknrollexyu.jpg" group-title="Live: ex-Yu Countries",Pink n Roll RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13755
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Prva Files RS" tvg-logo="https://picon-13398.kxcdn.com/prvafilesrs.jpg" group-title="Live: ex-Yu Countries",Prva Files RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/20023
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="MTV Adria RS" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Live: ex-Yu Countries",MTV Adria RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13813
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="IDJ TV RS" tvg-logo="https://picon-13398.kxcdn.com/idjtvrsexyu.jpg" group-title="Live: ex-Yu Countries",IDJ TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16404
-#EXTINF:-1 tvg-id="" tvg-name="TV Sehara BA" tvg-logo="https://picon-13398.kxcdn.com/tvsejaraexyu.jpg" group-title="Live: ex-Yu Countries",TV Sehara BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/11284
-#EXTINF:-1 tvg-id="DugaTV.rs" tvg-name="Duga Plus TV RS" tvg-logo="https://picon-13398.kxcdn.com/dugaexyu.jpg" group-title="Live: ex-Yu Countries",Duga Plus TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/3193
-#EXTINF:-1 tvg-id="TVCGSat.me" tvg-name="TVCG Sat HD ME" tvg-logo="https://picon-13398.kxcdn.com/tvcgsatexyu.jpg" group-title="Live: ex-Yu Countries",TVCG Sat HD ME
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13814
-#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="TVCG 2 ME" tvg-logo="https://picon-13398.kxcdn.com/tvcg2exyu.jpg" group-title="Live: ex-Yu Countries",TVCG 2 ME
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16426
-#EXTINF:-1 tvg-id="Vijesti.me" tvg-name="TV Vijesti ME" tvg-logo="https://picon-13398.kxcdn.com/tvvijestiexyu.jpg" group-title="Live: ex-Yu Countries",TV Vijesti ME
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16427
-#EXTINF:-1 tvg-id="POPOTO.si" tvg-name="Pop Oto SI" tvg-logo="https://picon-13398.kxcdn.com/popotoexyu.jpg" group-title="Live: ex-Yu Countries",Pop Oto SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13791
-#EXTINF:-1 tvg-id="FTV.ba" tvg-name="FTV BA" tvg-logo="https://picon-13398.kxcdn.com/federalnaexyu.jpg" group-title="Live: ex-Yu Countries",FTV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/6087
-#EXTINF:-1 tvg-id="" tvg-name="Nova S FHD RS" tvg-logo="https://picon-13398.kxcdn.com/novasrs.jpg" group-title="Live: ex-Yu Countries",Nova S FHD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19166
-#EXTINF:-1 tvg-id="VinkovackaTv.hr" tvg-name="Vinkovacka TV HR" tvg-logo="https://picon-13398.kxcdn.com/vinkovackahr.jpg" group-title="Live: ex-Yu Countries",Vinkovacka TV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/11278
-#EXTINF:-1 tvg-id="" tvg-name="Televizija 5 BA" tvg-logo="https://picon-13398.kxcdn.com/televizija5exyu.jpg" group-title="Live: ex-Yu Countries",Televizija 5 BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/15854
-#EXTINF:-1 tvg-id="SlavonskaTv.hr" tvg-name="Slavonska TV HR" tvg-logo="https://picon-13398.kxcdn.com/slavonskatvexyu.jpg" group-title="Live: ex-Yu Countries",Slavonska TV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13802
-#EXTINF:-1 tvg-id="Grand2.rs" tvg-name="Grand 2 RS" tvg-logo="https://picon-13398.kxcdn.com/grand2srb.jpg" group-title="Live: ex-Yu Countries",Grand 2 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16816
-#EXTINF:-1 tvg-id="N1.hr" tvg-name="N1 BA" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="Live: ex-Yu Countries",N1 BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16817
-#EXTINF:-1 tvg-id="N1.hr" tvg-name="N1 HR" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="Live: ex-Yu Countries",N1 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16818
-#EXTINF:-1 tvg-id="PopTV.si" tvg-name="Pop TV SI" tvg-logo="https://picon-13398.kxcdn.com/poptvsiexyu.jpg" group-title="Live: ex-Yu Countries",Pop TV SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16820
-#EXTINF:-1 tvg-id="SportKlub2.si" tvg-name="Sport Klub 2 SI" tvg-logo="https://picon-13398.kxcdn.com/sportklub2si.jpg" group-title="Live: ex-Yu Countries",Sport Klub 2 SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16821
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Sport Klub 3 FHD SI" tvg-logo="https://picon-13398.kxcdn.com/sportklub3si.jpg" group-title="Live: ex-Yu Countries",Sport Klub 3 FHD SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16822
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Sport Klub SI" tvg-logo="https://picon-13398.kxcdn.com/sportklub1si.jpg" group-title="Live: ex-Yu Countries",Sport Klub SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16823
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Pink LOL RS" tvg-logo="https://picon-13398.kxcdn.com/pinklolexyu.jpg" group-title="Live: ex-Yu Countries",Pink LOL RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16610
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Pink HAHA RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhahaexyu.jpg" group-title="Live: ex-Yu Countries",Pink HAHA RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16611
-#EXTINF:-1 tvg-id="BHT1.ba" tvg-name="BHT 1 HD BA" tvg-logo="https://picon-13398.kxcdn.com/bht1exyu.jpg" group-title="Live: ex-Yu Countries",BHT 1 HD BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/15864
-#EXTINF:-1 tvg-id="BNMusic.ba" tvg-name="BN Music FHD BA" tvg-logo="https://picon-13398.kxcdn.com/bnmusicexyu.jpg" group-title="Live: ex-Yu Countries",BN Music FHD BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/15863
-#EXTINF:-1 tvg-id="BN.ba" tvg-name="BN TV HD BA" tvg-logo="https://picon-13398.kxcdn.com/bnsatexyu.jpg" group-title="Live: ex-Yu Countries",BN TV HD BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/15862
-#EXTINF:-1 tvg-id="Hayat.ba" tvg-name="Hayat HD BA" tvg-logo="https://picon-13398.kxcdn.com/hayaexyu.jpg" group-title="Live: ex-Yu Countries",Hayat HD BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/15861
-#EXTINF:-1 tvg-id="HayatFolk.ba" tvg-name="Hayat Folk BA" tvg-logo="https://picon-13398.kxcdn.com/hayatfolkexyu.jpg" group-title="Live: ex-Yu Countries",Hayat Folk BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/15860
-#EXTINF:-1 tvg-id="HayatPlus.ba" tvg-name="Hayat Plus BA" tvg-logo="https://picon-13398.kxcdn.com/hayatplusexyu.jpg" group-title="Live: ex-Yu Countries",Hayat Plus BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/15859
-#EXTINF:-1 tvg-id="Hayatovci.ba" tvg-name="Hayatovci BA" tvg-logo="https://picon-13398.kxcdn.com/hayatovciexyu.jpg" group-title="Live: ex-Yu Countries",Hayatovci BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/15858
-#EXTINF:-1 tvg-id="SportskaTv.hr" tvg-name="Sportska TV HD HR" tvg-logo="https://picon-13398.kxcdn.com/sportskahr.jpg" group-title="Live: ex-Yu Countries",Sportska TV HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/13861
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Sport Klub Golf HR" tvg-logo="https://picon-13398.kxcdn.com/sportklubgolfsr.jpg" group-title="Live: ex-Yu Countries",Sport Klub Golf HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17745
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Travel Channel RS" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg" group-title="Live: ex-Yu Countries",Travel Channel RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17865
-#EXTINF:-1 tvg-id="Boomerang.rs" tvg-name="Boomerang RS" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: ex-Yu Countries",Boomerang RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17925
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="DTX HR" tvg-logo="https://picon-13398.kxcdn.com/dtx.jpg" group-title="Live: ex-Yu Countries",DTX HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17924
-#EXTINF:-1 tvg-id="NatGeoWild.hr" tvg-name="National Geographic Wild RS" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Live: ex-Yu Countries",National Geographic Wild RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17923
-#EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr. HR" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: ex-Yu Countries",Nick Jr. HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17922
-#EXTINF:-1 tvg-id="HBO2.rs" tvg-name="HBO 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Live: ex-Yu Countries",HBO 2 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17920
-#EXTINF:-1 tvg-id="HBO3.rs" tvg-name="HBO 3 HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="Live: ex-Yu Countries",HBO 3 HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17918
-#EXTINF:-1 tvg-id="SportKlub3.hr" tvg-name="Sport Klub 3 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub3hdexyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 3 FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17917
-#EXTINF:-1 tvg-id="" tvg-name="Happy Parovi RS" tvg-logo="https://picon-13398.kxcdn.com/parovirs.jpg" group-title="Live: ex-Yu Countries",Happy Parovi RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/18099
-#EXTINF:-1 tvg-id="PinkWorld.rs" tvg-name="Pink World RS" tvg-logo="https://picon-13398.kxcdn.com/pinkworldexyu.jpg" group-title="Live: ex-Yu Countries",Pink World RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/18098
-#EXTINF:-1 tvg-id="HayatMusic.ba" tvg-name="Hayat Music BA" tvg-logo="https://picon-13398.kxcdn.com/hayatmusicba.jpg" group-title="Live: ex-Yu Countries",Hayat Music BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17271
-#EXTINF:-1 tvg-id="TVUSK.ba" tvg-name="TV USK HD BA" tvg-logo="https://picon-13398.kxcdn.com/tvuskba.jpg" group-title="Live: ex-Yu Countries",TV USK HD BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19138
-#EXTINF:-1 tvg-id="" tvg-name="Izvorna TV BA" tvg-logo="https://picon-13398.kxcdn.com/izvornaba.jpg" group-title="Live: ex-Yu Countries",Izvorna TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/18824
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Viasat History RS" tvg-logo="https://picon-13398.kxcdn.com/viasathistory.jpg" group-title="Live: ex-Yu Countries",Viasat History RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19006
-#EXTINF:-1 tvg-id="777TV.me" tvg-name="777 ME" tvg-logo="https://picon-13398.kxcdn.com/777me.jpg" group-title="Live: ex-Yu Countries",777 ME
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19381
-#EXTINF:-1 tvg-id="GolicaTV.si" tvg-name="Golica TV SI" tvg-logo="https://picon-13398.kxcdn.com/golicatvsl.jpg" group-title="Live: ex-Yu Countries",Golica TV SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19618
-#EXTINF:-1 tvg-id="KanalA.si" tvg-name="TV Maribor SI" tvg-logo="https://picon-13398.kxcdn.com/tvmariborsi.jpg" group-title="Live: ex-Yu Countries",TV Maribor SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19614
-#EXTINF:-1 tvg-id="PlanetTV.si" tvg-name="Planet TV HD SI" tvg-logo="https://picon-13398.kxcdn.com/planettv.jpg" group-title="Live: ex-Yu Countries",Planet TV HD SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19617
-#EXTINF:-1 tvg-id="" tvg-name="Pop Brio SI" tvg-logo="https://picon-13398.kxcdn.com/briosi.jpg" group-title="Live: ex-Yu Countries",Pop Brio SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19615
-#EXTINF:-1 tvg-id="" tvg-name="Pop Kino SI" tvg-logo="https://picon-13398.kxcdn.com/popkinosi.jpg" group-title="Live: ex-Yu Countries",Pop Kino SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19616
-#EXTINF:-1 tvg-id="TVSlovenija1.si" tvg-name="TV Slovenija 1 SI" tvg-logo="https://picon-13398.kxcdn.com/tvslovenija1sk.jpg" group-title="Live: ex-Yu Countries",TV Slovenija 1 SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19611
-#EXTINF:-1 tvg-id="TVSlovenija2.si" tvg-name="TV Slovenija 2 SI" tvg-logo="https://picon-13398.kxcdn.com/tvslovenija2sk.jpg" group-title="Live: ex-Yu Countries",TV Slovenija 2 SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19612
-#EXTINF:-1 tvg-id="TVSlovenija3.si" tvg-name="TV Slovenija 3 SI" tvg-logo="https://picon-13398.kxcdn.com/tvslovenija3sk.jpg" group-title="Live: ex-Yu Countries",TV Slovenija 3 SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19613
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="The Palma Plus RS" tvg-logo="https://picon-13398.kxcdn.com/thepalmaplusrs.jpg" group-title="Live: ex-Yu Countries",The Palma Plus RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19624
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Arena Sport 1 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 1 FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/19004
-#EXTINF:-1 tvg-id="SciFi.rs" tvg-name="Scifi FHD RS" tvg-logo="https://picon-13398.kxcdn.com/scifirs.jpg" group-title="Live: ex-Yu Countries",Scifi FHD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/22971
-#EXTINF:-1 tvg-id="" tvg-name="RTS Trezor RS" tvg-logo="https://picon-13398.kxcdn.com/rtssvetrs.jpg" group-title="Live: ex-Yu Countries",RTS Trezor RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/23446
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Pink M ME" tvg-logo="https://picon-13398.kxcdn.com/pinkmedars.jpg" group-title="Live: ex-Yu Countries",Pink M ME
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/23661
-#EXTINF:-1 tvg-id="SportKlub1.hr" tvg-name="Sport Klub 1 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/sportklub1hdexyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub 1 FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17256
-#EXTINF:-1 tvg-id="" tvg-name="Bravo Music RS" tvg-logo="https://picon-13398.kxcdn.com/bravomusicrs.jpg" group-title="Live: ex-Yu Countries",Bravo Music RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/23850
-#EXTINF:-1 tvg-id="" tvg-name="Pink Media BH BA" tvg-logo="https://picon-13398.kxcdn.com/pinkmedabhba.jpg" group-title="Live: ex-Yu Countries",Pink Media BH BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/23849
-#EXTINF:-1 tvg-id="PinkFamily.rs" tvg-name="Pink Family RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfamilyexyu.jpg" group-title="Live: ex-Yu Countries",Pink Family RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/23848
-#EXTINF:-1 tvg-id="PinkFashion.rs" tvg-name="Pink Fashion RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfashionrs.jpg" group-title="Live: ex-Yu Countries",Pink Fashion RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/23845
-#EXTINF:-1 tvg-id="" tvg-name="Pink Hits RS" tvg-logo="https://picon-13398.kxcdn.com/pinkhitsrs.jpg" group-title="Live: ex-Yu Countries",Pink Hits RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/23847
-#EXTINF:-1 tvg-id="PinkStyle.rs" tvg-name="Pink Style RS" tvg-logo="https://picon-13398.kxcdn.com/pinkstylers.jpg" group-title="Live: ex-Yu Countries",Pink Style RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/23846
-#EXTINF:-1 tvg-id="" tvg-name="CityPLAY RS" tvg-logo="https://picon-13398.kxcdn.com/cityplayrs.jpg" group-title="Live: ex-Yu Countries",CityPLAY RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/23844
-#EXTINF:-1 tvg-id="" tvg-name="Nova M ME" tvg-logo="https://picon-13398.kxcdn.com/novamme.jpg" group-title="Live: ex-Yu Countries",Nova M ME
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/24145
-#EXTINF:-1 tvg-id="Nova.ba" tvg-name="Nova BH BA" tvg-logo="https://picon-13398.kxcdn.com/nova.jpg" group-title="Live: ex-Yu Countries",Nova BH BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/24144
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Pikaboo RS" tvg-logo="https://picon-13398.kxcdn.com/pikaboors.jpg" group-title="Live: ex-Yu Countries",Pikaboo RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/24143
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Fine Living RS" tvg-logo="https://picon-13398.kxcdn.com/fineliving.jpg" group-title="Live: ex-Yu Countries",Fine Living RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/24148
-#EXTINF:-1 tvg-id="" tvg-name="Moje Bugojno BA" tvg-logo="https://picon-13398.kxcdn.com/mojebugjnoba.jpg" group-title="Live: ex-Yu Countries",Moje Bugojno BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/24178
-#EXTINF:-1 tvg-id="HistoryChannel2.rs" tvg-name="H2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="Live: ex-Yu Countries",H2 FHD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/22972
-#EXTINF:-1 tvg-id="CinestarFantasy.hr" tvg-name="CineStar TV Fantasy HR" tvg-logo="https://picon-13398.kxcdn.com/cienstarfantasyhr.jpg" group-title="Live: ex-Yu Countries",CineStar TV Fantasy HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/24331
-#EXTINF:-1 tvg-id="CityTV.ba" tvg-name="City TV BA" tvg-logo="https://picon-13398.kxcdn.com/citytvba.jpg" group-title="Live: ex-Yu Countries",City TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/24687
-#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv2.jpg" group-title="Live: ex-Yu Countries",HRT 2 FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/24744
-#EXTINF:-1 tvg-id="" tvg-name="Yu Planet TV RS" tvg-logo="https://picon-13398.kxcdn.com/yuplanetrs.jpg" group-title="Live: ex-Yu Countries",Yu Planet TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/24862
-#EXTINF:-1 tvg-id="Kanal6.ba" tvg-name="Kanal 6 Travnik BA" tvg-logo="https://picon-13398.kxcdn.com/kanal6ba.jpg" group-title="Live: ex-Yu Countries",Kanal 6 Travnik BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/25270
-#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv1.jpg" group-title="Live: ex-Yu Countries",HRT 1 FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/25786
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3 HD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv3.jpg" group-title="Live: ex-Yu Countries",HRT 3 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/25787
-#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/hrttv4.jpg" group-title="Live: ex-Yu Countries",HRT 4 FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/25788
-#EXTINF:-1 tvg-id="" tvg-name="PlanetSport 1 HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport1hr.jpg" group-title="Live: ex-Yu Countries",PlanetSport 1 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/26089
-#EXTINF:-1 tvg-id="" tvg-name="PlanetSport 2 HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport2hr.jpg" group-title="Live: ex-Yu Countries",PlanetSport 2 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/26090
-#EXTINF:-1 tvg-id="" tvg-name="PlanetSport 3 HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport3hr.jpg" group-title="Live: ex-Yu Countries",PlanetSport 3 HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/26091
-#EXTINF:-1 tvg-id="" tvg-name="TV 7 Tuzla HD BA" tvg-logo="https://picon-13398.kxcdn.com/tv7tuzlaba.jpg" group-title="Live: ex-Yu Countries",TV 7 Tuzla HD BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/26685
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet [Multi-sub] Europe" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="Live: ex-Yu Countries",Animal Planet [Multi-sub] Europe
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27035
-#EXTINF:-1 tvg-id="" tvg-name="TLC [Multi-sub] Balkans" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: ex-Yu Countries",TLC [Multi-sub] Balkans
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27134
-#EXTINF:-1 tvg-id="" tvg-name="Superstar TV RS" tvg-logo="https://picon-13398.kxcdn.com/superstartvrs.jpg" group-title="Live: ex-Yu Countries",Superstar TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27308
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD [Multi-audio] ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/sportklubexyu.jpg" group-title="Live: ex-Yu Countries",Sport Klub HD [Multi-audio] ex-Yu
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27524
-#EXTINF:-1 tvg-id="NarodnaTv.hr" tvg-name="Narodni HR" tvg-logo="https://picon-13398.kxcdn.com/narodnihr.jpg" group-title="Live: ex-Yu Countries",Narodni HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/17275
-#EXTINF:-1 tvg-id="" tvg-name="TV Slon BA" tvg-logo="https://picon-13398.kxcdn.com/slonextraba.jpg" group-title="Live: ex-Yu Countries",TV Slon BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27558
-#EXTINF:-1 tvg-id="" tvg-name="Kino TV HD HR" tvg-logo="https://picon-13398.kxcdn.com/kinotvhr.jpg" group-title="Live: ex-Yu Countries",Kino TV HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27548
-#EXTINF:-1 tvg-id="" tvg-name="M1 Film HR" tvg-logo="https://picon-13398.kxcdn.com/m1filmhr.jpg" group-title="Live: ex-Yu Countries",M1 Film HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27547
-#EXTINF:-1 tvg-id="" tvg-name="B1 TV BA" tvg-logo="https://picon-13398.kxcdn.com/b1ro.jpg" group-title="Live: ex-Yu Countries",B1 TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27660
-#EXTINF:-1 tvg-id="" tvg-name="Aurora TV HR" tvg-logo="https://picon-13398.kxcdn.com/aurorahr.jpg" group-title="Live: ex-Yu Countries",Aurora TV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27658
-#EXTINF:-1 tvg-id="" tvg-name="Balkan Music ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/balkanmusicexyu.jpg" group-title="Live: ex-Yu Countries",Balkan Music ex-Yu
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27802
-#EXTINF:-1 tvg-id="" tvg-name="PlanetSport 4 HD HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport4hr.jpg" group-title="Live: ex-Yu Countries",PlanetSport 4 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27815
-#EXTINF:-1 tvg-id="" tvg-name="PlanetSport 5 HD HR" tvg-logo="https://picon-13398.kxcdn.com/planetsport5hr.jpg" group-title="Live: ex-Yu Countries",PlanetSport 5 HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27816
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD SI" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: ex-Yu Countries",Sport TV 1 HD SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27817
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD SI" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg" group-title="Live: ex-Yu Countries",Sport TV 2 HD SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27818
-#EXTINF:-1 tvg-id="" tvg-name="Pickbox FHD HR" tvg-logo="https://picon-13398.kxcdn.com/pickboxhr.jpg" group-title="Live: ex-Yu Countries",Pickbox FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27819
-#EXTINF:-1 tvg-id="" tvg-name="Max Select Premium FHD HR" tvg-logo="https://picon-13398.kxcdn.com/maxselecthr.jpg" group-title="Live: ex-Yu Countries",Max Select Premium FHD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27821
-#EXTINF:-1 tvg-id="" tvg-name="TV Istra HR" tvg-logo="https://picon-13398.kxcdn.com/tviistrahr.jpg" group-title="Live: ex-Yu Countries",TV Istra HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/27822
-#EXTINF:-1 tvg-id="" tvg-name="Partizan TV RS" tvg-logo="https://picon-13398.kxcdn.com/partizanexyu.jpg" group-title="Live: ex-Yu Countries",Partizan TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/16401
-#EXTINF:-1 tvg-id="" tvg-name="Fight Channel HR" tvg-logo="https://picon-13398.kxcdn.com/fightchannelhr.jpg" group-title="Live: ex-Yu Countries",Fight Channel HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28086
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport / Moja TV HD BH" tvg-logo="https://picon-13398.kxcdn.com/mojatvbh.jpg" group-title="Live: ex-Yu Countries",Arena Sport / Moja TV HD BH
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28085
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD SI" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Live: ex-Yu Countries",HBO HD SI
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28084
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore RS" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Live: ex-Yu Countries",Viasat Explore RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28071
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic RS" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: ex-Yu Countries",National Geographic RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28070
-#EXTINF:-1 tvg-id="" tvg-name="TV Leskovac RS" tvg-logo="https://picon-13398.kxcdn.com/tvleskovacrs.jpg" group-title="Live: ex-Yu Countries",TV Leskovac RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28068
-#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV BA" tvg-logo="https://picon-13398.kxcdn.com/sevdahtvba.jpg" group-title="Live: ex-Yu Countries",Sevdah TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28066
-#EXTINF:-1 tvg-id="" tvg-name="Bosansko Posavska TV BA" tvg-logo="https://picon-13398.kxcdn.com/bosanskoba.jpg" group-title="Live: ex-Yu Countries",Bosansko Posavska TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28064
-#EXTINF:-1 tvg-id="" tvg-name="TVCG 1 ME" tvg-logo="https://picon-13398.kxcdn.com/tvcg1me.jpg" group-title="Live: ex-Yu Countries",TVCG 1 ME
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28063
-#EXTINF:-1 tvg-id="" tvg-name="Mreza TV Zagreb HR" tvg-logo="https://picon-13398.kxcdn.com/mrezatvzagrebhr.jpg" group-title="Live: ex-Yu Countries",Mreza TV Zagreb HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28061
-#EXTINF:-1 tvg-id="" tvg-name="Kanal RI Rijeka HR" tvg-logo="https://picon-13398.kxcdn.com/kanalrhr.jpg" group-title="Live: ex-Yu Countries",Kanal RI Rijeka HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28056
-#EXTINF:-1 tvg-id="" tvg-name="HRT International HR" tvg-logo="https://picon-13398.kxcdn.com/hrtinthr.jpg" group-title="Live: ex-Yu Countries",HRT International HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28054
-#EXTINF:-1 tvg-id="" tvg-name="Pink Koncert RS" tvg-logo="https://picon-13398.kxcdn.com/pinkkoncertrs.jpg" group-title="Live: ex-Yu Countries",Pink Koncert RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28049
-#EXTINF:-1 tvg-id="" tvg-name="RTS Drama RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="Live: ex-Yu Countries",RTS Drama RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28048
-#EXTINF:-1 tvg-id="" tvg-name="RTS Muzika RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="Live: ex-Yu Countries",RTS Muzika RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28047
-#EXTINF:-1 tvg-id="" tvg-name="RTS Zivot RS" tvg-logo="https://picon-13398.kxcdn.com/rtssvetrs.jpg" group-title="Live: ex-Yu Countries",RTS Zivot RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28046
-#EXTINF:-1 tvg-id="" tvg-name="Prva Kick RS" tvg-logo="https://picon-13398.kxcdn.com/prvakickrs.jpg" group-title="Live: ex-Yu Countries",Prva Kick RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28045
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature HR" tvg-logo="https://picon-13398.kxcdn.com/viasatnature.jpg" group-title="Live: ex-Yu Countries",Viasat Nature HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28399
-#EXTINF:-1 tvg-id="" tvg-name="Elta 1 BH" tvg-logo="https://picon-13398.kxcdn.com/elta1bh.jpg" group-title="Live: ex-Yu Countries",Elta 1 BH
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28392
-#EXTINF:-1 tvg-id="" tvg-name="Elta 2 BH" tvg-logo="https://picon-13398.kxcdn.com/elta2bh.jpg" group-title="Live: ex-Yu Countries",Elta 2 BH
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28393
-#EXTINF:-1 tvg-id="" tvg-name="RTS Kolo RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="Live: ex-Yu Countries",RTS Kolo RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28390
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth Adria ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="Live: ex-Yu Countries",BBC Earth Adria ex-Yu
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28388
-#EXTINF:-1 tvg-id="" tvg-name="AXN Spin RS" tvg-logo="https://picon-13398.kxcdn.com/axnspinhd.jpg" group-title="Live: ex-Yu Countries",AXN Spin RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28394
-#EXTINF:-1 tvg-id="" tvg-name="RTV HB BA" tvg-logo="https://picon-13398.kxcdn.com/rtvhbba.jpg" group-title="Live: ex-Yu Countries",RTV HB BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29547
-#EXTINF:-1 tvg-id="" tvg-name="Alfa TV BA" tvg-logo="https://picon-13398.kxcdn.com/alfatvba.jpg" group-title="Live: ex-Yu Countries",Alfa TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29548
-#EXTINF:-1 tvg-id="" tvg-name="RTV Vogosca BA" tvg-logo="https://picon-13398.kxcdn.com/rtvvogoscaba.jpg" group-title="Live: ex-Yu Countries",RTV Vogosca BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29550
-#EXTINF:-1 tvg-id="" tvg-name="Hema TV BA" tvg-logo="https://picon-13398.kxcdn.com/hematvba.jpg" group-title="Live: ex-Yu Countries",Hema TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29552
-#EXTINF:-1 tvg-id="" tvg-name="Hit TV BA" tvg-logo="https://picon-13398.kxcdn.com/hitba.jpg" group-title="Live: ex-Yu Countries",Hit TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29553
-#EXTINF:-1 tvg-id="" tvg-name="Oscar TV BA" tvg-logo="https://picon-13398.kxcdn.com/oscartvba.jpg" group-title="Live: ex-Yu Countries",Oscar TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29554
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HR" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetworkhd.jpg" group-title="Live: ex-Yu Countries",Cartoon Network HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29555
-#EXTINF:-1 tvg-id="" tvg-name="Fight Network Ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/fightnetworkus.jpg" group-title="Live: ex-Yu Countries",Fight Network Ex-Yu
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29556
-#EXTINF:-1 tvg-id="" tvg-name="RTS Poletarac RS" tvg-logo="https://picon-13398.kxcdn.com/rtsdramars.jpg" group-title="Live: ex-Yu Countries",RTS Poletarac RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29557
-#EXTINF:-1 tvg-id="" tvg-name="TV Most RS" tvg-logo="https://picon-13398.kxcdn.com/tvmostrs.jpg" group-title="Live: ex-Yu Countries",TV Most RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29561
-#EXTINF:-1 tvg-id="" tvg-name="NTV Jata BA" tvg-logo="https://picon-13398.kxcdn.com/ntvickakanjba.jpg" group-title="Live: ex-Yu Countries",NTV Jata BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29563
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport HD RS" tvg-logo="https://picon-13398.kxcdn.com/novasportru.jpg" group-title="Live: ex-Yu Countries",Nova Sport HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/29855
-#EXTINF:-1 tvg-id="" tvg-name="Banovina TV HR" tvg-logo="https://picon-13398.kxcdn.com/banovlnahr.jpg" group-title="Live: ex-Yu Countries",Banovina TV HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/30074
-#EXTINF:-1 tvg-id="" tvg-name="RTV Krajina BA" tvg-logo="https://picon-13398.kxcdn.com/krajinaba.jpg" group-title="Live: ex-Yu Countries",RTV Krajina BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/32683
-#EXTINF:-1 tvg-id="" tvg-name="Amari TV BA" tvg-logo="https://picon-13398.kxcdn.com/amaritvba.jpg" group-title="Live: ex-Yu Countries",Amari TV BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/32684
-#EXTINF:-1 tvg-id="" tvg-name="NTV IC Kakanj BA" tvg-logo="https://picon-13398.kxcdn.com/ntvickakanjba.jpg" group-title="Live: ex-Yu Countries",NTV IC Kakanj BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/32685
-#EXTINF:-1 tvg-id="" tvg-name="O Kanal BA" tvg-logo="https://picon-13398.kxcdn.com/okanalba.jpg" group-title="Live: ex-Yu Countries",O Kanal BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/32686
-#EXTINF:-1 tvg-id="" tvg-name="Posavina BA" tvg-logo="https://picon-13398.kxcdn.com/posavnaba.jpg" group-title="Live: ex-Yu Countries",Posavina BA
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/32687
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD HR" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="Live: ex-Yu Countries",BBC Earth HD HR
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28398
-#EXTINF:-1 tvg-id="" tvg-name="RTV 2 RS" tvg-logo="https://picon-13398.kxcdn.com/rtv2rs.jpg" group-title="Live: ex-Yu Countries",RTV 2 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/33965
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga Live 1 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="Live: ex-Yu Countries",Zadruga Live 1 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/35327
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga Live 2 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="Live: ex-Yu Countries",Zadruga Live 2 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/35328
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga Live 3 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="Live: ex-Yu Countries",Zadruga Live 3 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/35329
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga Live 4 RS" tvg-logo="https://picon-13398.kxcdn.com/zadrugasr.jpg" group-title="Live: ex-Yu Countries",Zadruga Live 4 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/35330
-#EXTINF:-1 tvg-id="" tvg-name="Star TV RS" tvg-logo="https://picon-13398.kxcdn.com/startvrs.jpg" group-title="Live: ex-Yu Countries",Star TV RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/28252
-#EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="Arena Sport 1 RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 1 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/52131
-#EXTINF:-1 tvg-id="Arenasport2.rs" tvg-name="Arena Sport 2 RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="Live: ex-Yu Countries",Arena Sport 2 RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/52132
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Fox HD RS" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: ex-Yu Countries",Fox HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/52133
-#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink HD RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="Live: ex-Yu Countries",Pink HD RS
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/71021
-#EXTINF:-1 tvg-id="" tvg-name=" Discovery Science [Multi-sub] Europe" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Live: ex-Yu Countries", Discovery Science [Multi-sub] Europe
-http://tv.mtbox.hitv.one:80/MjAPIdvmTz/2u74KEF2CA/72672
+
+
+#EXTM3U
 #EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt1.jpg",HTV 1
 http://client.nodomain.vip:80/live.ts?channelId=2&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
 #EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt1_hd.png",HTV 1 HD
@@ -1275,3 +605,315 @@ http://client.nodomain.vip:80/live.ts?channelId=1869&uid=33688&deviceUser=27josi
 http://client.nodomain.vip:80/live.ts?channelId=1393&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
 #EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",TOM AND DZERY 24h
 http://client.nodomain.vip:80/live.ts?channelId=305&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",VAWOM TV
+http://client.nodomain.vip:80/live.ts?channelId=1467&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",█▀▄▀▄▀FILM & SERIJE ▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1117&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",ANDRIJA I ANDJELKA 24H
+http://client.nodomain.vip:80/live.ts?channelId=1867&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",LUD ZBUNJEN NORMALAN 24H
+http://client.nodomain.vip:80/live.ts?channelId=1866&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FILMSKI MARATON
+http://client.nodomain.vip:80/live.ts?channelId=1870&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1248&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1249&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 3 HD
+http://client.nodomain.vip:80/live.ts?channelId=1250&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 4 HD
+http://client.nodomain.vip:80/live.ts?channelId=1251&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 5 HD
+http://client.nodomain.vip:80/live.ts?channelId=1252&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 6 HD
+http://client.nodomain.vip:80/live.ts?channelId=1253&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 7 HD
+http://client.nodomain.vip:80/live.ts?channelId=1254&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 8 HD
+http://client.nodomain.vip:80/live.ts?channelId=1255&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 9 HD
+http://client.nodomain.vip:80/live.ts?channelId=1256&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 10 HD
+http://client.nodomain.vip:80/live.ts?channelId=1257&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 11 HD
+http://client.nodomain.vip:80/live.ts?channelId=1669&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",AMC
+http://client.nodomain.vip:80/live.ts?channelId=611&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",AXN
+http://client.nodomain.vip:80/live.ts?channelId=122&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",AXN SPIN
+http://client.nodomain.vip:80/live.ts?channelId=612&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/logos_tv1.svg",CINESTAR TV
+http://client.nodomain.vip:80/live.ts?channelId=224&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/logos_tv2.svg",CINESTAR TV 2
+http://client.nodomain.vip:80/live.ts?channelId=1814&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/action.svg",CINESTAR ACTION
+http://client.nodomain.vip:80/live.ts?channelId=268&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-comedy.svg",CINESTAR COMEDY
+http://client.nodomain.vip:80/live.ts?channelId=1805&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-fantasy.svg",CINESTAR FANTASY
+http://client.nodomain.vip:80/live.ts?channelId=607&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-premiere1.svg",CINESTAR PREMIERE 1
+http://client.nodomain.vip:80/live.ts?channelId=12&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-premiere2.svg",CINESTAR PREMIERE 2
+http://client.nodomain.vip:80/live.ts?channelId=13&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",CINEMAX 1
+http://client.nodomain.vip:80/live.ts?channelId=14&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",CINEMAX 2
+http://client.nodomain.vip:80/live.ts?channelId=15&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",DIVA TV
+http://client.nodomain.vip:80/live.ts?channelId=1405&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",EPIC DRAMA
+http://client.nodomain.vip:80/live.ts?channelId=1402&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FILMBOX EXTRA
+http://client.nodomain.vip:80/live.ts?channelId=586&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FILMBOX STARS
+http://client.nodomain.vip:80/live.ts?channelId=525&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FILMBOX PREMIUM
+http://client.nodomain.vip:80/live.ts?channelId=1445&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FILM KLUB
+http://client.nodomain.vip:80/live.ts?channelId=1845&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png",HBO
+http://client.nodomain.vip:80/live.ts?channelId=44&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png",HBO 2
+http://client.nodomain.vip:80/live.ts?channelId=16&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo3_ce.png",HBO 3
+http://client.nodomain.vip:80/live.ts?channelId=73&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",KINO TV
+http://client.nodomain.vip:80/live.ts?channelId=608&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",M1 GOLD
+http://client.nodomain.vip:80/live.ts?channelId=1593&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",M1 FILM
+http://client.nodomain.vip:80/live.ts?channelId=379&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",SCI FI
+http://client.nodomain.vip:80/live.ts?channelId=609&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",TV_1000
+http://client.nodomain.vip:80/live.ts?channelId=480&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FOX
+http://client.nodomain.vip:80/live.ts?channelId=17&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FOX LIFE
+http://client.nodomain.vip:80/live.ts?channelId=19&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FOX CRIME
+http://client.nodomain.vip:80/live.ts?channelId=18&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FOX MOVIES
+http://client.nodomain.vip:80/live.ts?channelId=111&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",PICKBOX TV
+http://client.nodomain.vip:80/live.ts?channelId=1211&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://superstartv.rs/wp-content/uploads/2019/03/superstar-tv-logo.png",SUPER STAR TV
+http://client.nodomain.vip:80/live.ts?channelId=1503&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",█▀▄▀▄▀SPORT ▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1120&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/nova_sport.png",NOVA TV SPORT
+http://client.nodomain.vip:80/live.ts?channelId=1780&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_1.png",PLANET SPORT 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1335&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_2.png",PLANET_SPORT_2_HD
+http://client.nodomain.vip:80/live.ts?channelId=1341&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_3.png",PLANET_SPORT_3_HD
+http://client.nodomain.vip:80/live.ts?channelId=1351&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_4.png",PLANET_SPORT_4_HD
+http://client.nodomain.vip:80/live.ts?channelId=1387&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_5.png",PLANET_SPORT_5_HD
+http://client.nodomain.vip:80/live.ts?channelId=1388&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png",ARENA HD 1 HR
+http://client.nodomain.vip:80/live.ts?channelId=20&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png",ARENA HD 2 HR
+http://client.nodomain.vip:80/live.ts?channelId=21&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena3_logo.png",ARENA HD 3 HR
+http://client.nodomain.vip:80/live.ts?channelId=22&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena4_logo.png",ARENA HD 4 HR
+http://client.nodomain.vip:80/live.ts?channelId=23&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena5_logo.png",ARENA HD 5 HR
+http://client.nodomain.vip:80/live.ts?channelId=123&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena6_logo.png",ARENA HD 6 HR
+http://client.nodomain.vip:80/live.ts?channelId=464&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png",ARENA FHD 1 HR
+http://client.nodomain.vip:80/live.ts?channelId=1858&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png",ARENA FHD 2 HR
+http://client.nodomain.vip:80/live.ts?channelId=1859&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena3_logo.png",ARENA FHD 3 HR
+http://client.nodomain.vip:80/live.ts?channelId=1860&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena4_logo.png",ARENA FHD 4 HR
+http://client.nodomain.vip:80/live.ts?channelId=1861&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena5_logo.png",ARENA FHD 5 HR
+http://client.nodomain.vip:80/live.ts?channelId=1862&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png",ARENA_1_SRB
+http://client.nodomain.vip:80/live.ts?channelId=100&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png",ARENA_2_SRB
+http://client.nodomain.vip:80/live.ts?channelId=101&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png",ARENA_3_SRB
+http://client.nodomain.vip:80/live.ts?channelId=102&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png",ARENA_4_SRB
+http://client.nodomain.vip:80/live.ts?channelId=35&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena5.png",ARENA_5_SRB
+http://client.nodomain.vip:80/live.ts?channelId=121&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",ARENA 1 HD BIH
+http://client.nodomain.vip:80/live.ts?channelId=1873&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png",ARENA 1 HD SRB
+http://client.nodomain.vip:80/live.ts?channelId=1336&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png",ARENA 2 HD SRB
+http://client.nodomain.vip:80/live.ts?channelId=1337&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png",ARENA 3 HD SRB
+http://client.nodomain.vip:80/live.ts?channelId=1338&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png",ARENA 4 HD SRB
+http://client.nodomain.vip:80/live.ts?channelId=1339&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 1 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1613&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 2 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1614&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 3 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1615&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 4 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1616&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 5 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1617&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 6 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1618&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 7 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1619&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 8 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1620&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 9 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1621&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 10 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1622&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 11 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1623&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 12 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1624&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 13 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1625&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 14 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1626&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 15 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1627&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 16 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1628&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2015_logo.png",EUROSPORT
+http://client.nodomain.vip:80/live.ts?channelId=128&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2_2015_logo.png",EUROSPORT 2
+http://client.nodomain.vip:80/live.ts?channelId=129&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/fight-channel-logo.png",FIGHT CHANNEL
+http://client.nodomain.vip:80/live.ts?channelId=1674&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hntv_logo.png",HNTV
+http://client.nodomain.vip:80/live.ts?channelId=481&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://www.mnesport.tv/images/mnesport-logoN.png",MNE SPORT 1 CG
+http://client.nodomain.vip:80/live.ts?channelId=1856&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://static.sport1.ba/media/article/110587/large/za_moja_tv_bh_phone_slika.jpg",MOJA TV PREMIJER LIGA BH
+http://client.nodomain.vip:80/live.ts?channelId=1675&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",ZVEZDA TV
+http://client.nodomain.vip:80/live.ts?channelId=1888&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD1.png",BEIN SPORTS 1 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1676&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein_sports_2.png",BEIN SPORTS 2 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1677&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD3.png",BEIN SPORTS 3 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1678&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD4.png",BEIN SPORTS 4 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1679&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD1.png",BEIN SPORTS 1 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1680&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein_sports_2.png",BEIN SPORTS 2 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1681&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD3.png",BEIN SPORTS 3 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1682&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD4.png",BEIN SPORTS 4 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1683&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Canal_Sport_logo.png",CANAL+ SPORT FR
+http://client.nodomain.vip:80/live.ts?channelId=1684&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NBA_TV.png",NBA TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1685&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-1-150.png",EUROSPORT 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=1686&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-2-151.png",EUROSPORT 2 DE
+http://client.nodomain.vip:80/live.ts?channelId=1687&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-eurosport-2-xtra-785.png",EUROSPORT 2 XTRA DE
+http://client.nodomain.vip:80/live.ts?channelId=1688&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-orf-sport-163.png",ORF SPORT +
+http://client.nodomain.vip:80/live.ts?channelId=1742&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-sport1-166.png",SPORT 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=1689&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",AUTO MOTOR SPORT DE
+http://client.nodomain.vip:80/live.ts?channelId=1690&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",FC BAYERN HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1691&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sport-1-tvlogo.png",BT SPORT 1
+http://client.nodomain.vip:80/live.ts?channelId=1694&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sport-2-tvlogo.png",BT SPORT 2
+http://client.nodomain.vip:80/live.ts?channelId=1695&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sport-3-tvlogo.png",BT SPORT 3
+http://client.nodomain.vip:80/live.ts?channelId=1696&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sportespn-tvlogo.png",BT SPORT ESPN
+http://client.nodomain.vip:80/live.ts?channelId=1697&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/eir-sport-1-tvlogo.png",EIR SPORT 1
+http://client.nodomain.vip:80/live.ts?channelId=1698&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/8f188e3ed58a1e3b131f4eb9870c3fcf.png",EIR SPORT 2
+http://client.nodomain.vip:80/live.ts?channelId=1699&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png",ELEVEN SPORT 1 PL
+http://client.nodomain.vip:80/live.ts?channelId=1700&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",ELEVEN SPORT 2 PL
+http://client.nodomain.vip:80/live.ts?channelId=1701&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-us-espn-29.png",ESPN US
+http://client.nodomain.vip:80/live.ts?channelId=1703&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",LIVERPOOL FC TV UK
+http://client.nodomain.vip:80/live.ts?channelId=1704&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",PREMIER SPORTS UK
+http://client.nodomain.vip:80/live.ts?channelId=1800&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",PREMIER SPORTS 2 UK
+http://client.nodomain.vip:80/live.ts?channelId=1818&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai-sport1-loho.png",RAI SPORT 1
+http://client.nodomain.vip:80/live.ts?channelId=1717&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",DIGI SPORT 1 HD RO
+http://client.nodomain.vip:80/live.ts?channelId=1832&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",DIGI SPORT 2 HD RO
+http://client.nodomain.vip:80/live.ts?channelId=1831&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",DIGI SPORT 3 HD RO
+http://client.nodomain.vip:80/live.ts?channelId=1833&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",DIGI SPORT 4 HD RO
+http://client.nodomain.vip:80/live.ts?channelId=1834&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",FOX SPORTS 1
+http://client.nodomain.vip:80/live.ts?channelId=1721&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",FOX SPORTS 2
+http://client.nodomain.vip:80/live.ts?channelId=1722&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",FOX SPORTS 3
+http://client.nodomain.vip:80/live.ts?channelId=1723&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",FOX SPORTS 4
+http://client.nodomain.vip:80/live.ts?channelId=1724&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-c-more-fotboll-482.png",C MORE FOTBALL SE
+http://client.nodomain.vip:80/live.ts?channelId=1725&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-c-more-golf-481.png",C MORE GOLF SE
+http://client.nodomain.vip:80/live.ts?channelId=1726&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/c-more-hockey_logo.png",C MORE HOCKEY SE
+http://client.nodomain.vip:80/live.ts?channelId=1727&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-c-more-sport-480.png",C MORE SPORT SE
+http://client.nodomain.vip:80/live.ts?channelId=1728&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",C MORE LIVE 1
+http://client.nodomain.vip:80/live.ts?channelId=1840&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",C MORE LIVE 2
+http://client.nodomain.vip:80/live.ts?channelId=1841&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",C MORE LIVE 3
+http://client.nodomain.vip:80/live.ts?channelId=1842&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",C MORE LIVE 4
+http://client.nodomain.vip:80/live.ts?channelId=1843&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",C MORE LIVE 5
+http://client.nodomain.vip:80/live.ts?channelId=1844&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-viasat-sport-extra-1918.png",TV3 SPORT SE
+http://client.nodomain.vip:80/live.ts?channelId=1731&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-viasat-fotball-494.png",VIASAT FOTBOLL SE
+http://client.nodomain.vip:80/live.ts?channelId=1732&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-golf-488.png",VIASAT GOLF SE
+http://client.nodomain.vip:80/live.ts?channelId=1733&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-motor-487.png",VIASAT MOTOR SE
+http://client.nodomain.vip:80/live.ts?channelId=1735&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-sport-533.png",VIASAT SPORT SE
+http://client.nodomain.vip:80/live.ts?channelId=1736&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-sport-premium-493.png",VIASAT SPORT PREMIUM SE
+http://client.nodomain.vip:80/live.ts?channelId=1737&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",SUPER SPORT 1 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1738&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",SUPER SPORT 2 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1739&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",SUPER SPORT 3 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1740&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",SUPER SPORT 4 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1741&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
