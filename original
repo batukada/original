@@ -1,917 +1,425 @@
 #EXTM3U
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt1.jpg",HTV 1
-http://client.nodomain.vip:80/live.ts?channelId=2&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt1_hd.png",HTV 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=1489&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt2.jpg",HTV 2
-http://client.nodomain.vip:80/live.ts?channelId=3&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt2_hd.png",HTV 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1463&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt3.jpg",HTV 3
-http://client.nodomain.vip:80/live.ts?channelId=188&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt3_hd.png",HTV 3 HD
-http://client.nodomain.vip:80/live.ts?channelId=1490&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt4.jpg",HTV 4
-http://client.nodomain.vip:80/live.ts?channelId=277&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt4_hd.png",HTV 4 HD
-http://client.nodomain.vip:80/live.ts?channelId=1491&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt_satelitski_program.jpg",HTV INT.
-http://client.nodomain.vip:80/live.ts?channelId=606&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaTV_logo_2019.png",NOVA TV
-http://client.nodomain.vip:80/live.ts?channelId=5&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/nova_hd/801-8-cro-HR/nova_hd_tvchannel_list.png",NOVA TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1176&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/doma.png",DOMA TV
-http://client.nodomain.vip:80/live.ts?channelId=7&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/doma.png",DOMA TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1391&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL.png",RTL TV
-http://client.nodomain.vip:80/live.ts?channelId=4&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL.png",RTL TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1777&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL2-logo.png",RTL 2
-http://client.nodomain.vip:80/live.ts?channelId=6&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL2-logo.png",RTL 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1778&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl-kockica-logo.png",RTL KOCKICA
-http://client.nodomain.vip:80/live.ts?channelId=8&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl-kockica-logo.png",RTL KOCKICA HD
-http://client.nodomain.vip:80/live.ts?channelId=1779&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_rtl_adria.png",RTL ADRIA
-http://client.nodomain.vip:80/live.ts?channelId=1804&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_rtl_crime.png",RTL CRIME
-http://client.nodomain.vip:80/live.ts?channelId=313&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL_Living_logo.png",RTL_LIVING
-http://client.nodomain.vip:80/live.ts?channelId=261&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL_Passion_logo.png",RTL PASSION
-http://client.nodomain.vip:80/live.ts?channelId=356&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://poslovni.sbb.rs/wp-content/uploads/2020/03/rtl-croatia-world.png",RTL CROATIA WORLD
-http://client.nodomain.vip:80/live.ts?channelId=1231&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/KlasikTV_logo.png",KLASIK TV
-http://client.nodomain.vip:80/live.ts?channelId=45&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/dutv-logo.png",DUBROVNIK TV
-http://client.nodomain.vip:80/live.ts?channelId=1382&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="/noicon.png",GB TV
-http://client.nodomain.vip:80/live.ts?channelId=1233&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/jabukatv-logo.png",JABUKA TV
-http://client.nodomain.vip:80/live.ts?channelId=1236&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kanalr-logo.png",KANAL RI
-http://client.nodomain.vip:80/live.ts?channelId=1232&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_web_prod.jpg",KREATOR TV
-http://client.nodomain.vip:80/live.ts?channelId=1433&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LaudatoTV_logo.png",LAUDATO TV
-http://client.nodomain.vip:80/live.ts?channelId=604&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LibertasTV.png",LIBERTAS TV
-http://client.nodomain.vip:80/live.ts?channelId=1437&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://sj0292nqbq42lklxrpimpr5b-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/weblogo_sm_1.0.png",MARY TV MEDJUGORJE
-http://client.nodomain.vip:80/live.ts?channelId=1793&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/MrezaZG_logo.png",MREZA TV
-http://client.nodomain.vip:80/live.ts?channelId=1234&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/46/02/n1hd_logo_16_9_light_384x216_f0fa5312_10be_4645_9b31_005cadb32a1f.png",N1 HR
-http://client.nodomain.vip:80/live.ts?channelId=1458&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/ostv-logo.png",OSJECKA TV
-http://client.nodomain.vip:80/live.ts?channelId=342&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/poljoprivredna_tv_logo.png",POLJOPRIVREDNA TV
-http://client.nodomain.vip:80/live.ts?channelId=1237&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://sbtv.hr/templates/retroid/images/logos/rlogo1.png",SB TV
-http://client.nodomain.vip:80/live.ts?channelId=1865&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/stv-logo.png",SLAVONSKA TV
-http://client.nodomain.vip:80/live.ts?channelId=538&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sptv-logo.png",SPORTSKA TV
-http://client.nodomain.vip:80/live.ts?channelId=1673&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TrendTV-logo_logo.png",TREND TV KARLOVAC
-http://client.nodomain.vip:80/live.ts?channelId=1280&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvaurora.tv/wp-content/uploads/2020/03/Logo-480-7.png",TV AURORA
-http://client.nodomain.vip:80/live.ts?channelId=1238&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv-jadran-logo.png",TV JADRAN
-http://client.nodomain.vip:80/live.ts?channelId=1230&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="/noicon.png",TV MEDJUGORJE
-http://client.nodomain.vip:80/live.ts?channelId=1790&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Plava_Vinkovacka_logo.png",VINKOVACKA TV
-http://client.nodomain.vip:80/live.ts?channelId=539&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/vtv-logo.png",VTV VARAZDIN
-http://client.nodomain.vip:80/live.ts?channelId=1216&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/zdrava-televizija-logo.jpg",ZDRAVA TV
-http://client.nodomain.vip:80/live.ts?channelId=1235&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="HRVATSKA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/z1-logo.png",Z1
-http://client.nodomain.vip:80/live.ts?channelId=540&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-round-250.png",█▀▄▀▄▀BOSNA I HERCEGOVINA▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1115&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaBH_logo.png",NOVA BH
-http://client.nodomain.vip:80/live.ts?channelId=36&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaBH_logo.png",NOVA BH HD
-http://client.nodomain.vip:80/live.ts?channelId=1509&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bht1.jpg",BHT
-http://client.nodomain.vip:80/live.ts?channelId=47&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/28/18/bht1_logo_16_9_light_384x216_b45eb1ad_0092_490a_b365_41f2853cdcd9.png",BHT HD
-http://client.nodomain.vip:80/live.ts?channelId=1188&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/obn.jpg",OBN
-http://client.nodomain.vip:80/live.ts?channelId=51&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bnsat.png",BN SAT
-http://client.nodomain.vip:80/live.ts?channelId=48&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ftv_ba.jpg",FTV
-http://client.nodomain.vip:80/live.ts?channelId=1&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_ba.jpg",HAYAT
-http://client.nodomain.vip:80/live.ts?channelId=39&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/alfatvlogo.png",ALFA TV
-http://client.nodomain.vip:80/live.ts?channelId=310&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_balkans.jpg",AL JAZEERA
-http://client.nodomain.vip:80/live.ts?channelId=117&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/ATV_logo.png",ATV
-http://client.nodomain.vip:80/live.ts?channelId=104&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://www.b1tv.ba/wp-content/uploads/2018/12/fav-257x300.png",B1 TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1441&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://tv.bir.ba/wp-content/uploads/2017/06/TVLogoBetaV1.png",BIR TV
-http://client.nodomain.vip:80/live.ts?channelId=1835&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://bosansko-posavskatv.com/wp-content/uploads/2019/05/Bosansko-Posavska-Televizija03.jpg",BOSANSKO POSAVSKA TV
-http://client.nodomain.vip:80/live.ts?channelId=1583&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/CityTV_logo.png",CITY TV MOSTAR
-http://client.nodomain.vip:80/live.ts?channelId=1454&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Dobra_Balkanska_TV_logo.png",DOBRA TV ISLAM
-http://client.nodomain.vip:80/live.ts?channelId=1517&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/face-tv-logo.png",FACE TV
-http://client.nodomain.vip:80/live.ts?channelId=54&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_plus.jpg",HAYAT PLUS
-http://client.nodomain.vip:80/live.ts?channelId=103&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kanal6-logo.png",KANAL 6
-http://client.nodomain.vip:80/live.ts?channelId=1440&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="/noicon.png",MEKKA TV
-http://client.nodomain.vip:80/live.ts?channelId=1516&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/mtv-igman-logo.png",MTV IGMAN
-http://client.nodomain.vip:80/live.ts?channelId=116&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/45/57/n1hd_logo_16_9_light_384x216_205f4923_27d6_4713_8d99_77ba011a0a3d.png",N1 BOSNA
-http://client.nodomain.vip:80/live.ts?channelId=52&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/12/03/23/48/52/l_o_kanal_xl.png",O KANAL
-http://client.nodomain.vip:80/live.ts?channelId=56&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://podrinjemedia.ba/wp-content/uploads/2020/04/PodrinjeMediaLogo-2-300x275-1.png",PODRINJE TV
-http://client.nodomain.vip:80/live.ts?channelId=1875&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv7.jpg",RTV 7
-http://client.nodomain.vip:80/live.ts?channelId=348&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://rtvbpk.ba/wp-content/uploads/2020/04/Big_Logo_20.gif",RTV BPK
-http://client.nodomain.vip:80/live.ts?channelId=1807&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/08/15/tv_bugojno_384x216.png",RTV BUGOJNO
-http://client.nodomain.vip:80/live.ts?channelId=1373&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://rtvcazin.ba/wp-content/uploads/2019/08/logo-jpg.jpg",RTV CAZIN
-http://client.nodomain.vip:80/live.ts?channelId=1798&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/07/02/13/16/26/l_logo_transparentbck.png",RTV HERCEG BOSNE
-http://client.nodomain.vip:80/live.ts?channelId=1434&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="http://sanartv.ba/wp-content/uploads/2017/03/RTVSANA-bijelo-e1490615551806.png",RTV SANA
-http://client.nodomain.vip:80/live.ts?channelId=1838&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-usk-logo.png",RTV USK
-http://client.nodomain.vip:80/live.ts?channelId=350&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-ze-logo.png",RTV ZENICA
-http://client.nodomain.vip:80/live.ts?channelId=311&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/favicon-www.televizija5.ba.png",TELEVIZIJA 5
-http://client.nodomain.vip:80/live.ts?channelId=484&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-tk-logo.png",TK TUZLA
-http://client.nodomain.vip:80/live.ts?channelId=59&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kanal3-prnjavor-logo.png",TV K3
-http://client.nodomain.vip:80/live.ts?channelId=347&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tvsa-logo.png",TV SARAJEVO
-http://client.nodomain.vip:80/live.ts?channelId=339&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="BOSNA I HERCEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Slon_Extra_logo.png",TV SLON
-http://client.nodomain.vip:80/live.ts?channelId=323&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://cdn.countryflags.com/thumbs/serbia/flag-round-250.png",█▀▄▀▄▀SRBIJA▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1116&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/novaslogo.png",NOVA S HD
-http://client.nodomain.vip:80/live.ts?channelId=603&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://nstatic.net/img/tv/channels/m/rts-1.png",RTS HD
-http://client.nodomain.vip:80/live.ts?channelId=1189&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS1_logo.png",RTS 1
-http://client.nodomain.vip:80/live.ts?channelId=37&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS2_logo.png",RTS 2
-http://client.nodomain.vip:80/live.ts?channelId=38&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_3_logo.png",RTS 3
-http://client.nodomain.vip:80/live.ts?channelId=544&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Drama_logo.png",RTS DRAMA
-http://client.nodomain.vip:80/live.ts?channelId=1494&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Kolo_logo.jpg",RTS_KOLO
-http://client.nodomain.vip:80/live.ts?channelId=1499&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_svet_logo.png",RTS SVET
-http://client.nodomain.vip:80/live.ts?channelId=1496&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Trezor_logo.png",RTS TREZOR
-http://client.nodomain.vip:80/live.ts?channelId=1497&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Zivot_logo.png",RTS ZIVOT
-http://client.nodomain.vip:80/live.ts?channelId=1498&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtrs-logo.png",RTRS
-http://client.nodomain.vip:80/live.ts?channelId=53&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://nstatic.net/img/tv/channels/m/b92.png",B92
-http://client.nodomain.vip:80/live.ts?channelId=58&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Happy_new_logo.png",HAPPY
-http://client.nodomain.vip:80/live.ts?channelId=235&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://i.ytimg.com/vi/HhL-97KGLXk/hqdefault.jpg",HAPPY PAROVI 24/7
-http://client.nodomain.vip:80/live.ts?channelId=483&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Hram_logo.png",HRAM_TV
-http://client.nodomain.vip:80/live.ts?channelId=1776&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",KURIR TV
-http://client.nodomain.vip:80/live.ts?channelId=1864&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://nstatic.net/img/tv/channels/m/n1.png",N1 RS
-http://client.nodomain.vip:80/live.ts?channelId=1457&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",NASA_BALKAN
-http://client.nodomain.vip:80/live.ts?channelId=1504&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",NOVA RS
-http://client.nodomain.vip:80/live.ts?channelId=1520&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-novi-pazar-logo.png",NOVI_PAZAR
-http://client.nodomain.vip:80/live.ts?channelId=132&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",PALMA_PLUS
-http://client.nodomain.vip:80/live.ts?channelId=1748&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prva-srpska-logo.png",PRVA TV
-http://client.nodomain.vip:80/live.ts?channelId=40&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Prva_FILES_logo.png",PRVA FILES
-http://client.nodomain.vip:80/live.ts?channelId=1644&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Prva_Plus_Logo.png",PRVA PLUS
-http://client.nodomain.vip:80/live.ts?channelId=42&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PRVA-KICK_logo.png",PRVA_KICK
-http://client.nodomain.vip:80/live.ts?channelId=1375&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prva-max_logo.jpg",PRVA MAX
-http://client.nodomain.vip:80/live.ts?channelId=1374&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prva_world_logo.png",PRVA WORLD
-http://client.nodomain.vip:80/live.ts?channelId=543&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://rtvbor.rs/wp-content/uploads/2018/09/rtvborrs_logo_site.png",RTV BOR
-http://client.nodomain.vip:80/live.ts?channelId=1887&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-vojvodina.jpg",RTV VOJVODINA 1
-http://client.nodomain.vip:80/live.ts?channelId=1456&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",SANDZAK_TV
-http://client.nodomain.vip:80/live.ts?channelId=455&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",SANDZACKA_TV_MREZA
-http://client.nodomain.vip:80/live.ts?channelId=1500&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sos_kanal.png",SOS
-http://client.nodomain.vip:80/live.ts?channelId=153&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SRBIJA" tvg-logo="/noicon.png",TV LOTEL
-http://client.nodomain.vip:80/live.ts?channelId=1912&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://cdn.countryflags.com/thumbs/montenegro/flag-round-250.png",█▀▄▀▄▀CRNA GORA▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1774&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaM_logo.png",NOVA_M
-http://client.nodomain.vip:80/live.ts?channelId=335&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTCG1-logo.jpg",RTCG 1
-http://client.nodomain.vip:80/live.ts?channelId=315&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTCG2-logo.jpg",RTCG 2
-http://client.nodomain.vip:80/live.ts?channelId=1643&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTCG-Sat-logo.jpg",RTCG SAT
-http://client.nodomain.vip:80/live.ts?channelId=1783&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prvacg.jpg",PRVA_TV_CG
-http://client.nodomain.vip:80/live.ts?channelId=1784&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="CRNA GORA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Vijesti_CG_logo.png",TV VIJESTI CG
-http://client.nodomain.vip:80/live.ts?channelId=1645&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="/noicon.png",█▀▄▀▄▀PINK▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1118&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/52/01/zadruga_live_1_384x216.png",PINK ZADRUGA 1 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1486&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/54/55/zadruga_live_2_384x216.png",PINK ZADRUGA 2 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1743&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/56/36/zadruga_live_3_384x216.png",PINK ZADRUGA 3 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1744&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/58/20/zadruga_live_4_384x216.png",PINK ZADRUGA 4 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1745&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PINK-logo.jpg",PINK
-http://client.nodomain.vip:80/live.ts?channelId=64&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Media_BH_logo.png",PINK BH
-http://client.nodomain.vip:80/live.ts?channelId=1383&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink_media_m.png",PINK M
-http://client.nodomain.vip:80/live.ts?channelId=1385&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/Red-TV-Pink-Logo.png",RED TV (ex.Pink 2)
-http://client.nodomain.vip:80/live.ts?channelId=57&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink3_Info_logo.png",PINK 3
-http://client.nodomain.vip:80/live.ts?channelId=60&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-action-logo.png",PINK ACTION
-http://client.nodomain.vip:80/live.ts?channelId=32&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-classic-logo.png",PINK CLASSIC
-http://client.nodomain.vip:80/live.ts?channelId=494&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkComedy.png",PINK COMEDY
-http://client.nodomain.vip:80/live.ts?channelId=50&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Crime_Mistery_logo.png",PINK CRIME MYSTERY
-http://client.nodomain.vip:80/live.ts?channelId=34&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkExtra.png",PINK EXTRA
-http://client.nodomain.vip:80/live.ts?channelId=227&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-family-logo.png",PINK FAMILY
-http://client.nodomain.vip:80/live.ts?channelId=1281&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-film-logo.png",PINK FILM
-http://client.nodomain.vip:80/live.ts?channelId=120&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/05/30/17/05/15/pink_hits_2_384x216.png",PINK HITS 2
-http://client.nodomain.vip:80/live.ts?channelId=182&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/HaHa.png",PINK HAHA
-http://client.nodomain.vip:80/live.ts?channelId=1283&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkHorror.png",PINK HORROR
-http://client.nodomain.vip:80/live.ts?channelId=223&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-kids-logo.png",PINK KIDS
-http://client.nodomain.vip:80/live.ts?channelId=147&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LOL.png",PINK LOL
-http://client.nodomain.vip:80/live.ts?channelId=1282&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Kuvar_logo.png",PINK KUVAR
-http://client.nodomain.vip:80/live.ts?channelId=527&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-movies-logo.png",PINK MOVIES
-http://client.nodomain.vip:80/live.ts?channelId=532&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkPlus.png",PINK PLUS
-http://client.nodomain.vip:80/live.ts?channelId=55&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkPremium.png",PINK PREMIUM
-http://client.nodomain.vip:80/live.ts?channelId=31&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkReality.png",PINK REALITY
-http://client.nodomain.vip:80/live.ts?channelId=63&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Romance_logo.png",PINK ROMANCE
-http://client.nodomain.vip:80/live.ts?channelId=46&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_SciFi_Fantasy_logo.png",PINK SCI-FI FANTASY
-http://client.nodomain.vip:80/live.ts?channelId=66&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Serije_logo.png",PINK SERIJE
-http://client.nodomain.vip:80/live.ts?channelId=336&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkSoap_logo2.png",PINK SOAP
-http://client.nodomain.vip:80/live.ts?channelId=181&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Thriller_logo.png",PINK THRILLER
-http://client.nodomain.vip:80/live.ts?channelId=33&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-western-logo.jpg",PINK WESTERN
-http://client.nodomain.vip:80/live.ts?channelId=119&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-world-logo.png",PINK WORLD
-http://client.nodomain.vip:80/live.ts?channelId=154&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkZabava_logo.png",PINK ZABAVA
-http://client.nodomain.vip:80/live.ts?channelId=155&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="PINK" tvg-logo="/noicon.png",PINK PEDIA
-http://client.nodomain.vip:80/live.ts?channelId=1913&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png",█▀▄▀▄▀ALBANIJA▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1123&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",AMOL TV ALB
-http://client.nodomain.vip:80/live.ts?channelId=1649&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",ALB MUSIC
-http://client.nodomain.vip:80/live.ts?channelId=1654&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alsat_m.jpg",ALSAT M ALB
-http://client.nodomain.vip:80/live.ts?channelId=281&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",BESA TV ALB
-http://client.nodomain.vip:80/live.ts?channelId=1650&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",DASMA TV ALB
-http://client.nodomain.vip:80/live.ts?channelId=1655&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_aksion.jpg",FILM AKSION ALB
-http://client.nodomain.vip:80/live.ts?channelId=204&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_drame.jpg",FILM DRAME ALB
-http://client.nodomain.vip:80/live.ts?channelId=205&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",FILM DY HD ALB
-http://client.nodomain.vip:80/live.ts?channelId=139&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_hits.jpg",FILM HITS ALB
-http://client.nodomain.vip:80/live.ts?channelId=138&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_komedi.jpg",FILM KOMEDI ALB
-http://client.nodomain.vip:80/live.ts?channelId=137&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",FILM NJE HD ALB
-http://client.nodomain.vip:80/live.ts?channelId=134&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_thriller.jpg",FILM TRILLER ALB
-http://client.nodomain.vip:80/live.ts?channelId=140&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",FIRST CHANNEL ALB
-http://client.nodomain.vip:80/live.ts?channelId=1511&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/klan_kosova.jpg",KLAN KOSOVA ALB
-http://client.nodomain.vip:80/live.ts?channelId=1459&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/koha_vision.jpg",KTV KOHAVIZION ALB
-http://client.nodomain.vip:80/live.ts?channelId=233&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",MY MUSIC ALB
-http://client.nodomain.vip:80/live.ts?channelId=1653&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",RROKUM HD ALB
-http://client.nodomain.vip:80/live.ts?channelId=1652&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",RTK ALB
-http://client.nodomain.vip:80/live.ts?channelId=234&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",RTV 21 ALB
-http://client.nodomain.vip:80/live.ts?channelId=497&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",RTV 21 MK ALB
-http://client.nodomain.vip:80/live.ts?channelId=1817&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",RTV 21 POPULLORE ALB
-http://client.nodomain.vip:80/live.ts?channelId=498&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/supersonic_tv_folk.jpg",STV FOLK ALB
-http://client.nodomain.vip:80/live.ts?channelId=231&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/top_channel.jpg",TOP CHANNEL ALB
-http://client.nodomain.vip:80/live.ts?channelId=610&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",TRING ACTION ALB
-http://client.nodomain.vip:80/live.ts?channelId=271&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_planet.jpg",TRING PLANET ALB
-http://client.nodomain.vip:80/live.ts?channelId=272&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_shqip.jpg",TRING_SHQIP_ALB
-http://client.nodomain.vip:80/live.ts?channelId=273&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_super.jpg",TRING SUPER ALB
-http://client.nodomain.vip:80/live.ts?channelId=274&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_tring.jpg",TRING TRING ALB
-http://client.nodomain.vip:80/live.ts?channelId=275&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_world.jpg",TRING WORLD ALB
-http://client.nodomain.vip:80/live.ts?channelId=276&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",T7 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1816&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",TV DUKAGJINI ALB
-http://client.nodomain.vip:80/live.ts?channelId=1815&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_klan.jpg",TV KLAN ALB
-http://client.nodomain.vip:80/live.ts?channelId=229&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",TV KOHA ALB
-http://client.nodomain.vip:80/live.ts?channelId=1648&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="ALBANIJA" tvg-logo="/noicon.png",TV OPINION ALB
-http://client.nodomain.vip:80/live.ts?channelId=1651&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="https://cdn.countryflags.com/thumbs/macedonia/flag-round-250.png",█▀▄▀▄▀MAKEDONIJA▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1130&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/24_vesti_mk.jpg",24 VESTI MK
-http://client.nodomain.vip:80/live.ts?channelId=1568&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alfa_tv_es.jpg",ALFA TV MK
-http://client.nodomain.vip:80/live.ts?channelId=1785&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",FOLK KLUB MK
-http://client.nodomain.vip:80/live.ts?channelId=1556&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png",HBO MK
-http://client.nodomain.vip:80/live.ts?channelId=1561&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png",HBO 2 MK
-http://client.nodomain.vip:80/live.ts?channelId=1562&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo3_ce.png",HBO_3_MK
-http://client.nodomain.vip:80/live.ts?channelId=1563&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",HUGO 1 MK
-http://client.nodomain.vip:80/live.ts?channelId=1552&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",HUGO 2 MK
-http://client.nodomain.vip:80/live.ts?channelId=1553&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal5_ua.jpg",KANAL 5 MK
-http://client.nodomain.vip:80/live.ts?channelId=239&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",MTM TV MK
-http://client.nodomain.vip:80/live.ts?channelId=1786&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_1_mk.jpg",MRT 1 MK
-http://client.nodomain.vip:80/live.ts?channelId=569&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_2_sat.jpg",MRT 2 MK
-http://client.nodomain.vip:80/live.ts?channelId=570&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",MRT 3 MK
-http://client.nodomain.vip:80/live.ts?channelId=1551&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",PLANETA TV MK
-http://client.nodomain.vip:80/live.ts?channelId=1787&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg",SITEL MK
-http://client.nodomain.vip:80/live.ts?channelId=241&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",TV+ MK
-http://client.nodomain.vip:80/live.ts?channelId=571&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",TELMA MK
-http://client.nodomain.vip:80/live.ts?channelId=434&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",TV PLUS MK
-http://client.nodomain.vip:80/live.ts?channelId=1788&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MAKEDONIJA" tvg-logo="/noicon.png",TV SUTEL MK
-http://client.nodomain.vip:80/live.ts?channelId=1586&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="https://cdn.countryflags.com/thumbs/slovenia/flag-round-250.png",█▀▄▀▄▀SLOVENIJA▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1127&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_slo1.jpg",SLO 1
-http://client.nodomain.vip:80/live.ts?channelId=536&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_slo2.jpg",SLO 2
-http://client.nodomain.vip:80/live.ts?channelId=537&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_slo3.jpg",SLO 3
-http://client.nodomain.vip:80/live.ts?channelId=1636&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pop_tv_si.jpg",POP TV SLO
-http://client.nodomain.vip:80/live.ts?channelId=605&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pop_oto.jpg",POP OTO SLO
-http://client.nodomain.vip:80/live.ts?channelId=1639&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_a_tr.jpg",KANAL A SLO
-http://client.nodomain.vip:80/live.ts?channelId=1334&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/planet_tv_si.jpg",PLANET TV SLO
-http://client.nodomain.vip:80/live.ts?channelId=1640&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SLOVENIJA" tvg-logo="/noicon.png",PLANET TV 2 SLO
-http://client.nodomain.vip:80/live.ts?channelId=1894&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",█▀▄▀▄▀DOKU & ZABAVA ▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1119&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/10/28/24_kitchen_384x216.png",24 KITCHEN
-http://client.nodomain.vip:80/live.ts?channelId=9&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/animal_planet_poland.png",ANIMAL PLANET
-http://client.nodomain.vip:80/live.ts?channelId=108&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/06/06/14/57/09/ccx_384x216px.png",COMEDY CENTRAL EXTRA
-http://client.nodomain.vip:80/live.ts?channelId=1340&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2018/10/09/16/21/40/crime_and_investigation_384x216.png",CRIME INVESTIGATION
-http://client.nodomain.vip:80/live.ts?channelId=236&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",DA VINCI LEARNING
-http://client.nodomain.vip:80/live.ts?channelId=573&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/01/29/14/14/42/2.png",DISCOVERY
-http://client.nodomain.vip:80/live.ts?channelId=105&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",DISCOVERY SCIENCE
-http://client.nodomain.vip:80/live.ts?channelId=1672&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",DOKU TV
-http://client.nodomain.vip:80/live.ts?channelId=1839&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us_xtra.png",DTX HD
-http://client.nodomain.vip:80/live.ts?channelId=1662&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/58/57/e_entertainment_384x216.png",E!
-http://client.nodomain.vip:80/live.ts?channelId=118&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",FOOD NETWORK
-http://client.nodomain.vip:80/live.ts?channelId=1661&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/57/01/history_384x216.png",HISTORY
-http://client.nodomain.vip:80/live.ts?channelId=84&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/39/51/history2hd_logo_16_9_light_384x216_960b676d_768e_4cf9_9aaf_316314e944a2.png",HISTORY 2
-http://client.nodomain.vip:80/live.ts?channelId=467&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",INVESTIGATION DISCOVERY
-http://client.nodomain.vip:80/live.ts?channelId=1502&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/17/lov_i_ribolov_384x216.png",LOV I RIBOLOV
-http://client.nodomain.vip:80/live.ts?channelId=130&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/12/national_geographic_384x216.png",NATIONAL GEOGRAPHIC
-http://client.nodomain.vip:80/live.ts?channelId=10&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/02/12/10/51/33/nat_geo_wild_384x216.png",NAT GEO WILD
-http://client.nodomain.vip:80/live.ts?channelId=263&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",FINE LIVING
-http://client.nodomain.vip:80/live.ts?channelId=469&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="/noicon.png",PLANET EARTH
-http://client.nodomain.vip:80/live.ts?channelId=1430&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/41/tlc_384x216.png",TLC
-http://client.nodomain.vip:80/live.ts?channelId=373&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/01/34/travel_channel_384x216.png",TRAVEL CHANNEL
-http://client.nodomain.vip:80/live.ts?channelId=468&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/15/viasat_explore_384x216.png",VIASAT EXPLORE
-http://client.nodomain.vip:80/live.ts?channelId=1153&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/12/56/viasathistory_logo_16_9_light_384x216_81d897e3_8090_4a26_9636_7a755b99ccd3.png",VIASAT HISTORY
-http://client.nodomain.vip:80/live.ts?channelId=587&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="DOKU & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/22/viasat_nature_384x216.png",VIASAT NATURE
-http://client.nodomain.vip:80/live.ts?channelId=1663&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://cdn.countryflags.com/thumbs/croatia/flag-button-round-250.png",█▀▄▀▄▀MUZIKA & ZABAVA▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1863&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/rtv_banovina/31833-6-cro-HR/rtv_banovina_tvchannel_list.png",BANOVINA TV
-http://client.nodomain.vip:80/live.ts?channelId=443&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/balkanika-logo.png",BALKANIKA
-http://client.nodomain.vip:80/live.ts?channelId=307&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo-www.bnmusic.org_logo.png",BN MUSIC
-http://client.nodomain.vip:80/live.ts?channelId=131&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/CMC_TV_logo.png",CMC
-http://client.nodomain.vip:80/live.ts?channelId=1799&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/CMC_TV_logo.png",CMC HD
-http://client.nodomain.vip:80/live.ts?channelId=110&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/DMC_televizija_logo.png",DMC TV
-http://client.nodomain.vip:80/live.ts?channelId=1750&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/dm-sat-logo.png",DM_SAT
-http://client.nodomain.vip:80/live.ts?channelId=43&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://lh3.googleusercontent.com/tfNjE2fNDWF6EnCkXNpfXbLOYiDFgl0T0ybnMV3uVyXQxFG49qs4woYiqtYPg0kQOtYO",DUGA_TV
-http://client.nodomain.vip:80/live.ts?channelId=226&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://sviraradio.com/logo/134-radio-glas-drine.jpg",GLAS DRINE
-http://client.nodomain.vip:80/live.ts?channelId=1453&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/01/19/grand_384x216.png",GRAND TV
-http://client.nodomain.vip:80/live.ts?channelId=95&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/59/01/grand_2_384x216.png",GRAND_TV_2
-http://client.nodomain.vip:80/live.ts?channelId=493&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hayatfolk_logo.png",HAYAT FOLK
-http://client.nodomain.vip:80/live.ts?channelId=149&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/51/07/idj_tv_hd_384x216.png",IDJ_TV
-http://client.nodomain.vip:80/live.ts?channelId=485&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/IzvornaTV_logo.png",IZVORNA TV
-http://client.nodomain.vip:80/live.ts?channelId=295&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/jugoton-tv-logo.png",JUGOTON TV
-http://client.nodomain.vip:80/live.ts?channelId=542&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kcn1-logo.png",KCN
-http://client.nodomain.vip:80/live.ts?channelId=338&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/19/mtv_384x216.png",MTV
-http://client.nodomain.vip:80/live.ts?channelId=85&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/29/mtv_hits_384x216.png",MTV HITS
-http://client.nodomain.vip:80/live.ts?channelId=595&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_base_fr.jpg",MTV BASE
-http://client.nodomain.vip:80/live.ts?channelId=1881&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_classic_uk.jpg",MTV CLASSIC
-http://client.nodomain.vip:80/live.ts?channelId=1882&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_dance_uk.jpg",MTV DANCE
-http://client.nodomain.vip:80/live.ts?channelId=1883&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/narodni/10690-6-cro-HR/narodni_tvchannel_list.png",NARODNA TV
-http://client.nodomain.vip:80/live.ts?channelId=1432&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/otv-valentino-logo.png",OTV
-http://client.nodomain.vip:80/live.ts?channelId=269&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="/noicon.png",OTV FOLK
-http://client.nodomain.vip:80/live.ts?channelId=1885&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="/noicon.png",OTV ETNO
-http://client.nodomain.vip:80/live.ts?channelId=1886&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="/noicon.png",PRVA HERCEGOVACKA
-http://client.nodomain.vip:80/live.ts?channelId=1884&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkFolk1_logo.png",PINK FOLK 1
-http://client.nodomain.vip:80/live.ts?channelId=349&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkFolk2_logo.png",PINK FOLK 2
-http://client.nodomain.vip:80/live.ts?channelId=148&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/08/29/17/37/41/posavina_tv_384x216.png",POSAVINA TV
-http://client.nodomain.vip:80/live.ts?channelId=309&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Muzika_logo.png",RTS_MUZIKA
-http://client.nodomain.vip:80/live.ts?channelId=1495&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="/noicon.png",TOP_SOUND
-http://client.nodomain.vip:80/live.ts?channelId=1587&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/22/vh1_384x216.png",VH1
-http://client.nodomain.vip:80/live.ts?channelId=594&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="MUZIKA & ZABAVA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/33/vh1_classic_384x216.png",VH1 CLASSIC
-http://client.nodomain.vip:80/live.ts?channelId=1781&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",█▀▄▀▄▀KIDS ▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1128&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS
-http://client.nodomain.vip:80/live.ts?channelId=125&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS MIX 1
-http://client.nodomain.vip:80/live.ts?channelId=282&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",KIDS MIX 2
-http://client.nodomain.vip:80/live.ts?channelId=283&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/04/boomerang_384x216.png",BOOMERANG
-http://client.nodomain.vip:80/live.ts?channelId=1169&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hayatovci-logo.png",HAYATOVCI
-http://client.nodomain.vip:80/live.ts?channelId=109&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",IDJ KIDS
-http://client.nodomain.vip:80/live.ts?channelId=1868&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MAXCRO SELECT KIDS HD
-http://client.nodomain.vip:80/live.ts?channelId=1670&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MAXCRO SELECT KIDS 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1671&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",MASA I MEDO
-http://client.nodomain.vip:80/live.ts?channelId=1386&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/53/53/minimax_384x216.png",MINIMAX
-http://client.nodomain.vip:80/live.ts?channelId=1168&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/06/nick_jr_384x216.png",NICK JR
-http://client.nodomain.vip:80/live.ts?channelId=358&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2018/04/16/14/06/39/384x216.png",NICKELODEON
-http://client.nodomain.vip:80/live.ts?channelId=94&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",PEPPA PIG
-http://client.nodomain.vip:80/live.ts?channelId=1869&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/12/01/18/38/39/pikaboo_384x216.png",PIKABOO
-http://client.nodomain.vip:80/live.ts?channelId=1393&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",TOM AND DZERY 24h
-http://client.nodomain.vip:80/live.ts?channelId=305&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="KIDS" tvg-logo="/noicon.png",VAWOM TV
-http://client.nodomain.vip:80/live.ts?channelId=1467&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",█▀▄▀▄▀FILM & SERIJE ▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1117&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",ANDRIJA I ANDJELKA 24H
-http://client.nodomain.vip:80/live.ts?channelId=1867&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",LUD ZBUNJEN NORMALAN 24H
-http://client.nodomain.vip:80/live.ts?channelId=1866&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FILMSKI MARATON
-http://client.nodomain.vip:80/live.ts?channelId=1870&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=1248&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1249&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 3 HD
-http://client.nodomain.vip:80/live.ts?channelId=1250&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 4 HD
-http://client.nodomain.vip:80/live.ts?channelId=1251&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 5 HD
-http://client.nodomain.vip:80/live.ts?channelId=1252&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 6 HD
-http://client.nodomain.vip:80/live.ts?channelId=1253&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 7 HD
-http://client.nodomain.vip:80/live.ts?channelId=1254&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 8 HD
-http://client.nodomain.vip:80/live.ts?channelId=1255&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 9 HD
-http://client.nodomain.vip:80/live.ts?channelId=1256&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 10 HD
-http://client.nodomain.vip:80/live.ts?channelId=1257&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",MAXCRO SELECT 11 HD
-http://client.nodomain.vip:80/live.ts?channelId=1669&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",AMC
-http://client.nodomain.vip:80/live.ts?channelId=611&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",AXN
-http://client.nodomain.vip:80/live.ts?channelId=122&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",AXN SPIN
-http://client.nodomain.vip:80/live.ts?channelId=612&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/logos_tv1.svg",CINESTAR TV
-http://client.nodomain.vip:80/live.ts?channelId=224&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/logos_tv2.svg",CINESTAR TV 2
-http://client.nodomain.vip:80/live.ts?channelId=1814&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/action.svg",CINESTAR ACTION
-http://client.nodomain.vip:80/live.ts?channelId=268&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-comedy.svg",CINESTAR COMEDY
-http://client.nodomain.vip:80/live.ts?channelId=1805&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-fantasy.svg",CINESTAR FANTASY
-http://client.nodomain.vip:80/live.ts?channelId=607&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-premiere1.svg",CINESTAR PREMIERE 1
-http://client.nodomain.vip:80/live.ts?channelId=12&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-premiere2.svg",CINESTAR PREMIERE 2
-http://client.nodomain.vip:80/live.ts?channelId=13&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",CINEMAX 1
-http://client.nodomain.vip:80/live.ts?channelId=14&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",CINEMAX 2
-http://client.nodomain.vip:80/live.ts?channelId=15&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",DIVA TV
-http://client.nodomain.vip:80/live.ts?channelId=1405&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",EPIC DRAMA
-http://client.nodomain.vip:80/live.ts?channelId=1402&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FILMBOX EXTRA
-http://client.nodomain.vip:80/live.ts?channelId=586&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FILMBOX STARS
-http://client.nodomain.vip:80/live.ts?channelId=525&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FILMBOX PREMIUM
-http://client.nodomain.vip:80/live.ts?channelId=1445&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FILM KLUB
-http://client.nodomain.vip:80/live.ts?channelId=1845&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png",HBO
-http://client.nodomain.vip:80/live.ts?channelId=44&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png",HBO 2
-http://client.nodomain.vip:80/live.ts?channelId=16&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo3_ce.png",HBO 3
-http://client.nodomain.vip:80/live.ts?channelId=73&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",KINO TV
-http://client.nodomain.vip:80/live.ts?channelId=608&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",M1 GOLD
-http://client.nodomain.vip:80/live.ts?channelId=1593&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",M1 FILM
-http://client.nodomain.vip:80/live.ts?channelId=379&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",SCI FI
-http://client.nodomain.vip:80/live.ts?channelId=609&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",TV_1000
-http://client.nodomain.vip:80/live.ts?channelId=480&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FOX
-http://client.nodomain.vip:80/live.ts?channelId=17&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FOX LIFE
-http://client.nodomain.vip:80/live.ts?channelId=19&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FOX CRIME
-http://client.nodomain.vip:80/live.ts?channelId=18&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",FOX MOVIES
-http://client.nodomain.vip:80/live.ts?channelId=111&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="/noicon.png",PICKBOX TV
-http://client.nodomain.vip:80/live.ts?channelId=1211&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="FILM & SERIJE" tvg-logo="https://superstartv.rs/wp-content/uploads/2019/03/superstar-tv-logo.png",SUPER STAR TV
-http://client.nodomain.vip:80/live.ts?channelId=1503&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",█▀▄▀▄▀SPORT ▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1120&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/nova_sport.png",NOVA TV SPORT
-http://client.nodomain.vip:80/live.ts?channelId=1780&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_1.png",PLANET SPORT 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=1335&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_2.png",PLANET_SPORT_2_HD
-http://client.nodomain.vip:80/live.ts?channelId=1341&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_3.png",PLANET_SPORT_3_HD
-http://client.nodomain.vip:80/live.ts?channelId=1351&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_4.png",PLANET_SPORT_4_HD
-http://client.nodomain.vip:80/live.ts?channelId=1387&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_5.png",PLANET_SPORT_5_HD
-http://client.nodomain.vip:80/live.ts?channelId=1388&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png",ARENA HD 1 HR
-http://client.nodomain.vip:80/live.ts?channelId=20&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png",ARENA HD 2 HR
-http://client.nodomain.vip:80/live.ts?channelId=21&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena3_logo.png",ARENA HD 3 HR
-http://client.nodomain.vip:80/live.ts?channelId=22&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena4_logo.png",ARENA HD 4 HR
-http://client.nodomain.vip:80/live.ts?channelId=23&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena5_logo.png",ARENA HD 5 HR
-http://client.nodomain.vip:80/live.ts?channelId=123&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena6_logo.png",ARENA HD 6 HR
-http://client.nodomain.vip:80/live.ts?channelId=464&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png",ARENA FHD 1 HR
-http://client.nodomain.vip:80/live.ts?channelId=1858&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png",ARENA FHD 2 HR
-http://client.nodomain.vip:80/live.ts?channelId=1859&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena3_logo.png",ARENA FHD 3 HR
-http://client.nodomain.vip:80/live.ts?channelId=1860&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena4_logo.png",ARENA FHD 4 HR
-http://client.nodomain.vip:80/live.ts?channelId=1861&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena5_logo.png",ARENA FHD 5 HR
-http://client.nodomain.vip:80/live.ts?channelId=1862&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png",ARENA_1_SRB
-http://client.nodomain.vip:80/live.ts?channelId=100&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png",ARENA_2_SRB
-http://client.nodomain.vip:80/live.ts?channelId=101&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png",ARENA_3_SRB
-http://client.nodomain.vip:80/live.ts?channelId=102&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png",ARENA_4_SRB
-http://client.nodomain.vip:80/live.ts?channelId=35&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena5.png",ARENA_5_SRB
-http://client.nodomain.vip:80/live.ts?channelId=121&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",ARENA 1 HD BIH
-http://client.nodomain.vip:80/live.ts?channelId=1873&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png",ARENA 1 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1336&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png",ARENA 2 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1337&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png",ARENA 3 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1338&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png",ARENA 4 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1339&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 1 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1613&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 2 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1614&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 3 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1615&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 4 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1616&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 5 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1617&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 6 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1618&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 7 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1619&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 8 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1620&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 9 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1621&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 10 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1622&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 11 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1623&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 12 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1624&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 13 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1625&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 14 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1626&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 15 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1627&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",BEIN SPORTS 16 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1628&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2015_logo.png",EUROSPORT
-http://client.nodomain.vip:80/live.ts?channelId=128&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2_2015_logo.png",EUROSPORT 2
-http://client.nodomain.vip:80/live.ts?channelId=129&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/fight-channel-logo.png",FIGHT CHANNEL
-http://client.nodomain.vip:80/live.ts?channelId=1674&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hntv_logo.png",HNTV
-http://client.nodomain.vip:80/live.ts?channelId=481&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://www.mnesport.tv/images/mnesport-logoN.png",MNE SPORT 1 CG
-http://client.nodomain.vip:80/live.ts?channelId=1856&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://static.sport1.ba/media/article/110587/large/za_moja_tv_bh_phone_slika.jpg",MOJA TV PREMIJER LIGA BH
-http://client.nodomain.vip:80/live.ts?channelId=1675&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",ZVEZDA TV
-http://client.nodomain.vip:80/live.ts?channelId=1888&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD1.png",BEIN SPORTS 1 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1676&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein_sports_2.png",BEIN SPORTS 2 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1677&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD3.png",BEIN SPORTS 3 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1678&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD4.png",BEIN SPORTS 4 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1679&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD1.png",BEIN SPORTS 1 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=1680&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein_sports_2.png",BEIN SPORTS 2 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=1681&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD3.png",BEIN SPORTS 3 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=1682&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD4.png",BEIN SPORTS 4 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=1683&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Canal_Sport_logo.png",CANAL+ SPORT FR
-http://client.nodomain.vip:80/live.ts?channelId=1684&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NBA_TV.png",NBA TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1685&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-1-150.png",EUROSPORT 1 DE
-http://client.nodomain.vip:80/live.ts?channelId=1686&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-2-151.png",EUROSPORT 2 DE
-http://client.nodomain.vip:80/live.ts?channelId=1687&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-eurosport-2-xtra-785.png",EUROSPORT 2 XTRA DE
-http://client.nodomain.vip:80/live.ts?channelId=1688&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-orf-sport-163.png",ORF SPORT +
-http://client.nodomain.vip:80/live.ts?channelId=1742&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-sport1-166.png",SPORT 1 DE
-http://client.nodomain.vip:80/live.ts?channelId=1689&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",AUTO MOTOR SPORT DE
-http://client.nodomain.vip:80/live.ts?channelId=1690&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",FC BAYERN HD DE
-http://client.nodomain.vip:80/live.ts?channelId=1691&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sport-1-tvlogo.png",BT SPORT 1
-http://client.nodomain.vip:80/live.ts?channelId=1694&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sport-2-tvlogo.png",BT SPORT 2
-http://client.nodomain.vip:80/live.ts?channelId=1695&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sport-3-tvlogo.png",BT SPORT 3
-http://client.nodomain.vip:80/live.ts?channelId=1696&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sportespn-tvlogo.png",BT SPORT ESPN
-http://client.nodomain.vip:80/live.ts?channelId=1697&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/eir-sport-1-tvlogo.png",EIR SPORT 1
-http://client.nodomain.vip:80/live.ts?channelId=1698&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/8f188e3ed58a1e3b131f4eb9870c3fcf.png",EIR SPORT 2
-http://client.nodomain.vip:80/live.ts?channelId=1699&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png",ELEVEN SPORT 1 PL
-http://client.nodomain.vip:80/live.ts?channelId=1700&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",ELEVEN SPORT 2 PL
-http://client.nodomain.vip:80/live.ts?channelId=1701&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-us-espn-29.png",ESPN US
-http://client.nodomain.vip:80/live.ts?channelId=1703&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",LIVERPOOL FC TV UK
-http://client.nodomain.vip:80/live.ts?channelId=1704&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",PREMIER SPORTS UK
-http://client.nodomain.vip:80/live.ts?channelId=1800&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",PREMIER SPORTS 2 UK
-http://client.nodomain.vip:80/live.ts?channelId=1818&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai-sport1-loho.png",RAI SPORT 1
-http://client.nodomain.vip:80/live.ts?channelId=1717&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",DIGI SPORT 1 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1832&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",DIGI SPORT 2 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1831&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",DIGI SPORT 3 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1833&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",DIGI SPORT 4 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1834&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",FOX SPORTS 1
-http://client.nodomain.vip:80/live.ts?channelId=1721&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",FOX SPORTS 2
-http://client.nodomain.vip:80/live.ts?channelId=1722&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",FOX SPORTS 3
-http://client.nodomain.vip:80/live.ts?channelId=1723&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",FOX SPORTS 4
-http://client.nodomain.vip:80/live.ts?channelId=1724&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-c-more-fotboll-482.png",C MORE FOTBALL SE
-http://client.nodomain.vip:80/live.ts?channelId=1725&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-c-more-golf-481.png",C MORE GOLF SE
-http://client.nodomain.vip:80/live.ts?channelId=1726&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/c-more-hockey_logo.png",C MORE HOCKEY SE
-http://client.nodomain.vip:80/live.ts?channelId=1727&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-c-more-sport-480.png",C MORE SPORT SE
-http://client.nodomain.vip:80/live.ts?channelId=1728&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",C MORE LIVE 1
-http://client.nodomain.vip:80/live.ts?channelId=1840&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",C MORE LIVE 2
-http://client.nodomain.vip:80/live.ts?channelId=1841&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",C MORE LIVE 3
-http://client.nodomain.vip:80/live.ts?channelId=1842&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",C MORE LIVE 4
-http://client.nodomain.vip:80/live.ts?channelId=1843&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",C MORE LIVE 5
-http://client.nodomain.vip:80/live.ts?channelId=1844&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-viasat-sport-extra-1918.png",TV3 SPORT SE
-http://client.nodomain.vip:80/live.ts?channelId=1731&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-viasat-fotball-494.png",VIASAT FOTBOLL SE
-http://client.nodomain.vip:80/live.ts?channelId=1732&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-golf-488.png",VIASAT GOLF SE
-http://client.nodomain.vip:80/live.ts?channelId=1733&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-motor-487.png",VIASAT MOTOR SE
-http://client.nodomain.vip:80/live.ts?channelId=1735&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-sport-533.png",VIASAT SPORT SE
-http://client.nodomain.vip:80/live.ts?channelId=1736&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-sport-premium-493.png",VIASAT SPORT PREMIUM SE
-http://client.nodomain.vip:80/live.ts?channelId=1737&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",SUPER SPORT 1 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1738&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",SUPER SPORT 2 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1739&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",SUPER SPORT 3 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1740&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
-#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",SUPER SPORT 4 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1741&uid=33688&deviceUser=27josipbar5n&devicePass=27baris3nb
+#EXTINF:-1 ,EX-YU : SPORT KLUB 1 HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156454
+#EXTINF:-1 ,EX-YU : SPORT KLUB 2 HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156453
+#EXTINF:-1 ,EX-YU : SPORT KLUB 3 HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156452
+#EXTINF:-1 ,EX-YU: Arena Sport 1 HR FULL HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156451
+#EXTINF:-1 ,EX-YU: Arena Sport 1 SRB HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156450
+#EXTINF:-1 ,EX-YU: Arena Sport 2 HR FULL HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156449
+#EXTINF:-1 ,EX-YU: Arena Sport 2 SRB HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156448
+#EXTINF:-1 ,EX-YU: Arena Sport 3 HR FULL HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156447
+#EXTINF:-1 ,EX-YU: Arena Sport 3 SRB HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156446
+#EXTINF:-1 ,EX-YU: Arena Sport 4 HR FULL HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156445
+#EXTINF:-1 ,EX-YU: Arena Sport 4 SRB HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156444
+#EXTINF:-1 ,EX-YU: Arena Sport 5 HR FULL HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156443
+#EXTINF:-1 ,EX-YU: Arena Sport 5 SRB
+http://amy2.dynns.com:80/amy2_5002a8/445212/156442
+#EXTINF:-1 ,EX-YU: Sport Klub 1 HR
+http://amy2.dynns.com:80/amy2_5002a8/445212/156440
+#EXTINF:-1 ,EX-YU: Sport Klub 2 HR
+http://amy2.dynns.com:80/amy2_5002a8/445212/156439
+#EXTINF:-1 ,EX-YU: Sport Klub 3 HR
+http://amy2.dynns.com:80/amy2_5002a8/445212/156438
+#EXTINF:-1 ,EX-YU: SPORT KLUB 5
+http://amy2.dynns.com:80/amy2_5002a8/445212/156437
+#EXTINF:-1 ,EX-YU: SPORT KLUB 6
+http://amy2.dynns.com:80/amy2_5002a8/445212/156436
+#EXTINF:-1 ,Ex-Yu:Sport Klub 6
+http://amy2.dynns.com:80/amy2_5002a8/445212/156435
+#EXTINF:-1 ,EX-YU: Sport Klub 7
+http://amy2.dynns.com:80/amy2_5002a8/445212/156434
+#EXTINF:-1 ,EX-YU: Sport Klub 8
+http://amy2.dynns.com:80/amy2_5002a8/445212/156433
+#EXTINF:-1 ,EX-YU: Sport Klub 10
+http://amy2.dynns.com:80/amy2_5002a8/445212/156432
+#EXTINF:-1 ,EX-YU: Sport Klub GOLF
+http://amy2.dynns.com:80/amy2_5002a8/445212/156431
+#EXTINF:-1 ,EX-YU: Planet sport 1 HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156430
+#EXTINF:-1 ,EX-YU: PLANET SPORT 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/156429
+#EXTINF:-1 ,EX-YU: Planet Sport 3 HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/156428
+#EXTINF:-1 ,EX-YU: Jugoton TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158990
+#EXTINF:-1 ,EX-YU: OBN
+http://amy2.dynns.com:80/amy2_5002a8/445212/158989
+#EXTINF:-1 ,EX-YU: N1 BiH
+http://amy2.dynns.com:80/amy2_5002a8/445212/158988
+#EXTINF:-1 ,EX-YU: BHT
+http://amy2.dynns.com:80/amy2_5002a8/445212/158987
+#EXTINF:-1 ,EX-YU: BN
+http://amy2.dynns.com:80/amy2_5002a8/445212/158986
+#EXTINF:-1 ,EX-YU: BHT 1
+http://amy2.dynns.com:80/amy2_5002a8/445212/158985
+#EXTINF:-1 ,EX-YU: RTRS
+http://amy2.dynns.com:80/amy2_5002a8/445212/158984
+#EXTINF:-1 ,EX-YU: NOVA BH
+http://amy2.dynns.com:80/amy2_5002a8/445212/158983
+#EXTINF:-1 ,EX-YU: B1 HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158982
+#EXTINF:-1 ,EX-YU: RTV SLON
+http://amy2.dynns.com:80/amy2_5002a8/445212/158981
+#EXTINF:-1 ,EX-YU: TK Tuzla
+http://amy2.dynns.com:80/amy2_5002a8/445212/158979
+#EXTINF:-1 ,EX-YU: TVSA Sarajevo
+http://amy2.dynns.com:80/amy2_5002a8/445212/158978
+#EXTINF:-1 ,EX-YU: ALFA TV BH
+http://amy2.dynns.com:80/amy2_5002a8/445212/158977
+#EXTINF:-1 ,EX-YU: A TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158976
+#EXTINF:-1 ,EX-YU: ALFA TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158975
+#EXTINF:-1 ,EX-YU: O KANAL
+http://amy2.dynns.com:80/amy2_5002a8/445212/158974
+#EXTINF:-1 ,EX-YU: RTV USK
+http://amy2.dynns.com:80/amy2_5002a8/445212/158973
+#EXTINF:-1 ,EX-YU: Hayat HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158972
+#EXTINF:-1 ,EX-YU: HAYAT PLUS
+http://amy2.dynns.com:80/amy2_5002a8/445212/158971
+#EXTINF:-1 ,EX-YU: Federalna TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158970
+#EXTINF:-1 ,EX-YU: FACE TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158969
+#EXTINF:-1 ,EX-YU: HEMA TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158968
+#EXTINF:-1 ,EX-YU: TV 5
+http://amy2.dynns.com:80/amy2_5002a8/445212/158967
+#EXTINF:-1 ,EX-YU: MTV Igman
+http://amy2.dynns.com:80/amy2_5002a8/445212/158966
+#EXTINF:-1 ,EX-YU: Sandzak TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158965
+#EXTINF:-1 ,EX-YU: CITY TV MOSTAR
+http://amy2.dynns.com:80/amy2_5002a8/445212/158964
+#EXTINF:-1 ,EX-YU: NTV IC
+http://amy2.dynns.com:80/amy2_5002a8/445212/158963
+#EXTINF:-1 ,EX-YU: RTV Zenica
+http://amy2.dynns.com:80/amy2_5002a8/445212/158962
+#EXTINF:-1 ,EX-YU: PODRINJE
+http://amy2.dynns.com:80/amy2_5002a8/445212/158961
+#EXTINF:-1 ,EX-YU: TV Sehara
+http://amy2.dynns.com:80/amy2_5002a8/445212/158960
+#EXTINF:-1 ,EX-YU: TV Glas Drine
+http://amy2.dynns.com:80/amy2_5002a8/445212/158959
+#EXTINF:-1 ,EX-YU: Otv Valentino
+http://amy2.dynns.com:80/amy2_5002a8/445212/158958
+#EXTINF:-1 ,EX-YU: Posavina TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158957
+#EXTINF:-1 ,EX-YU: Hayat Folk
+http://amy2.dynns.com:80/amy2_5002a8/445212/158956
+#EXTINF:-1 ,EX-YU: HAYAT MUSIC
+http://amy2.dynns.com:80/amy2_5002a8/445212/158955
+#EXTINF:-1 ,EX-YU: BN Music
+http://amy2.dynns.com:80/amy2_5002a8/445212/158954
+#EXTINF:-1 ,EX-YU: SEVDAH TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158953
+#EXTINF:-1 ,EX-YU: TNT KIDS
+http://amy2.dynns.com:80/amy2_5002a8/445212/158952
+#EXTINF:-1 ,EX-YU: Hayatovci
+http://amy2.dynns.com:80/amy2_5002a8/445212/158951
+#EXTINF:-1 ,EX-YU: N1 SRB
+http://amy2.dynns.com:80/amy2_5002a8/445212/158950
+#EXTINF:-1 ,EX-YU: RTS 1
+http://amy2.dynns.com:80/amy2_5002a8/445212/158949
+#EXTINF:-1 ,EX-YU: RTS 1 (local)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158948
+#EXTINF:-1 ,EX-YU: RTS 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158947
+#EXTINF:-1 ,EX-YU: RTS 2 (local)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158946
+#EXTINF:-1 ,EX-YU: RTS 3
+http://amy2.dynns.com:80/amy2_5002a8/445212/158945
+#EXTINF:-1 ,EX-YU: RTS Drama
+http://amy2.dynns.com:80/amy2_5002a8/445212/158944
+#EXTINF:-1 ,EX-YU: RTS Kolo
+http://amy2.dynns.com:80/amy2_5002a8/445212/158943
+#EXTINF:-1 ,EX-YU: RTS Muzika
+http://amy2.dynns.com:80/amy2_5002a8/445212/158942
+#EXTINF:-1 ,EX-YU: RTS Satelit
+http://amy2.dynns.com:80/amy2_5002a8/445212/158941
+#EXTINF:-1 ,EX-YU: RTCG 1
+http://amy2.dynns.com:80/amy2_5002a8/445212/158940
+#EXTINF:-1 ,EX-YU: RTCG 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158939
+#EXTINF:-1 ,EX-YU: RTCG SAT
+http://amy2.dynns.com:80/amy2_5002a8/445212/158938
+#EXTINF:-1 ,EX-YU: RTL
+http://amy2.dynns.com:80/amy2_5002a8/445212/158937
+#EXTINF:-1 ,EX-YU: RTL 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158936
+#EXTINF:-1 ,EX-YU: PRVA
+http://amy2.dynns.com:80/amy2_5002a8/445212/158935
+#EXTINF:-1 ,EX-YU: PRVA (local)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158934
+#EXTINF:-1 ,EX-YU: PRVA FILES
+http://amy2.dynns.com:80/amy2_5002a8/445212/158933
+#EXTINF:-1 ,EX-YU: Prva Kick
+http://amy2.dynns.com:80/amy2_5002a8/445212/158932
+#EXTINF:-1 ,EX-YU: Prva MAX
+http://amy2.dynns.com:80/amy2_5002a8/445212/158931
+#EXTINF:-1 ,EX-YU: PRVA Plus
+http://amy2.dynns.com:80/amy2_5002a8/445212/158930
+#EXTINF:-1 ,EX-YU: Prva TV Montenegro
+http://amy2.dynns.com:80/amy2_5002a8/445212/158929
+#EXTINF:-1 ,EX-YU: PRVA World TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158928
+#EXTINF:-1 ,EX-YU: NOVA M
+http://amy2.dynns.com:80/amy2_5002a8/445212/158927
+#EXTINF:-1 ,EX-YU: Nova RS
+http://amy2.dynns.com:80/amy2_5002a8/445212/158926
+#EXTINF:-1 ,EX-YU: NOVA S HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158925
+#EXTINF:-1 ,EX-YU: ZADRUGA 1
+http://amy2.dynns.com:80/amy2_5002a8/445212/158924
+#EXTINF:-1 ,EX-YU: ZADRUGA 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158923
+#EXTINF:-1 ,EX-YU: ZADRUGA 3
+http://amy2.dynns.com:80/amy2_5002a8/445212/158922
+#EXTINF:-1 ,EX-YU: HIT BRCKO
+http://amy2.dynns.com:80/amy2_5002a8/445212/158921
+#EXTINF:-1 ,EX-YU: 24 KITCHEN
+http://amy2.dynns.com:80/amy2_5002a8/445212/158920
+#EXTINF:-1 ,EX-YU: ANIMAL PLANET
+http://amy2.dynns.com:80/amy2_5002a8/445212/158919
+#EXTINF:-1 ,EX-YU: A1 BALKAN
+http://amy2.dynns.com:80/amy2_5002a8/445212/158918
+#EXTINF:-1 ,EX-YU: BALKANIKA
+http://amy2.dynns.com:80/amy2_5002a8/445212/158872
+#EXTINF:-1 ,EX-YU: Cinemania
+http://amy2.dynns.com:80/amy2_5002a8/445212/158871
+#EXTINF:-1 ,EX-YU: Crime & Investigation
+http://amy2.dynns.com:80/amy2_5002a8/445212/158870
+#EXTINF:-1 ,EX-YU: Da Vinci Learning
+http://amy2.dynns.com:80/amy2_5002a8/445212/158869
+#EXTINF:-1 ,EX-YU: Discovery Science HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158868
+#EXTINF:-1 ,EX-YU: DM Sat
+http://amy2.dynns.com:80/amy2_5002a8/445212/158867
+#EXTINF:-1 ,EX-YU: Docubox
+http://amy2.dynns.com:80/amy2_5002a8/445212/158866
+#EXTINF:-1 ,EX-YU: E!
+http://amy2.dynns.com:80/amy2_5002a8/445212/158865
+#EXTINF:-1 ,EX-YU: Eurosport 1
+http://amy2.dynns.com:80/amy2_5002a8/445212/158864
+#EXTINF:-1 ,EX-YU: Eurosport 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158863
+#EXTINF:-1 ,EX-YU: Fightbox
+http://amy2.dynns.com:80/amy2_5002a8/445212/158862
+#EXTINF:-1 ,EX-YU: Filmbox HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158861
+#EXTINF:-1 ,EX-YU: Fox Crime HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158860
+#EXTINF:-1 ,EX-YU: FOX HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158859
+#EXTINF:-1 ,EX-YU: Fox Life HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158858
+#EXTINF:-1 ,EX-YU: Fox Movies HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158857
+#EXTINF:-1 ,EX-YU: Fox Movies HD (HR SUB)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158856
+#EXTINF:-1 ,EX-YU: Grand TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158855
+#EXTINF:-1 ,EX-YU: Happy (local)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158854
+#EXTINF:-1 ,EX-YU: Happy Parovi 24/7
+http://amy2.dynns.com:80/amy2_5002a8/445212/158853
+#EXTINF:-1 ,EX-YU: HBO (HD)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158852
+#EXTINF:-1 ,EX-YU: HBO 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158851
+#EXTINF:-1 ,EX-YU: HBO 2 (HD)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158850
+#EXTINF:-1 ,EX-YU: HBO 2 (HD).
+http://amy2.dynns.com:80/amy2_5002a8/445212/158849
+#EXTINF:-1 ,EX-YU: HBO 3
+http://amy2.dynns.com:80/amy2_5002a8/445212/158848
+#EXTINF:-1 ,EX-YU: History 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158847
+#EXTINF:-1 ,EX-YU: HISTORY CHANNEL
+http://amy2.dynns.com:80/amy2_5002a8/445212/158846
+#EXTINF:-1 ,EX-YU: IDJ TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158845
+#EXTINF:-1 ,EX-YU: Izvorna TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158844
+#EXTINF:-1 ,EX-YU: KCN 1
+http://amy2.dynns.com:80/amy2_5002a8/445212/158843
+#EXTINF:-1 ,EX-YU: KCN 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158842
+#EXTINF:-1 ,EX-YU: KCN 3
+http://amy2.dynns.com:80/amy2_5002a8/445212/158841
+#EXTINF:-1 ,EX-YU: Kino TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158840
+#EXTINF:-1 ,EX-YU: KLASIK TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158839
+#EXTINF:-1 ,EX-YU: LOV I RIBOLOV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158838
+#EXTINF:-1 ,EX-YU: M1 Film
+http://amy2.dynns.com:80/amy2_5002a8/445212/158837
+#EXTINF:-1 ,EX-YU: M1 Gold
+http://amy2.dynns.com:80/amy2_5002a8/445212/158836
+#EXTINF:-1 ,EX-YU: Mini TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158835
+#EXTINF:-1 ,EX-YU: Mini TV HR
+http://amy2.dynns.com:80/amy2_5002a8/445212/158834
+#EXTINF:-1 ,EX-YU: Minimax
+http://amy2.dynns.com:80/amy2_5002a8/445212/158833
+#EXTINF:-1 ,EX-YU: NASA TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158832
+#EXTINF:-1 ,EX-YU: NAT GEO WILD HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158831
+#EXTINF:-1 ,EX-YU: National Geographic
+http://amy2.dynns.com:80/amy2_5002a8/445212/158830
+#EXTINF:-1 ,EX-YU: NATIONAL GEOGRAPHIC HD (HR)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158829
+#EXTINF:-1 ,EX-YU: O2 (local)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158828
+#EXTINF:-1 ,EX-YU: PAROVI 24 SATA
+http://amy2.dynns.com:80/amy2_5002a8/445212/158827
+#EXTINF:-1 ,EX-YU: Partizan HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158826
+#EXTINF:-1 ,EX-YU: Pikaboo
+http://amy2.dynns.com:80/amy2_5002a8/445212/158825
+#EXTINF:-1 ,EX-YU: Pink
+http://amy2.dynns.com:80/amy2_5002a8/445212/158824
+#EXTINF:-1 ,EX-YU: PINK 1 (reserve)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158823
+#EXTINF:-1 ,EX-YU: PINK2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158822
+#EXTINF:-1 ,EX-YU: PINK 3
+http://amy2.dynns.com:80/amy2_5002a8/445212/158821
+#EXTINF:-1 ,EX-YU: Pink M
+http://amy2.dynns.com:80/amy2_5002a8/445212/158820
+#EXTINF:-1 ,EX-YU: Pink Action
+http://amy2.dynns.com:80/amy2_5002a8/445212/158819
+#EXTINF:-1 ,EX-YU: Pink Classic
+http://amy2.dynns.com:80/amy2_5002a8/445212/158818
+#EXTINF:-1 ,EX-YU: Pink Comedy
+http://amy2.dynns.com:80/amy2_5002a8/445212/158817
+#EXTINF:-1 ,EX-YU: Pink Crime & Mystery
+http://amy2.dynns.com:80/amy2_5002a8/445212/158816
+#EXTINF:-1 ,EX-YU: Pink Extra
+http://amy2.dynns.com:80/amy2_5002a8/445212/158815
+#EXTINF:-1 ,EX-YU: Pink Family
+http://amy2.dynns.com:80/amy2_5002a8/445212/158814
+#EXTINF:-1 ,EX-YU: Pink Film
+http://amy2.dynns.com:80/amy2_5002a8/445212/158813
+#EXTINF:-1 ,EX-YU: Pink Folk
+http://amy2.dynns.com:80/amy2_5002a8/445212/158812
+#EXTINF:-1 ,EX-YU: Pink Folk 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158811
+#EXTINF:-1 ,EX-YU: Pink HaHa
+http://amy2.dynns.com:80/amy2_5002a8/445212/158810
+#EXTINF:-1 ,EX-YU: Pink Hits 2
+http://amy2.dynns.com:80/amy2_5002a8/445212/158809
+#EXTINF:-1 ,EX-YU: Pink Horror
+http://amy2.dynns.com:80/amy2_5002a8/445212/158808
+#EXTINF:-1 ,EX-YU: Pink Kids
+http://amy2.dynns.com:80/amy2_5002a8/445212/158807
+#EXTINF:-1 ,EX-YU: Pink Koncert
+http://amy2.dynns.com:80/amy2_5002a8/445212/158806
+#EXTINF:-1 ,EX-YU: Pink Kuvar
+http://amy2.dynns.com:80/amy2_5002a8/445212/158805
+#EXTINF:-1 ,EX-YU: Pink LoL
+http://amy2.dynns.com:80/amy2_5002a8/445212/158804
+#EXTINF:-1 ,EX-YU: PINK MEDIA BIH
+http://amy2.dynns.com:80/amy2_5002a8/445212/158803
+#EXTINF:-1 ,EX-YU: Pink Movies
+http://amy2.dynns.com:80/amy2_5002a8/445212/158802
+#EXTINF:-1 ,EX-YU: Pink Music
+http://amy2.dynns.com:80/amy2_5002a8/445212/158801
+#EXTINF:-1 ,EX-YU: Pink Pedia
+http://amy2.dynns.com:80/amy2_5002a8/445212/158800
+#EXTINF:-1 ,EX-YU: Pink Plus TV
+http://amy2.dynns.com:80/amy2_5002a8/445212/158799
+#EXTINF:-1 ,EX-YU: Pink Premium
+http://amy2.dynns.com:80/amy2_5002a8/445212/158798
+#EXTINF:-1 ,EX-YU: Pink Reality
+http://amy2.dynns.com:80/amy2_5002a8/445212/158797
+#EXTINF:-1 ,EX-YU: Pink Romance
+http://amy2.dynns.com:80/amy2_5002a8/445212/158796
+#EXTINF:-1 ,EX-YU: Pink Sci-Fi & Fantasy
+http://amy2.dynns.com:80/amy2_5002a8/445212/158795
+#EXTINF:-1 ,EX-YU: Pink Serije
+http://amy2.dynns.com:80/amy2_5002a8/445212/158794
+#EXTINF:-1 ,EX-YU: Pink Show
+http://amy2.dynns.com:80/amy2_5002a8/445212/158793
+#EXTINF:-1 ,EX-YU: Pink Soap
+http://amy2.dynns.com:80/amy2_5002a8/445212/158792
+#EXTINF:-1 ,EX-YU: Pink Super Kids
+http://amy2.dynns.com:80/amy2_5002a8/445212/158791
+#EXTINF:-1 ,EX-YU: Pink Thriller
+http://amy2.dynns.com:80/amy2_5002a8/445212/158790
+#EXTINF:-1 ,EX-YU: Pink Western
+http://amy2.dynns.com:80/amy2_5002a8/445212/158789
+#EXTINF:-1 ,EX-YU: Pink World
+http://amy2.dynns.com:80/amy2_5002a8/445212/158788
+#EXTINF:-1 ,EX-YU: Pink World Cinema
+http://amy2.dynns.com:80/amy2_5002a8/445212/158787
+#EXTINF:-1 ,EX-YU: Pink Zabava
+http://amy2.dynns.com:80/amy2_5002a8/445212/158786
+#EXTINF:-1 ,EX-YU: Planet Tv
+http://amy2.dynns.com:80/amy2_5002a8/445212/158785
+#EXTINF:-1 ,EX-YU: Pop Oto
+http://amy2.dynns.com:80/amy2_5002a8/445212/158784
+#EXTINF:-1 ,EX-YU: Roma Tv
+http://amy2.dynns.com:80/amy2_5002a8/445212/158783
+#EXTINF:-1 ,EX-YU: RT Vojvodina 1
+http://amy2.dynns.com:80/amy2_5002a8/445212/158782
+#EXTINF:-1 ,EX-YU: RTS Trezor
+http://amy2.dynns.com:80/amy2_5002a8/445212/158781
+#EXTINF:-1 ,EX-YU: RTS Zivot
+http://amy2.dynns.com:80/amy2_5002a8/445212/158780
+#EXTINF:-1 ,EX-YU: RTV BOR
+http://amy2.dynns.com:80/amy2_5002a8/445212/158779
+#EXTINF:-1 ,EX-YU: RTV Novi Pazar
+http://amy2.dynns.com:80/amy2_5002a8/445212/158778
+#EXTINF:-1 ,EX-YU: Sobraniski Kanal (local)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158777
+#EXTINF:-1 ,EX-YU: SOS (local)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158776
+#EXTINF:-1 ,EX-YU: Studio B
+http://amy2.dynns.com:80/amy2_5002a8/445212/158775
+#EXTINF:-1 ,EX-YU: TLC (local)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158774
+#EXTINF:-1 ,EX-YU: TV 1000
+http://amy2.dynns.com:80/amy2_5002a8/445212/158773
+#EXTINF:-1 ,EX-YU: TV Nasha  (local)
+http://amy2.dynns.com:80/amy2_5002a8/445212/158772
+#EXTINF:-1 ,EX-YU: Z1
+http://amy2.dynns.com:80/amy2_5002a8/445212/158771
+#EXTINF:-1 ,EX-YU: Nova Sport HD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158770
+#EXTINF:-1 ,EX-YU: Maxcro Select 1 FHD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158769
+#EXTINF:-1 ,EX-YU: Maxcro Select 2 FHD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158768
+#EXTINF:-1 ,EX-YU:  Maxcro Select 3 FHD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158767
+#EXTINF:-1 ,EX-YU: Maxcro Select 4 FHD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158766
+#EXTINF:-1 ,EX-YU: Maxcro Select 5 FHD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158765
+#EXTINF:-1 ,EX-YU:  Maxcro Select 6 FHD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158764
+#EXTINF:-1 ,EX-YU: Maxcro Select 8 FHD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158763
+#EXTINF:-1 ,EX-YU: Maxcro Select 9 FHD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158762
+#EXTINF:-1 ,EX-YU: Maxcro Select 10 FHD
+http://amy2.dynns.com:80/amy2_5002a8/445212/158761
+#EXTINF:-1 ,EX-YU: Pop Brio
+http://amy2.dynns.com:80/amy2_5002a8/445212/157548
+#EXTINF:-1 ,Ex-girlfriend Out Smarted For One Last Fuck!
+http://amy2.dynns.com:80/movie/amy2_5002a8/445212/124123.mkv
